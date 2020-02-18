@@ -155,5 +155,30 @@ build.df.of.color.aves <- function(file.by.sample,
       place.in.color.vector <- place.in.color.vector + 1
     }
     final.df
+    
+  #fill in df with average occurance of each color of mp, separated by group
+    color.index <- 2
+    for (color in color.vector){
+      group.index <- 1
+      for (group in group.vector){
+        temp.mp.vector <- create.vector.of.mp.values.for.group(file.by.sample, 
+                                                               file.by.mp,
+                                                               color,
+                                                               color.header,
+                                                               group, 
+                                                               group.header,
+                                                               sample.name.header.mp,
+                                                               sample.name.header.sample)
+        temp.mp.ave <- mean(temp.mp.vector)
+        final.df[group.index, color.index] <- temp.mp.ave
+        group.index <- group.index + 1
+      }
+      color.index <- color.index + 1
+    }
+final.df
 }
- 
+
+
+
+
+
