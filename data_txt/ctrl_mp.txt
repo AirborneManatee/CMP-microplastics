@@ -1,0 +1,22 @@
+ctrl_id	ctrl_batch	fib.red	fib.blu	fib.blk	fib.clr	fib.yel	fib.gry	fib.pur	prt.red	prt.blu	prt.blk	prt.clr	prt.gry	prt.wht	prt.pur	flm.gry	flm.pur	flm.blk	flm.clr	ctrl_notes
+G.CTRL.HD.1	1											1				1				SCALE
+G.CTRL.HD.2	1				2							1					3			SCALE
+G.CTRL.HD.3	1																			SCALE
+G.CTRL.HD.4	1			1																SCALE2
+G.CTRL.HD.5	1						1													SCALE2
+G.CTRL.HD.6	1			2																SCALE2
+G.CTRL.HD.7	1					1														SCALE
+G.CTRL.LB.01	2															1				
+G.CTRL.LB.02	2			1												1				
+G.CTRL.LB.03	2																			
+G.CTRL.LB.04	2		1																	
+G.CTRL.LB.05	2				1															
+G.CTRL.LB.06	2			1	1							1				2				
+G.CTRL.LB.07	2											1								
+G.CTRL.LB.08	2																			
+G.CTRL.HD.08	4				2								1	2		3				
+G.CTRL.HD.09	4						3					1				1				
+G.CTRL.HD.10	4		1				2				2									
+G.CTRL.HD.11	4		2		2							3		1	1					
+G.CTRL.HD.12	4				3			1				1	3	2				1		
+G.CTRL.HD.13	4				1			3			1	5	1				1		3	

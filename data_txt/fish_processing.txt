@@ -1,0 +1,3344 @@
+running_num	fish_id	id_date	common_name	length	id_notes
+1	G.F.BF.01.001	2/11/2019	NA	19	"destroyed, measured on fish board, ided in tap water"
+2	G.F.BF.01.002	2/11/2019	spot	18	"measured on fish board, ided in tap water"
+3	G.F.BF.01.003	2/11/2019	spot	20	"measured on fish board, ided in tap water"
+4	G.F.BF.01.004	2/11/2019	spot	18	"measured on fish board, ided in tap water"
+5	G.F.BF.01.005	2/11/2019	spot	18	"measured on fish board, ided in tap water"
+6	G.F.BF.02.001	2/11/2019	spot	19	"measured on fish board, ided in tap water"
+7	G.F.BF.02.002	2/11/2019	spot	18	"measured on fish board, ided in tap water"
+8	G.F.BF.02.003	2/11/2019	spot	20	"measured on fish board, ided in tap water"
+9	G.F.BF.02.004	2/11/2019	spot	18	"measured on fish board, ided in tap water"
+10	G.F.BF.02.005	2/11/2019	spot	18	"measured on fish board, ided in tap water"
+11	G.F.BF.03.001	2/12/2019	spot	16	
+12	G.F.BF.03.002	2/12/2019	spot	17	
+13	G.F.BF.03.003	2/12/2019	spot	17	
+14	G.F.BF.03.004	2/12/2019	spot	15	
+15	G.F.BF.03.005	2/12/2019	spot	14	
+16	G.F.BF.03.006	2/12/2019	spot	14	
+17	G.F.BF.03.007	2/12/2019	spot	17	
+18	G.F.BF.03.008	2/12/2019	spot	15	
+19	G.F.BF.03.009	2/12/2019	spot	14	
+20	G.F.BF.03.010	2/12/2019	spot	15	
+21	G.F.BF.03.011	2/12/2019	spot	13	
+22	G.F.BF.03.012	2/12/2019	spot	15	
+23	G.F.BF.03.013	2/12/2019		16	
+24	G.F.BF.03.014	2/12/2019	spot	14	
+25	G.F.BF.03.015	2/12/2019	spot	17	
+26	G.F.BF.03.016	2/12/2019	spot	13	
+27	G.F.BF.03.017	2/12/2019	spot	14	
+28	G.F.BF.03.018	2/12/2019	spot	15	
+29	G.F.BF.03.019	2/12/2019	spot	15	
+30	G.F.BF.03.020	2/12/2019	spot	16	
+31	G.F.BF.03.021	2/12/2019	spot	14	
+32	G.F.BF.03.022	2/12/2019	spot	16	destroyed
+33	G.F.BF.03.023	2/12/2019	spot	15	
+34	G.F.BF.03.024	2/12/2019	spot	15	
+35	G.F.BF.03.025	2/12/2019	spot	14	
+36	G.F.BF.03.026	2/12/2019	spot	15	
+37	G.F.BF.03.027	2/12/2019	spot	14	
+38	G.F.BF.03.028	2/12/2019	spot	15	
+39	G.F.BF.03.029	2/12/2019	spot	16	
+40	G.F.BF.03.030	2/12/2019	spot	15	
+41	G.F.MG.01.001	2/22/2019	red drum	33	
+42	G.F.MG.01.002	2/22/2019	red drum	34	
+43	G.F.MG.01.003	2/22/2019	red drum	32	
+44	G.F.MG.01.004	2/22/2019	atlantic croaker	15	
+45	G.F.MG.01.005	2/22/2019	red drum	32	
+46	G.F.MG.01.006	2/22/2019	red drum	37	
+47	G.F.MG.01.007	2/22/2019	red drum	45	
+48	G.F.MG.01.008	2/22/2019	red drum	34	
+49	G.F.MG.01.009	2/22/2019	red drum	36	
+50	G.F.MG.03.001	2/22/2019	atlantic croaker	21	
+51	G.F.MG.03.002	2/22/2019	atlantic croaker	25	
+52	G.F.MG.03.003	2/22/2019	atlantic croaker	18	
+53	G.F.MG.03.004	2/22/2019	atlantic croaker	17	
+54	G.F.MG.03.005	2/22/2019	atlantic croaker	19	
+55	G.F.MG.03.006	2/22/2019	atlantic croaker	20	
+56	G.F.MG.03.007	2/22/2019	atlantic croaker	17	
+57	G.F.MG.03.008	2/22/2019	atlantic croaker	16	
+58	G.F.MG.03.009	2/22/2019	atlantic croaker	18	
+59	G.F.MG.03.010	2/22/2019	atlantic croaker	17	
+60	G.F.MG.03.011	2/22/2019	atlantic croaker	21	
+61	G.F.MG.03.012	2/22/2019	atlantic croaker	14	
+62	G.F.MG.03.013	2/22/2019	atlantic croaker	18	
+63	G.F.MG.03.014	2/22/2019	silver seatrout	17	
+64	G.F.MG.03.015	2/22/2019	atlantic croaker	22	
+65	G.F.MG.03.016	2/22/2019	atlantic croaker	17	
+66	G.F.MG.03.017	2/22/2019	atlantic croaker	20	
+67	G.F.MG.03.018	2/22/2019	red drum	39	
+68	G.F.MG.03.019	2/22/2019	atlantic croaker	16	
+69	G.F.MG.03.020		atlantic croaker	14	
+70	G.F.MG.03.021		atlantic croaker	22	
+71	G.F.MG.03.022		atlantic croaker	18	
+72	G.F.MG.03.023		atlantic croaker	19	
+73	G.F.MG.03.024		atlantic croaker	19	
+74	G.F.MG.03.025		red drum	33	
+75	G.F.MG.03.026		atlantic croaker	21	
+76	G.F.MG.03.027		atlantic croaker	20	
+77	G.F.MG.03.028		atlantic croaker	18	
+78	G.F.MG.03.029		atlantic croaker	19	
+79	G.F.MG.02.001		atlantic croaker	21	
+80	G.F.MG.02.002		atlantic croaker	23	
+81	G.F.MG.02.003		atlantic croaker	20	
+82	G.F.MG.02.004		atlantic croaker	19	
+83	G.F.MG.02.005		atlantic croaker	20	
+84	G.F.MG.02.006		atlantic croaker	20	
+85	G.F.MG.02.007		atlantic croaker	24	
+86	G.F.MG.02.008		atlantic croaker	19	
+87	G.F.MG.02.009		atlantic croaker	21	
+88	G.F.MG.02.010		atlantic croaker	21	
+89	G.F.MG.02.011		red drum	24	
+90	G.F.MG.02.012		atlantic croaker	17	
+91	G.F.MG.02.013		atlantic croaker	17	
+92	G.F.MG.02.014		atlantic croaker	17	
+93	G.F.MG.02.015		atlantic croaker	21	
+94	G.F.MG.02.016		atlantic croaker	19	
+95	G.F.MG.02.017		atlantic croaker	19	
+96	G.F.MG.02.018		red drum	41	
+97	G.F.MG.02.019		atlantic croaker	19	
+98	G.F.MG.02.020		atlantic croaker	20	
+99	G.F.MG.02.021			23	"anal: II7, dorsal rays: 26, Polly's key doesn't seem to think this is a real species?"
+100	G.F.MG.02.022		red drum	44	
+101	G.F.MG.02.023		red drum	33	
+102	G.F.MG.02.024		red drum	36	
+103	G.F.MG.02.025		red drum	35	
+104	G.F.MG.02.026		atlantic croaker	23	
+105	G.F.MG.02.027		atlantic croaker	22	
+106	G.F.MG.02.028	2/26/2019	silver seatrout	21	"anal: II9, dorsal: XI-29, pectoral: 19"
+107	G.F.MG.02.029	2/26/2019	atlantic croaker	21	
+108	G.F.MG.02.030	2/26/2019	red drum	35	
+109	G.F.MG.02.031	2/26/2019	red drum	41	
+110	G.F.MG.02.032	2/26/2019	atlantic croaker	17	
+111	G.F.MG.02.033	2/26/2019	atlantic croaker	25	
+112	G.F.MG.02.034	2/26/2019	atlantic croaker	20	
+113	G.F.MG.02.035	2/26/2019	atlantic croaker	21	
+114	G.F.MG.02.036	2/26/2019	atlantic croaker	19	
+115	G.F.MG.02.037	2/26/2019	atlantic croaker	19	
+116	G.F.MG.02.038	2/26/2019	silver seatrout	20	"anal: II9, dorsal: XI-28"
+117	G.F.MG.02.039	2/26/2019	red drum	30	
+118	G.F.MG.02.040	2/26/2019	atlantic croaker	20	
+119	G.F.MG.02.041	2/26/2019	atlantic croaker	21	
+120	G.F.MG.02.042	2/26/2019	atlantic croaker	21	
+121	G.F.MG.02.043	2/26/2019	atlantic croaker	17	
+122	G.F.MG.02.044	2/26/2019	atlantic croaker	17	
+123	G.F.MG.02.045	2/26/2019	atlantic croaker	19	
+124	G.F.MG.02.046	2/26/2019	atlantic croaker	17	
+125	G.F.MG.02.047	2/26/2019	atlantic croaker	21	
+126	G.F.SA.03.001	2/26/2019	atlantic croaker	28	
+127	G.F.SA.03.002	2/26/2019	red drum	30	
+128	G.F.SA.03.003	2/26/2019	red drum	35	
+129	G.F.SA.03.004	2/26/2019	red drum	36	
+130	G.F.SA.03.005	2/26/2019	red drum	47	
+131	G.F.SA.03.006	2/26/2019	red drum	42	
+132	G.F.SA.03.007	2/26/2019	red drum	27	
+133	G.F.SA.03.008	2/26/2019	red drum	37	
+134	G.F.AR.01.001	3/18/2019	red drum	49	
+135	G.F.AR.01.002	3/18/2019	red drum	38	
+136	G.F.AR.01.003	3/18/2019	red drum	31	
+137	G.F.AR.01.004	3/18/2019	red drum	37	
+138	G.F.AR.01.005	3/18/2019	red drum	30	
+139	G.F.AR.01.006	3/18/2019	red drum	17	
+140	G.F.AR.01.007	3/18/2019	red drum	19	
+141	G.F.AR.01.008	3/18/2019	red drum	40	
+142	G.F.AR.01.009	3/18/2019	red drum	45	
+143	G.F.AR.01.010	3/18/2019	red drum	31	
+144	G.F.AR.01.011	3/18/2019	red drum	34	
+145	G.F.AR.01.012	3/18/2019	red drum	38	
+146	G.F.AR.01.013	3/18/2019	red drum	25	
+147	G.F.AR.01.014	3/18/2019	red drum	12	
+148	G.F.AR.01.015	3/18/2019	red drum	41	
+149	G.F.AR.01.016	3/18/2019	red drum	34	
+150	G.F.AR.01.017	3/18/2019	red drum	32	
+151	G.F.AR.02.001	3/18/2019	red drum	35	
+152	G.F.AR.02.002	3/18/2019	red drum	44	
+153	G.F.AR.02.003	3/18/2019	red drum	10	
+154	G.F.AR.03.001	3/18/2019	red drum	21	
+155	G.F.AR.03.002	3/18/2019	red drum	22	
+156	G.F.AR.03.003	3/18/2019	atlantic croaker	14	
+157	G.F.AR.03.004	3/18/2019	atlantic croaker	16	
+158	G.F.AR.03.005	3/18/2019	atlantic croaker	22	
+159	G.F.AR.03.006	3/18/2019	red drum	21	
+160	G.F.AR.03.007	3/18/2019	red drum	15	
+161	G.F.AR.03.008	3/18/2019	red drum	23	
+162	G.F.AR.03.009	3/18/2019	red drum	23	
+163	G.F.AR.03.010	3/18/2019	red drum	22	
+164	G.F.AR.03.011	3/18/2019	red drum	21	
+165	G.F.AR.03.012	3/18/2019	atlantic croaker	22	
+166	G.F.AR.03.013	3/18/2019	red drum	23	
+167	G.F.AR.03.014	3/18/2019	atlantic croaker	20	
+168	G.F.AR.03.015	3/18/2019	red drum	20	
+169	G.F.AR.03.016	3/18/2019	atlantic croaker	20	
+170	G.F.AR.03.017	3/18/2019	red drum	21	
+171	G.F.AR.03.018	3/18/2019	atlantic croaker	20	
+172	G.F.AR.03.019	3/18/2019	atlantic croaker	18	
+173	G.F.AR.03.020	3/18/2019	red drum	30	
+174	G.F.AR.03.021	3/18/2019	red drum	38	
+175	G.F.AR.03.022	3/18/2019	red drum	25	
+176	G.F.AR.03.023	3/18/2019	red drum	28	
+177	G.F.AR.03.024	3/18/2019	red drum	30	
+178	G.F.AR.03.025	3/18/2019	red drum	31	
+179	G.F.AR.03.026	3/18/2019	red drum	31	
+180	G.F.AR.03.027	3/18/2019	red drum	35	
+181	G.F.AR.03.028	3/18/2019	red drum	28	
+182	G.F.AR.03.029	3/18/2019	red drum	26	
+183	G.F.AR.03.030	3/18/2019	red drum	43	
+184	G.F.AR.03.031		red drum	29	
+185	G.F.AR.03.032		red drum	40	
+186	G.F.AR.03.033		red drum	29	
+187	G.F.AR.03.034		red drum	31	
+188	G.F.AR.03.035		red drum	34	
+189	G.F.AR.03.036		red drum	41	
+190	G.F.AR.03.037		red drum	33	
+191	G.F.AR.03.038		red drum	30	
+192	G.F.AR.03.039		red drum	30	
+193	G.F.LV.01.001		atlantic croaker	17	
+194	G.F.LV.01.002		atlantic croaker	18	
+195	G.F.LV.01.003		atlantic croaker	17	
+196	G.F.LV.01.004		atlantic croaker	16	
+197	G.F.LV.01.005		atlantic croaker	18	
+198	G.F.LV.01.006		atlantic croaker	15	
+199	G.F.LV.01.007		atlantic croaker	24	
+200	G.F.LV.01.008		atlantic croaker	16	
+201	G.F.SA.01.001	3/25/2019	atlantic croaker	16	
+202	G.F.SA.01.002	3/25/2019	atlantic croaker	18	
+203	G.F.SA.01.003	3/25/2019	atlantic croaker	23	
+204	G.F.SA.01.004	3/25/2019	atlantic croaker	17	
+205	G.F.SA.01.005	3/25/2019	atlantic croaker	17	
+206	G.F.SA.01.006	3/25/2019	atlantic croaker	15	intestines hanging out
+207	G.F.SA.01.007	3/25/2019	atlantic croaker	16	
+208	G.F.SA.01.008	3/25/2019	atlantic croaker	19	
+209	G.F.SA.01.009	3/25/2019	atlantic croaker	15	
+210	G.F.SA.01.010	3/25/2019	atlantic croaker	16	
+211	G.F.SA.01.011	3/25/2019	atlantic croaker	15	
+212	G.F.SA.01.012	3/25/2019	red drum	15	
+213	G.F.SA.01.013	3/25/2019	atlantic croaker	14	
+214	G.F.SA.01.014	3/25/2019	atlantic croaker	18	
+215	G.F.SA.01.015	3/25/2019	atlantic croaker	12	intestines hanging out
+216	G.F.SA.01.016	3/25/2019	atlantic croaker	12	
+217	G.F.SA.01.017	3/25/2019	atlantic croaker	12	
+218	G.F.SA.01.018	3/25/2019	atlantic croaker	14	
+219	G.F.SA.01.019	3/25/2019	atlantic croaker	15	
+220	G.F.SA.01.020	3/25/2019	atlantic croaker	18	
+221	G.F.SA.01.021	3/25/2019	atlantic croaker	15	
+222	G.F.SA.01.022	3/25/2019	atlantic croaker	13	
+223	G.F.SA.01.023	3/25/2019	atlantic croaker	13	
+224	G.F.SA.01.024	3/25/2019	atlantic croaker	13	
+225	G.F.SA.01.025	3/25/2019	atlantic croaker	11	
+226	G.F.SA.01.026	3/25/2019	atlantic croaker	13	
+227	G.F.SA.01.027	3/25/2019	atlantic croaker	15	
+228	G.F.SA.01.028	3/25/2019	atlantic croaker	14	
+229	G.F.SA.01.029	3/25/2019	atlantic croaker	14	
+230	G.F.SA.01.030	3/25/2019	atlantic croaker	12	
+231	G.F.SA.01.031	3/25/2019	atlantic croaker	13	
+232	G.F.SA.01.032	3/25/2019	atlantic croaker	13	
+233	G.F.SA.01.033	3/25/2019	atlantic croaker	15	
+234	G.F.SA.01.034	3/25/2019	atlantic croaker	17	
+235	G.F.AR.01.030	3/27/2019	silverside	46	
+236	G.F.AR.01.031	3/27/2019	silverside	47	
+237	G.F.AR.01.032	3/27/2019	silverside	41	
+238	G.F.AR.01.033	3/27/2019	silverside	28	
+239	G.F.AR.01.034	3/27/2019	silverside	40	
+240	G.F.AR.01.035	3/27/2019	silverside	43	
+241	G.F.AR.01.036	3/27/2019	silverside	41	
+242	G.F.AR.01.037	3/27/2019	silverside	32	
+243	G.F.AR.01.038	3/27/2019	silverside	44	
+244	G.F.AR.01.039	3/27/2019	silverside	45	
+245	G.F.AR.01.040	3/27/2019	silverside	40	
+246	G.F.AR.01.041	3/27/2019	silverside	47	
+247	G.F.AR.01.042	3/27/2019	silverside	45	
+248	G.F.AR.01.043	3/27/2019	silverside	24	
+249	G.F.AR.01.044	3/27/2019	silverside	46	
+250	G.F.AR.01.045	3/27/2019	silverside	45	
+251	G.F.AR.01.046	3/27/2019	silverside	29	
+252	G.F.AR.01.047	3/27/2019	silverside	35	
+253	G.F.AR.01.048	3/27/2019	silverside	42	
+254	G.F.AR.01.049	3/27/2019	silverside	42	
+255	G.F.AR.01.050	3/27/2019	silverside	25	
+256	G.F.AR.02.004	3/27/2019	silverside	31	
+257	G.F.AR.02.005	3/27/2019	silverside	32	
+258	G.F.AR.02.006	3/27/2019	silverside	29	
+259	G.F.AR.02.007	3/27/2019	silverside	32	
+260	G.F.AR.02.008	3/27/2019	silverside	25	
+261	G.F.AR.02.009	3/27/2019	silverside	30	
+262	G.F.AR.02.010	3/27/2019	silverside	26	
+263	G.F.AR.02.011	3/27/2019	silverside	35	
+264	G.F.AR.02.012	3/27/2019	silverside	33	
+265	G.F.AR.02.013	3/27/2019	silverside	36	
+266	G.F.AR.02.014	3/27/2019	silverside	38	
+267	G.F.AR.02.015	3/27/2019	silverside	33	
+268	G.F.AR.02.016	3/27/2019	silverside	30	
+269	G.F.AR.02.017	3/27/2019	silverside	48	
+270	G.F.AR.02.018	3/27/2019	silverside	33	
+271	G.F.AR.02.019	3/27/2019	silverside	31	
+272	G.F.AR.02.020	3/27/2019	silverside	32	
+273	G.F.AR.02.021	3/27/2019	silverside	32	
+274	G.F.AR.02.022	3/27/2019	silverside	28	
+275	G.F.AR.02.023	3/27/2019	silverside	30	
+276	G.F.AR.03.041	3/27/2019	silverside	48	
+277	G.F.AR.03.042	3/27/2019	silverside	48	
+278	G.F.AR.03.043	3/27/2019	silverside	38	
+279	G.F.AR.03.044	3/27/2019	silverside	50	
+280	G.F.AR.03.045	3/27/2019	silverside	40	
+281	G.F.AR.03.046	3/27/2019	silverside	36	
+282	G.F.AR.03.047	3/27/2019	silverside	37	
+283	G.F.AR.03.048	3/27/2019	silverside	38	
+284	G.F.AR.03.049	3/27/2019	silverside	40	
+285	G.F.AR.03.050	3/27/2019	silverside	34	
+286	G.F.AR.03.051	3/27/2019	silverside	35	
+287	G.F.AR.03.052	3/27/2019	silverside	44	
+288	G.F.AR.03.053	3/27/2019	silverside	37	
+289	G.F.AR.03.054	3/27/2019	silverside	42	
+290	G.F.AR.03.055	3/27/2019	silverside	34	
+291	G.F.AR.03.056	3/27/2019	silverside	44	
+292	G.F.AR.03.057	3/27/2019	silverside	31	
+293	G.F.AR.03.058	3/27/2019	silverside	39	
+294	G.F.AR.03.059	3/27/2019	silverside	42	
+295	G.F.AR.03.060	3/27/2019	silverside	38	
+296	G.F.BF.01.006	3/27/2019	bay anchovy	44	
+297	G.F.BF.01.007	3/27/2019	bay anchovy	44	
+298	G.F.BF.01.008	3/27/2019	bay anchovy	49	
+299	G.F.BF.01.009	3/27/2019	silverside	43	
+300	G.F.BF.01.010	3/27/2019	silverside	28	
+301	G.F.BF.01.011	3/27/2019	silverside	22	
+302	G.F.BF.01.012	3/27/2019	silverside	23	
+303	G.F.BF.01.013	3/27/2019	silverside	22	
+304	G.F.BF.01.014	3/27/2019	silverside	44	
+305	G.F.BF.01.015	3/27/2019	silverside	41	
+306	G.F.BF.01.016	3/27/2019	silverside	36	
+307	G.F.BF.01.017	3/27/2019	silverside	23	
+308	G.F.BF.01.018	3/27/2019	silverside	39	
+309	G.F.BF.01.019	3/27/2019	silverside	29	
+310	G.F.BF.01.020	3/27/2019	silverside	26	
+311	G.F.BF.01.021	3/27/2019	silverside	42	
+312	G.F.BF.01.022	3/27/2019	silverside	20	
+313	G.F.BF.01.023	3/27/2019	silverside	30	
+314	G.F.BF.01.024	3/27/2019	silverside	34	
+315	G.F.BF.01.025	3/27/2019	silverside	40	
+316	G.F.BF.01.026	3/27/2019	silverside	25	
+317	G.F.BF.01.027	3/27/2019	silverside	34	
+318	G.F.BF.01.028	3/27/2019	silverside	31	
+319	G.F.BF.01.029	3/27/2019	silverside	29	
+320	G.F.BF.01.030	3/27/2019	silverside	32	
+321	G.F.BF.01.031	3/27/2019	silverside	40	
+322	G.F.BF.01.032	3/27/2019	silverside	24	
+323	G.F.BF.01.033	3/27/2019	silverside	30	
+324	G.F.BF.01.034	3/27/2019	silverside	40	
+325	G.F.BF.01.035	3/27/2019	silverside	38	
+326	G.F.BF.01.036	3/27/2019	silverside	30	
+327	G.F.BF.01.037	3/27/2019	silverside	26	
+328	G.F.BF.01.038	3/27/2019	silverside	31	
+329	G.F.BF.01.039	3/27/2019	silverside	36	
+330	G.F.BF.01.040	3/27/2019	silverside	29	
+331	G.F.BF.01.041	3/27/2019	silverside	40	
+332	G.F.BF.01.042	3/27/2019	silverside	37	
+333	G.F.BF.01.043	3/27/2019	silverside	48	
+334	G.F.BF.01.044	3/27/2019	silverside	29	
+335	G.F.BF.01.045	3/27/2019	silverside	26	
+336	G.F.BF.01.046	3/27/2019	silverside	31	
+337	G.F.BF.01.047	3/27/2019	silverside	29	
+338	G.F.BF.01.048	3/27/2019	silverside	33	
+339	G.F.BF.01.049	3/27/2019	silverside	33	
+340	G.F.BF.02.006	3/27/2019	silverside	28	
+341	G.F.BF.02.007	3/27/2019	silverside	38	
+342	G.F.BF.02.008	3/27/2019	silverside	39	
+343	G.F.BF.02.009	3/27/2019	silverside	24	
+344	G.F.BF.02.010	3/27/2019	silverside	37	
+345	G.F.BF.02.011	3/27/2019	silverside	37	
+346	G.F.BF.02.012	3/27/2019	silverside	23	
+347	G.F.BF.02.013	3/27/2019	silverside	30	
+348	G.F.BF.02.014	3/27/2019	silverside	30	
+349	G.F.BF.02.015	3/27/2019	silverside	29	
+350	G.F.BF.02.016	3/27/2019	silverside	33	
+351	G.F.BF.02.017	3/27/2019	silverside	33	
+352	G.F.BF.02.018	3/27/2019	silverside	40	
+353	G.F.BF.02.019	3/27/2019	silverside	30	
+354	G.F.BF.02.020	3/27/2019	silverside	38	
+355	G.F.BF.02.021	3/27/2019	silverside	28	
+356	G.F.BF.02.022	3/27/2019	silverside	36	
+357	G.F.BF.02.023	3/27/2019	silverside	36	
+358	G.F.BF.02.024	3/27/2019	silverside	32	
+359	G.F.BF.02.025	3/27/2019	silverside	35	
+360	G.F.BF.02.026	3/27/2019	silverside	54	
+361	G.F.BF.02.027	3/27/2019	silverside	61	
+362	G.F.BF.02.028	3/27/2019	silverside	53	
+363	G.F.BF.02.029		silverside	55	
+364	G.F.BF.02.030		silverside	57	
+365	G.F.BF.02.031		silverside	58	
+366	G.F.BF.02.032		silverside	61	
+367	G.F.BF.02.033		silverside	68	
+368	G.F.BF.02.034		silverside	56	
+369	G.F.BF.02.035		silverside	65	
+370	G.F.BF.03.031		silverside	29	
+371	G.F.BF.03.032		silverside	30	
+372	G.F.BF.03.033		silverside	33	
+373	G.F.BF.03.034		silverside	42	
+374	G.F.BF.03.035		silverside	30	
+375	G.F.BF.03.036		silverside	34	
+376	G.F.BF.03.037		silverside	33	
+377	G.F.BF.03.038		silverside	29	
+378	G.F.BF.03.039		silverside	24	
+379	G.F.BF.03.040		silverside	20	
+380	G.F.BF.03.041		silverside	40	
+381	G.F.BF.03.042		silverside	44	
+382	G.F.BF.03.043		silverside	44	
+383	G.F.BF.03.044		silverside	43	
+384	G.F.BF.03.045		silverside	39	
+385	G.F.BF.03.046		silverside	48	
+386	G.F.BF.03.047		silverside	50	
+387	G.F.LV.01.009		silverside	42	
+388	G.F.LV.01.010		silverside	46	
+389	G.F.LV.01.011		silverside	36	
+390	G.F.LV.01.012		silverside	29	
+391	G.F.LV.01.013		silverside	33	
+392	G.F.LV.01.014		silverside	52	
+393	G.F.LV.01.015		silverside	52	
+394	G.F.LV.01.016		silverside	45	
+395	G.F.LV.01.017		silverside	42	
+396	G.F.LV.01.018		silverside	38	
+397	G.F.LV.01.019		silverside	42	
+398	G.F.LV.01.020		silverside	50	
+399	G.F.LV.01.021		silverside	50	
+400	G.F.LV.01.022		silverside	36	
+401	G.F.LV.01.023		silverside	43	
+402	G.F.LV.01.024		silverside	48	
+403	G.F.LV.01.025		silverside	33	
+404	G.F.LV.01.026		silverside	32	
+405	G.F.LV.01.027		silverside	42	
+406	G.F.LV.01.028		silverside	36	
+407	G.F.LV.01.029		silverside	38	
+408	G.F.LV.01.030		silverside	33	
+409	G.F.LV.01.031		silverside	33	
+410	G.F.LV.01.032		silverside	53	
+411	G.F.LV.01.033		silverside	32	
+412	G.F.LV.01.034		silverside	41	
+413	G.F.LV.01.035	4/8/2019	bay anchovy	29	
+414	G.F.LV.01.036	4/8/2019	bay anchovy	34	
+415	G.F.LV.01.037	4/8/2019	bay anchovy	33	
+416	G.F.LV.01.038	4/8/2019	bay anchovy	30	
+417	G.F.LV.01.039	4/8/2019	bay anchovy	34	
+418	G.F.LV.01.040	4/8/2019	bay anchovy	32	
+419	G.F.LV.01.041	4/8/2019	bay anchovy	31	
+420	G.F.LV.01.042	4/8/2019	bay anchovy	34	
+421	G.F.LV.01.043	4/8/2019	bay anchovy	28	
+422	G.F.LV.01.044	4/8/2019	bay anchovy	38	
+423	G.F.LV.01.045	4/8/2019	bay anchovy	30	
+424	G.F.LV.01.046	4/8/2019	bay anchovy	32	
+425	G.F.LV.01.047	4/8/2019	bay anchovy	34	
+426	G.F.LV.01.048	4/8/2019	bay anchovy	38	
+427	G.F.LV.01.049	4/8/2019	bay anchovy	35	
+428	G.F.LV.01.050	4/8/2019	bay anchovy	35	
+429	G.F.LV.01.051	4/8/2019	bay anchovy	30	
+430	G.F.LV.01.052	4/8/2019	bay anchovy	30	
+431	G.F.LV.01.053	4/8/2019	bay anchovy	36	
+432	G.F.LV.01.054	4/8/2019	bay anchovy	30	
+433	G.F.LV.01.055	4/8/2019	bay anchovy	34	
+434	G.F.LV.01.056	4/8/2019	bay anchovy	33	
+435	G.F.LV.01.057	4/8/2019	bay anchovy	35	
+436	G.F.MG.01.010	4/8/2019	silverside	33	
+437	G.F.MG.01.011	4/8/2019	silverside	36	
+438	G.F.MG.01.012	4/8/2019	silverside	36	
+439	G.F.MG.01.013	4/8/2019	silverside	32	
+440	G.F.MG.01.014	4/8/2019	silverside	38	
+441	G.F.MG.01.015	4/8/2019	silverside	36	
+442	G.F.MG.01.016	4/8/2019	silverside	42	
+443	G.F.MG.01.017	4/8/2019	silverside	40	
+444	G.F.MG.01.018	4/8/2019	silverside	38	
+445	G.F.MG.01.019	4/8/2019	silverside	43	
+446	G.F.MG.01.020	4/8/2019	silverside	43	
+447	G.F.MG.01.021	4/8/2019	silverside	35	
+448	G.F.MG.01.022	4/8/2019	silverside	34	
+449	G.F.MG.01.023	4/8/2019	silverside	32	
+450	G.F.MG.01.024	4/8/2019	silverside	37	
+451	G.F.MG.01.025	4/8/2019	silverside	37	
+452	G.F.MG.01.026	4/8/2019	silverside	38	
+453	G.F.MG.01.027	4/8/2019	silverside	35	
+454	G.F.MG.01.028	4/8/2019	silverside	36	
+455	G.F.MG.01.029	4/8/2019	silverside	36	
+456	G.F.MG.02.048	4/8/2019	silverside	51	
+457	G.F.MG.02.049	4/8/2019	silverside	44	
+458	G.F.MG.02.050	4/8/2019	silverside	45	
+459	G.F.MG.02.051	4/8/2019	silverside	45	
+460	G.F.MG.02.052	4/8/2019	silverside	43	
+461	G.F.MG.02.053	4/8/2019	silverside	39	
+462	G.F.MG.02.054	4/8/2019	silverside	45	
+463	G.F.MG.02.055	4/8/2019	silverside	43	
+464	G.F.MG.02.056	4/8/2019	silverside	51	
+465	G.F.MG.02.057	4/8/2019	silverside	41	
+466	G.F.MG.02.058	4/8/2019	silverside	43	
+467	G.F.MG.02.059	4/8/2019	silverside	32	
+468	G.F.MG.03.030	4/8/2019	silverside	31	
+469	G.F.MG.03.031	4/8/2019	silverside	50	
+470	G.F.MG.03.032	4/8/2019	silverside	39	
+471	G.F.MG.03.033	4/8/2019	silverside	43	
+472	G.F.MG.03.034	4/8/2019	silverside	31	
+473	G.F.MG.03.035	4/8/2019	silverside	49	
+474	G.F.MG.03.036	4/8/2019	silverside	33	
+475	G.F.MG.03.037	4/8/2019	silverside	33	
+476	G.F.MG.03.038	4/8/2019	silverside	36	
+477	G.F.MG.03.039	4/8/2019	silverside	39	
+478	G.F.MG.03.040	4/8/2019	silverside	37	
+479	G.F.MG.03.041	4/8/2019	silverside	42	
+480	G.F.MG.03.042	4/8/2019	silverside	32	
+481	G.F.MG.03.043	4/8/2019	silverside	29	
+482	G.F.MG.03.044	4/8/2019	silverside	31	
+483	G.F.MG.03.045	4/8/2019	silverside	30	
+484	G.F.MG.03.046	4/8/2019	silverside	34	
+485	G.F.MG.03.047	4/8/2019	silverside	30	
+486	G.F.MG.03.048	4/8/2019	silverside	30	
+487	G.F.MG.03.049	4/8/2019	silverside	52	
+488	G.F.SA.01.035	4/8/2019	silverside	30	
+489	G.F.SA.01.036	4/8/2019	silverside	31	
+490	G.F.SA.01.037	4/8/2019	silverside	33	
+491	G.F.SA.01.038	4/8/2019	silverside	32	
+492	G.F.SA.01.039	4/8/2019	silverside	30	
+493	G.F.SA.01.040	4/8/2019	silverside	37	
+494	G.F.SA.01.041	4/8/2019	silverside	30	
+495	G.F.SA.01.042	4/8/2019	silverside	33	
+496	G.F.SA.01.043	4/8/2019	silverside	31	
+497	G.F.SA.01.044	4/8/2019	silverside	31	
+498	G.F.SA.01.045	4/8/2019	silverside	29	
+499	G.F.SA.01.046	4/8/2019	silverside	36	
+500	G.F.SA.01.047	4/8/2019	silverside	35	
+501	G.F.SA.01.048	4/8/2019	silverside	28	
+502	G.F.SA.01.049	4/8/2019	silverside	33	
+503	G.F.SA.01.050	4/8/2019	silverside	28	
+504	G.F.SA.01.051	4/8/2019	silverside	31	
+505	G.F.SA.01.052	4/8/2019	silverside	34	
+506	G.F.SA.01.053	4/8/2019	silverside	29	
+507	G.F.SA.01.054	4/8/2019	silverside	32	
+508	G.F.SA.03.009	4/10/2019	silverside	39	
+509	G.F.SA.03.010	4/10/2019	silverside	27	
+510	G.F.SA.03.011	4/10/2019	silverside	42	
+511	G.F.SA.03.012	4/10/2019	silverside	30	
+512	G.F.SA.03.013	4/10/2019	silverside	31	
+513	G.F.SA.03.014	4/10/2019	silverside	26	
+514	G.F.SA.03.015	4/10/2019	silverside	33	
+515	G.F.SA.03.016	4/10/2019	silverside	32	
+516	G.F.SA.03.017	4/10/2019	silverside	39	
+517	G.F.SA.03.018	4/10/2019	silverside	40	
+518	G.F.SA.03.019	4/10/2019	silverside	32	
+519	G.F.SA.03.020	4/10/2019	silverside	26	
+520	G.F.SA.03.021	4/10/2019	silverside	28	
+521	G.F.SA.03.022	4/10/2019	silverside	30	
+522	G.F.SA.03.023	4/10/2019	silverside	34	
+523	G.F.SA.03.024	4/10/2019	silverside	31	
+524	G.F.SA.03.025	4/10/2019	silverside	37	
+525	G.F.SA.03.026	4/10/2019	silverside	30	
+526	G.F.SA.03.027	4/10/2019	silverside	27	
+527	G.F.SA.03.028	4/10/2019	silverside	32	
+528	G.F.SA.02.001	4/10/2019	silverside	50	
+529	G.F.SA.02.002	4/10/2019	silverside	41	
+530	G.F.SA.02.003	4/10/2019	silverside	32	
+531	G.F.SA.02.004	4/10/2019	silverside	35	
+532	G.F.SA.02.005	4/10/2019	silverside	30	
+533	G.F.SA.02.006	4/10/2019	silverside	38	
+534	G.F.SA.02.007	4/10/2019	silverside	42	
+535	G.F.SA.02.008	4/10/2019	silverside	41	
+536	G.F.SA.02.009	4/10/2019	silverside	30	
+537	G.F.SA.02.010	4/10/2019	silverside	42	
+538	G.F.SA.02.011	4/10/2019	silverside	37	
+539	G.F.SA.02.012	4/10/2019	silverside	41	
+540	G.F.SA.02.013	4/10/2019	silverside	39	
+541	G.F.SA.02.014	4/10/2019	silverside	34	
+542	G.F.SA.02.015	4/10/2019	silverside	43	
+543	G.F.SA.02.016	4/10/2019	silverside	37	
+544	G.F.SA.02.017	4/10/2019	silverside	35	
+545	G.F.SA.02.018	4/10/2019	silverside	36	
+546	G.F.SA.02.019	4/10/2019	silverside	37	
+547	G.F.SA.02.020	4/10/2019	silverside	38	
+548	G.F.SA.02.021	4/10/2019	silverside	42	
+549	G.F.AR.01.051	4/10/2019	sheepshead minnow	20	
+550	G.F.AR.02.024	4/10/2019	sheepshead minnow	14	
+551	G.F.AR.02.025	4/10/2019	sheepshead minnow	24	
+552	G.F.AR.02.026	4/10/2019	sheepshead minnow	18	
+553	G.F.AR.02.027	4/10/2019	sheepshead minnow	21	
+554	G.F.AR.02.028	4/10/2019	sheepshead minnow	19	
+555	G.F.AR.02.029	4/10/2019	sheepshead minnow	26	
+556	G.F.AR.02.030	4/10/2019	sheepshead minnow	24	
+557	G.F.AR.02.031	4/10/2019	sheepshead minnow	17	
+558	G.F.AR.02.032	4/10/2019	sheepshead minnow	22	
+559	G.F.AR.02.033	4/10/2019	sheepshead minnow	21	
+560	G.F.AR.02.034	4/10/2019	sheepshead minnow	23	
+561	G.F.AR.02.035	4/10/2019	sheepshead minnow	26	
+562	G.F.AR.02.036	4/10/2019	sheepshead minnow	26	
+563	G.F.AR.02.037	4/10/2019	sheepshead minnow	19	
+564	G.F.AR.02.038	4/10/2019	sheepshead minnow	32	
+565	G.F.AR.02.039	4/10/2019	sheepshead minnow	34	
+566	G.F.AR.02.040	4/10/2019	sheepshead minnow	22	
+567	G.F.AR.02.041	4/10/2019	sheepshead minnow	22	
+568	G.F.AR.02.042	4/10/2019	sheepshead minnow	29	
+569	G.F.AR.02.043	4/10/2019	sheepshead minnow	24	
+570	G.F.AR.02.044	4/10/2019	sheepshead minnow	24	
+571	G.F.AR.03.061	4/10/2019	sheepshead minnow	16	
+572	G.F.AR.03.062	4/10/2019	diamond killifish	17	"dorsal: 9, anal: 10"
+573	G.F.AR.03.063	4/10/2019	diamond killifish	19	dorsal: 9
+574	G.F.AR.03.064	4/10/2019	sheepshead minnow	20	
+575	G.F.AR.03.065	4/10/2019	sheepshead minnow	22	
+576	G.F.AR.03.066	4/10/2019	sheepshead minnow	27	
+577	G.F.AR.03.067	4/10/2019	sheepshead minnow	24	
+578	G.F.AR.03.068	4/10/2019	sheepshead minnow	22	
+579	G.F.AR.03.069	4/10/2019	sheepshead minnow	26	
+580	G.F.AR.03.070	4/10/2019	sheepshead minnow	30	
+581	G.F.AR.03.071	4/10/2019	sheepshead minnow	24	
+582	G.F.AR.03.072	4/10/2019	sheepshead minnow	24	
+583	G.F.AR.03.073	4/10/2019	sheepshead minnow	28	
+584	G.F.AR.03.074	4/10/2019	sheepshead minnow	29	
+585	G.F.AR.03.075	4/10/2019	sheepshead minnow	24	
+586	G.F.AR.03.076	4/10/2019	sheepshead minnow	27	
+587	G.F.AR.03.077	4/10/2019	sheepshead minnow	21	
+588	G.F.BF.01.050	4/10/2019	sheepshead minnow	23	
+589	G.F.BF.01.051	4/10/2019	sheepshead minnow	27	
+590	G.F.BF.01.052	4/10/2019	sheepshead minnow	21	
+591	G.F.BF.01.053	4/10/2019	sheepshead minnow	19	
+592	G.F.BF.01.054	4/10/2019	sheepshead minnow	21	
+593	G.F.BF.01.055	4/10/2019	sheepshead minnow	20	
+594	G.F.BF.01.056	4/10/2019	sheepshead minnow	24	
+595	G.F.BF.01.057	4/10/2019	sheepshead minnow	20	
+596	G.F.BF.01.058	4/10/2019	sheepshead minnow	23	
+597	G.F.BF.01.059	4/10/2019	sheepshead minnow	24	
+598	G.F.BF.01.060	4/10/2019	sheepshead minnow	18	
+599	G.F.BF.01.061	4/10/2019	sheepshead minnow	23	
+600	G.F.BF.01.062	4/10/2019	sheepshead minnow	23	
+601	G.F.BF.01.063	4/10/2019	sheepshead minnow	33	
+602	G.F.BF.01.064	4/10/2019	sheepshead minnow	26	
+603	G.F.BF.01.065	4/10/2019	sheepshead minnow	20	
+604	G.F.BF.01.066	4/10/2019	sheepshead minnow	22	
+605	G.F.BF.01.067	4/10/2019	sheepshead minnow	23	
+606	G.F.BF.01.068	4/10/2019	sheepshead minnow	23	
+607	G.F.BF.01.069	4/10/2019	sheepshead minnow	16	
+608	G.F.BF.02.036	4/10/2019	sheepshead minnow	16	
+609	G.F.BF.02.037	4/10/2019	sheepshead minnow	18	
+610	G.F.BF.02.038	4/10/2019	sheepshead minnow	15	
+611	G.F.BF.02.039	4/10/2019	sheepshead minnow	22	
+612	G.F.BF.02.040	4/10/2019	sheepshead minnow	17	
+613	G.F.BF.02.041	4/10/2019	sheepshead minnow	21	
+614	G.F.BF.02.042	4/10/2019	sheepshead minnow	22	
+615	G.F.BF.02.043	4/10/2019	sheepshead minnow	29	
+616	G.F.BF.02.044	4/10/2019	sheepshead minnow	28	
+617	G.F.BF.02.045	4/10/2019	sheepshead minnow	15	
+618	G.F.BF.02.046	4/10/2019	sheepshead minnow	14	
+619	G.F.BF.02.047	4/10/2019	sheepshead minnow	21	
+620	G.F.BF.02.048	4/10/2019	sheepshead minnow	29	
+621	G.F.BF.02.049	4/10/2019	sheepshead minnow	27	
+622	G.F.BF.02.050	4/10/2019	sheepshead minnow	18	
+623	G.F.BF.02.051	4/10/2019	sheepshead minnow	26	
+624	G.F.BF.02.052	4/10/2019	sheepshead minnow	24	
+625	G.F.BF.02.053	4/10/2019	sheepshead minnow	22	
+626	G.F.BF.02.054	4/10/2019	sheepshead minnow	18	
+627	G.F.BF.02.055	4/10/2019	sheepshead minnow	21	
+628	G.F.LV.01.058	4/10/2019	sheepshead minnow	32	
+629	G.F.MG.01.030	4/10/2019	sheepshead minnow	26	
+630	G.F.MG.01.031	4/10/2019	sheepshead minnow	31	
+631	G.F.MG.01.032	4/10/2019	sheepshead minnow	21	
+632	G.F.MG.01.033	4/10/2019	sheepshead minnow	22	
+633	G.F.MG.01.034	4/10/2019	sheepshead minnow	36	
+634	G.F.MG.01.035	4/10/2019	sheepshead minnow	35	
+635	G.F.MG.01.036	4/10/2019	sheepshead minnow	25	
+636	G.F.MG.01.037	4/10/2019	sheepshead minnow	27	
+637	G.F.MG.01.038	4/10/2019	sheepshead minnow	23	
+638	G.F.MG.01.039	4/10/2019	sheepshead minnow	23	
+639	G.F.MG.01.040	4/10/2019	sheepshead minnow	27	
+640	G.F.MG.01.041	4/10/2019	sheepshead minnow	34	
+641	G.F.MG.01.042	4/10/2019	sheepshead minnow	32	
+642	G.F.MG.01.043	4/10/2019	sheepshead minnow	37	
+643	G.F.MG.01.044	4/10/2019	sheepshead minnow	30	
+644	G.F.MG.01.045	4/10/2019	sheepshead minnow	35	
+645	G.F.MG.01.046	4/10/2019	sheepshead minnow	32	
+646	G.F.MG.01.047	4/10/2019	sheepshead minnow	40	
+647	G.F.MG.01.048	4/10/2019	sheepshead minnow	31	
+648	G.F.MG.01.049	4/10/2019	sheepshead minnow	35	
+649	G.F.MG.01.050	4/10/2019	sheepshead minnow	36	
+650	G.F.MG.02.060	4/15/2019	sheepshead minnow	28	
+651	G.F.MG.02.061	4/15/2019	sheepshead minnow	32	
+652	G.F.MG.02.062	4/15/2019	sheepshead minnow	24	
+653	G.F.MG.02.063	4/15/2019	sheepshead minnow	27	
+654	G.F.MG.02.064	4/15/2019	sheepshead minnow	25	
+655	G.F.MG.02.065	4/15/2019	sheepshead minnow	22	
+656	G.F.MG.02.066	4/15/2019	sheepshead minnow	28	
+657	G.F.MG.02.067	4/15/2019	sheepshead minnow	27	
+658	G.F.MG.02.068	4/15/2019	sheepshead minnow	25	
+659	G.F.MG.02.069	4/15/2019	sheepshead minnow	25	
+660	G.F.MG.02.070	4/15/2019	sheepshead minnow	25	
+661	G.F.MG.02.071	4/15/2019	sheepshead minnow	26	
+662	G.F.MG.02.072	4/15/2019	sheepshead minnow	25	
+663	G.F.MG.02.073	4/15/2019	sheepshead minnow	27	
+664	G.F.MG.02.074	4/15/2019	sheepshead minnow	25	
+665	G.F.MG.02.075	4/15/2019	sheepshead minnow	26	
+666	G.F.MG.02.076	4/15/2019	sheepshead minnow	24	
+667	G.F.MG.02.077	4/15/2019	sheepshead minnow	28	
+668	G.F.MG.02.078	4/15/2019	sheepshead minnow	28	
+669	G.F.MG.02.079	4/15/2019	sheepshead minnow	25	
+670	G.F.MG.03.050	4/15/2019	sheepshead minnow	30	
+671	G.F.MG.03.051	4/15/2019	sheepshead minnow	26	
+672	G.F.MG.03.052	4/15/2019	sheepshead minnow	25	
+673	G.F.MG.03.053	4/15/2019	sheepshead minnow	28	
+674	G.F.MG.03.054	4/15/2019	sheepshead minnow	25	
+675	G.F.MG.03.055	4/15/2019	sheepshead minnow	25	
+676	G.F.MG.03.056	4/15/2019	sheepshead minnow	22	
+677	G.F.MG.03.057	4/15/2019	sheepshead minnow	29	
+678	G.F.MG.03.058	4/15/2019	sheepshead minnow	29	
+679	G.F.MG.03.059	4/15/2019	sheepshead minnow	23	
+680	G.F.MG.03.060	4/15/2019	sheepshead minnow	25	
+681	G.F.MG.03.061	4/15/2019	sheepshead minnow	31	
+682	G.F.MG.03.062	4/15/2019	sheepshead minnow	31	
+683	G.F.MG.03.063	4/15/2019	sheepshead minnow	27	
+684	G.F.MG.03.064	4/15/2019	sheepshead minnow	23	
+685	G.F.MG.03.065	4/15/2019	sheepshead minnow	23	
+686	G.F.MG.03.066	4/15/2019	sheepshead minnow	21	
+687	G.F.MG.03.067	4/15/2019	sheepshead minnow	25	
+688	G.F.MG.03.068	4/15/2019	sheepshead minnow	22	
+689	G.F.MG.03.069	4/15/2019	sheepshead minnow	20	
+690	G.F.MG.03.070	4/15/2019	sheepshead minnow	23	
+691	G.F.MG.03.071	4/15/2019	sheepshead minnow	21	
+692	G.F.MG.03.072	4/15/2019	sheepshead minnow	25	
+693	G.F.MG.03.073	4/15/2019	sheepshead minnow	30	
+694	G.F.MG.03.074	4/15/2019	sheepshead minnow	25	
+695	G.F.SA.01.055	4/15/2019	sheepshead minnow	31	
+696	G.F.SA.01.056	4/15/2019	sheepshead minnow	20	
+697	G.F.SA.01.057	4/15/2019	sheepshead minnow	23	
+698	G.F.SA.01.058	4/15/2019	sheepshead minnow	28	
+699	G.F.SA.01.059	4/15/2019	sheepshead minnow	39	
+700	G.F.SA.01.060	4/15/2019	sheepshead minnow	23	
+701	G.F.SA.01.061	4/15/2019	sheepshead minnow	37	
+702	G.F.SA.01.062	4/15/2019	sheepshead minnow	33	
+703	G.F.SA.01.063	4/15/2019	sheepshead minnow	36	
+704	G.F.SA.01.064	4/15/2019	sheepshead minnow	36	
+705	G.F.SA.01.065	4/15/2019	sheepshead minnow	26	
+706	G.F.SA.02.022	4/15/2019	sheepshead minnow	24	
+707	G.F.SA.02.023	4/15/2019	sheepshead minnow	27	
+708	G.F.SA.02.024	4/15/2019	sheepshead minnow	30	
+709	G.F.SA.02.025	4/15/2019	sheepshead minnow	29	
+710	G.F.SA.02.026	4/15/2019	sheepshead minnow	28	
+711	G.F.SA.02.027	4/15/2019	sheepshead minnow	25	
+712	G.F.SA.03.030	4/15/2019	sheepshead minnow	28	
+713	G.F.SA.03.031	4/15/2019	sheepshead minnow	30	
+714	G.F.SA.03.032	4/15/2019	sheepshead minnow	32	
+715	G.F.SA.03.033	4/15/2019	sheepshead minnow	27	
+716	G.F.SA.03.034	4/15/2019	sheepshead minnow	34	
+717	G.F.SA.03.035	4/15/2019	sheepshead minnow	32	
+718	G.F.SA.03.036	4/15/2019	sheepshead minnow	32	
+719	G.F.SA.03.037	4/15/2019	sheepshead minnow	33	
+720	G.F.SA.03.038	4/15/2019	sheepshead minnow	27	
+721	G.F.SA.03.039	4/15/2019	sheepshead minnow	29	
+722	G.F.SA.03.040	4/15/2019	sheepshead minnow	30	
+723	G.F.SA.03.041	4/15/2019	sheepshead minnow	28	
+724	G.F.SA.03.042	4/15/2019	sheepshead minnow	31	
+725	G.F.SA.03.043	4/15/2019	sheepshead minnow	31	
+726	G.F.SA.03.044	4/15/2019	sheepshead minnow	33	
+727	G.F.SA.03.045	4/15/2019	sheepshead minnow	32	
+728	G.F.SA.03.046	4/15/2019	sheepshead minnow	28	
+729	G.F.SA.03.047	4/15/2019	sheepshead minnow	26	
+730	G.F.SA.03.048	4/15/2019	sheepshead minnow	30	
+731	G.F.SA.03.049	4/15/2019	sheepshead minnow	29	
+732	G.F.SA.03.050	4/15/2019	sheepshead minnow	25	
+733	G.F.SA.03.051	4/15/2019	sheepshead minnow	32	
+734	G.F.BF.01.070		menhaden 	21	
+735	G.F.BF.01.071		menhaden 	21	
+736	G.F.BF.01.072		menhaden 	20	
+737	G.F.BF.01.073		menhaden 	21	
+738	G.F.BF.01.074		menhaden 	22	
+739	G.F.BF.01.075		menhaden 	22	
+740	G.F.BF.02.056		menhaden 	23	
+741	G.F.BF.02.057		menhaden 	22	
+742	G.F.BF.02.058		menhaden 	23	
+743	G.F.BF.02.059		menhaden 	22	
+744	G.F.BF.02.060		menhaden 	23	
+745	G.F.BF.02.061		menhaden 	23	
+746	G.F.BF.02.062		menhaden 	20	
+747	G.F.BF.02.063		menhaden 	21	
+748	G.F.BF.02.064		menhaden 	21	
+749	G.F.BF.02.065		menhaden 	21	
+750	G.F.BF.02.066		menhaden 	22	
+751	G.F.BF.02.067		menhaden 	22	
+752	G.F.BF.02.068		menhaden 	21	
+753	G.F.BF.02.069		menhaden 	22	
+754	G.F.BF.02.070		menhaden 	22	
+755	G.F.BF.02.071		menhaden 	23	
+756	G.F.BF.02.072		menhaden 	22	
+757	G.F.BF.02.073		menhaden 	21	
+758	G.F.BF.02.074		menhaden 	22	
+759	G.F.BF.02.075		menhaden 	22	
+760	G.F.BF.02.076		bay anchovy	30	
+761	G.F.BF.02.077		bay anchovy	37	
+762	G.F.BF.02.078		bay anchovy	40	
+763	G.F.BF.02.079		bay anchovy	51	
+764	G.F.BF.02.080		menhaden 	18	
+765	G.F.BF.02.081		bay anchovy	49	
+766	G.F.BF.02.082		menhaden 	21	
+767	G.F.BF.02.083		bay anchovy	42	
+768	G.F.BF.02.084		bay anchovy	35	
+769	G.F.BF.02.085		bay anchovy	34	
+770	G.F.BF.02.086		menhaden 	21	
+771	G.F.BF.02.087		menhaden 	20	
+772	G.F.BF.02.088		menhaden 	20	
+773	G.F.BF.02.089		menhaden 	21	
+774	G.F.BF.02.090		bay anchovy	34	
+775	G.F.BF.02.091		menhaden 	22	
+776	G.F.BF.02.092		menhaden 	21	
+777	G.F.BF.02.093		bay anchovy	40	
+778	G.F.BF.02.094		bay anchovy	42	
+779	G.F.BF.02.095		bay anchovy	35	
+780	G.F.BF.02.096		bay anchovy	42	
+781	G.F.BF.02.097		bay anchovy	40	
+782	G.F.BF.02.098		bay anchovy	40	
+783	G.F.BF.02.099		bay anchovy	40	
+784	G.F.BF.02.100		bay anchovy	40	
+785	G.F.BF.02.101		bay anchovy	38	
+786	G.F.BF.02.102		bay anchovy	43	
+787	G.F.BF.02.103		bay anchovy	41	
+788	G.F.AR.01.052		mullet	19	
+789	G.F.BF.01.077		mullet	22	
+790	G.F.BF.01.078		mullet	23	
+791	G.F.BF.01.079		mullet	22	
+792	G.F.BF.01.080		mullet	22	
+793	G.F.BF.01.081		mullet	22	
+794	G.F.BF.01.082		mullet	20	
+795	G.F.BF.01.083		mullet	22	
+796	G.F.BF.01.084		mullet	20	
+797	G.F.BF.01.085		mullet	20	
+798	G.F.BF.01.086		mullet	22	
+799	G.F.BF.01.087		mullet	19	
+800	G.F.BF.01.088		mullet	22	
+801	G.F.BF.01.089		mullet	21	
+802	G.F.BF.01.090		mullet	20	
+803	G.F.BF.01.091		mullet	21	
+804	G.F.BF.01.092		mullet	22	
+805	G.F.BF.01.093		mullet	20	
+806	G.F.BF.01.094		mullet	23	
+807	G.F.BF.01.095		mullet	23	
+808	G.F.BF.01.096		mullet	23	
+809	G.F.BF.01.097		mullet	20	
+810	G.F.BF.02.104		mullet	18	
+811	G.F.BF.02.105		menhaden 	25	
+812	G.F.BF.02.106		menhaden 	25	
+813	G.F.BF.02.107		menhaden 	25	
+814	G.F.BF.02.108		menhaden 	26	
+815	G.F.BF.02.109		menhaden 	24	
+816	G.F.BF.02.110		menhaden 	27	
+817	G.F.BF.02.111		menhaden 	26	
+818	G.F.BF.02.112		menhaden 	26	
+819	G.F.BF.02.113		menhaden 	25	
+820	G.F.BF.02.114		menhaden 	26	
+821	G.F.BF.02.115		menhaden 	27	
+822	G.F.BF.02.116		menhaden 	25	
+823	G.F.BF.02.117		menhaden 	25	
+824	G.F.BF.02.118		menhaden 	25	
+825	G.F.BF.02.119		menhaden 	25	
+826	G.F.BF.02.120		menhaden 	26	
+827	G.F.BF.02.121		menhaden 	25	
+828	G.F.BF.02.122		menhaden 	25	
+829	G.F.BF.03.048		mullet	20	
+830	G.F.BF.03.049		mullet	22	
+831	G.F.MG.01.051		mullet	21	
+832	G.F.MG.01.052		mullet	22	
+833	G.F.MG.01.053		mullet	22	
+834	G.F.MG.01.054		mullet	22	
+835	G.F.MG.01.055		mullet	23	
+836	G.F.MG.01.056		mullet	20	
+837	G.F.MG.01.057		mullet	20	
+838	G.F.MG.01.058		mullet	21	
+839	G.F.MG.01.059		mullet	20	
+840	G.F.MG.01.060		mullet	19	"tail chopped off, may not have been accurate (16), tail found in another bag (+3)=19"
+841	G.F.MG.01.061		mullet	20	
+842	G.F.MG.01.062		mullet	22	
+843	G.F.MG.01.063		mullet	19	
+844	G.F.MG.02.081		mullet	19	
+845	G.F.MG.02.082		mullet	20	
+846	G.F.MG.03.075		mullet	21	
+847	G.F.MG.03.076		mullet	20	
+848	G.F.MG.03.077		mullet	21	
+849	G.F.MG.03.078		mullet	21	
+850	G.F.MG.03.079		mullet	21	
+851	G.F.MG.03.080		mullet	20	
+852	G.F.MG.03.081		mullet	20	
+853	G.F.MG.03.082		mullet	21	
+854	G.F.MG.03.083		mullet	21	
+855	G.F.MG.03.084		mullet	22	
+856	G.F.MG.03.085		mullet	20	
+857	G.F.MG.03.086		mullet	22	
+858	G.F.MG.03.087		mullet	20	
+859	G.F.MG.03.088		mullet	22	
+860	G.F.MG.03.089		mullet	21	
+861	G.F.MG.03.090		mullet	20	
+862	G.F.MG.03.091		mullet	21	
+863	G.F.MG.03.092		mullet	22	
+864	G.F.MG.03.093		mullet	20	
+865	G.F.SA.03.052		mullet	23	a bunch of mullet pooped in the bag
+866	G.F.SA.03.053		mullet	23	a bunch of mullet pooped in the bag
+867	G.F.SA.03.054		mullet	22	a bunch of mullet pooped in the bag
+868	G.F.SA.03.055		mullet	21	a bunch of mullet pooped in the bag
+869	G.F.SA.03.056		mullet	23	a bunch of mullet pooped in the bag
+870	G.F.SA.03.057		mullet	23	a bunch of mullet pooped in the bag
+871	G.F.SA.03.058		mullet	24	a bunch of mullet pooped in the bag
+872	G.F.SA.03.059		mullet	23	a bunch of mullet pooped in the bag
+873	G.F.SA.03.060		mullet	21	a bunch of mullet pooped in the bag
+874	G.F.SA.03.061		mullet	23	a bunch of mullet pooped in the bag
+875	G.F.SA.03.062		mullet	21	a bunch of mullet pooped in the bag
+876	G.F.SA.03.063		mullet	22	a bunch of mullet pooped in the bag
+877	G.F.SA.03.064		mullet	22	a bunch of mullet pooped in the bag
+878	G.F.AR.01.053	4/25/2019	longnose killifish	39	
+879	G.F.AR.02.045	4/25/2019	gulf killifish	45	
+880	G.F.AR.02.046	4/25/2019	longnose killifish	34	
+881	G.F.AR.02.047	4/25/2019	longnose killifish	31	
+882	G.F.AR.02.048	4/25/2019	longnose killifish	21	
+883	G.F.AR.02.049	4/25/2019	longnose killifish	32	
+884	G.F.AR.02.050	4/25/2019	longnose killifish	41	
+885	G.F.AR.02.051	4/25/2019	longnose killifish	30	
+886	G.F.AR.02.052	4/25/2019	longnose killifish	31	
+887	G.F.AR.02.053	4/25/2019	longnose killifish	37	
+888	G.F.AR.02.054	4/25/2019	longnose killifish	44	
+889	G.F.AR.02.055	4/25/2019	longnose killifish	55	
+890	G.F.AR.02.056	4/25/2019	longnose killifish	54	
+891	G.F.AR.02.057	4/25/2019	longnose killifish	39	
+892	G.F.BF.01.098	4/25/2019	longnose killifish	37	
+893	G.F.BF.02.123	4/25/2019	longnose killifish	40	
+894	G.F.BF.02.124	4/25/2019	gulf killifish	40	
+895	G.F.BF.02.125	4/25/2019	gulf killifish	46	
+896	G.F.BF.02.126	4/25/2019	longnose killifish	47	
+897	G.F.BF.02.127	4/25/2019	rainwater killifish	18	
+898	G.F.BF.02.128	4/25/2019	rainwater killifish	16	
+899	G.F.BF.02.129	4/25/2019	rainwater killifish	19	
+900	G.F.BF.02.130	4/25/2019	rainwater killifish	26	
+901	G.F.BF.02.131	4/25/2019	rainwater killifish	19	
+902	G.F.BF.02.132	4/25/2019	rainwater killifish	24	
+903	G.F.BF.02.133	4/25/2019	rainwater killifish	19	
+904	G.F.BF.02.134	4/25/2019	rainwater killifish	17	
+905	G.F.BF.02.135	4/25/2019	rainwater killifish	22	
+906	G.F.BF.02.136	4/25/2019	rainwater killifish	23	
+907	G.F.BF.02.137	4/25/2019	rainwater killifish	22	
+908	G.F.BF.02.138	4/25/2019	rainwater killifish	15	
+909	G.F.BF.02.139	4/25/2019	rainwater killifish	24	
+910	G.F.BF.02.140	4/25/2019		12	
+911	G.F.BF.03.050	4/25/2019	rainwater killifish	26	
+912	G.F.BF.03.051	4/25/2019	rainwater killifish	18	
+913	G.F.BF.03.052	4/25/2019	rainwater killifish	23	
+914	G.F.BF.03.053	4/25/2019	rainwater killifish	17	
+915	G.F.LV.01.059	4/25/2019	longnose killifish	47	
+916	G.F.LV.01.060	4/25/2019	gulf killifish	46	
+917	G.F.LV.01.061	4/25/2019	longnose killifish	51	
+918	G.F.LV.01.062	4/25/2019	longnose killifish	48	
+919	G.F.MG.01.064	4/25/2019	gulf killifish	41	
+920	G.F.MG.01.065	4/25/2019	gulf killifish	41	
+921	G.F.MG.01.066	4/25/2019	gulf killifish	42	
+922	G.F.MG.01.067	4/25/2019	gulf killifish	54	
+923	G.F.MG.01.068	4/25/2019	gulf killifish	40	
+924	G.F.MG.01.069	4/25/2019	gulf killifish	56	
+925	G.F.MG.01.070	4/25/2019	gulf killifish	47	
+926	G.F.MG.01.071	4/25/2019	gulf killifish	50	
+927	G.F.MG.01.072	4/25/2019	gulf killifish	46	
+928	G.F.MG.01.073	4/25/2019	gulf killifish	50	
+929	G.F.MG.01.074	4/25/2019	gulf killifish	55	
+930	G.F.MG.01.075	4/25/2019	gulf killifish	69	
+931	G.F.MG.01.076	4/25/2019	gulf killifish	45	
+932	G.F.MG.01.077	4/25/2019	gulf killifish	32	
+933	G.F.MG.01.078	4/25/2019	gulf killifish	47	
+934	G.F.MG.01.079	4/25/2019	gulf killifish	60	
+935	G.F.MG.01.080	4/25/2019	gulf killifish	52	
+936	G.F.MG.01.081	4/25/2019	gulf killifish	31	
+937	G.F.MG.01.082	4/25/2019	gulf killifish	52	
+938	G.F.MG.01.083	4/25/2019	gulf killifish	43	
+939	G.F.MG.01.084	4/25/2019	sailfin molly	25	
+940	G.F.MG.01.085	4/25/2019	sailfin molly	29	
+941	G.F.MG.01.086	4/25/2019	sailfin molly	41	
+942	G.F.MG.01.087	4/25/2019	sheepshead	21	"dorsal: 10, anal: 10, pelvic: 6"
+943	G.F.MG.01.088	4/25/2019	sheepshead	20	
+944	G.F.MG.01.089	4/29/2019	diamond killifish	17	
+945	G.F.MG.01.090	4/29/2019	diamond killifish	21	
+946	G.F.MG.01.091	4/29/2019	diamond killifish	21	
+947	G.F.MG.01.092	4/29/2019	diamond killifish	20	
+948	G.F.MG.01.093	4/29/2019	diamond killifish	19	
+949	G.F.MG.01.094	4/29/2019	diamond killifish	16	
+950	G.F.MG.01.095	4/29/2019	diamond killifish	17	
+951	G.F.MG.01.096	4/29/2019	diamond killifish	19	
+952	G.F.MG.01.097	4/29/2019	diamond killifish	15	
+953	G.F.MG.01.098	4/29/2019	diamond killifish	24	
+954	G.F.MG.01.099	4/29/2019	diamond killifish	20	
+955	G.F.MG.01.100	4/29/2019	diamond killifish	25	
+956	G.F.MG.02.083	4/29/2019	diamond killifish	22	
+957	G.F.MG.02.084	4/29/2019	diamond killifish	22	
+958	G.F.MG.02.085	4/29/2019	diamond killifish	21	
+959	G.F.MG.02.086	4/29/2019	diamond killifish	23	
+960	G.F.MG.02.087	4/29/2019	diamond killifish	25	
+961	G.F.MG.02.088	4/29/2019	diamond killifish	17	
+962	G.F.MG.02.089	4/29/2019	diamond killifish	21	
+963	G.F.MG.02.090	4/29/2019	diamond killifish	20	
+964	G.F.MG.02.091	4/29/2019	diamond killifish	21	
+965	G.F.MG.02.092	4/29/2019	diamond killifish	21	
+966	G.F.MG.02.093	4/29/2019	diamond killifish	21	
+967	G.F.MG.02.094	4/29/2019	diamond killifish	22	
+968	G.F.MG.02.095	4/29/2019	diamond killifish	20	
+969	G.F.MG.02.096	4/29/2019	diamond killifish	21	
+970	G.F.MG.02.097	4/29/2019	diamond killifish	21	
+971	G.F.MG.02.098	4/29/2019	gulf killifish	50	
+972	G.F.MG.02.099	4/29/2019	gulf killifish	64	
+973	G.F.MG.02.100	4/29/2019	gulf killifish	35	
+974	G.F.MG.02.101	4/29/2019	diamond killifish	19	
+975	G.F.MG.02.102	4/29/2019	diamond killifish	26	
+976	G.F.MG.02.103	4/29/2019	longnose killifish	36	
+977	G.F.MG.02.104	4/29/2019	sheepshead minnow	23	
+978	G.F.MG.02.105	4/29/2019	longnose killifish	25	
+979	G.F.MG.02.106	4/29/2019	longnose killifish	31	
+980	G.F.MG.02.107	4/29/2019	longnose killifish	48	
+981	G.F.MG.02.108	4/29/2019	longnose killifish	37	
+982	G.F.MG.02.109	4/29/2019	longnose killifish	36	
+983	G.F.MG.02.110	4/29/2019	longnose killifish	36	
+984	G.F.MG.02.111	4/29/2019	longnose killifish	50	
+985	G.F.MG.02.112	4/29/2019	longnose killifish	45	
+986	G.F.MG.02.113	4/29/2019	longnose killifish	42	
+987	G.F.MG.02.114	4/29/2019	longnose killifish	48	
+988	G.F.MG.02.115	4/29/2019	longnose killifish	55	
+989	G.F.MG.02.116	4/29/2019	longnose killifish	52	
+990	G.F.MG.02.117	4/29/2019	longnose killifish	42	
+991	G.F.MG.02.118	4/29/2019	longnose killifish	43	
+992	G.F.MG.02.119	4/29/2019	longnose killifish	37	
+993	G.F.MG.02.120	4/29/2019	longnose killifish	46	
+994	G.F.MG.02.121	4/29/2019	longnose killifish	45	
+995	G.F.MG.02.122	4/29/2019	longnose killifish	45	
+996	G.F.MG.02.123	4/29/2019	longnose killifish	46	
+997	G.F.MG.02.124	4/29/2019	longnose killifish	47	
+998	G.F.MG.02.125	4/29/2019	longnose killifish	55	
+999	G.F.MG.02.126	4/29/2019	spotted seatrout	27	
+1000	G.F.MG.02.127	4/29/2019	spotted seatrout	33	stomach outside of body cavity
+1001	G.F.MG.03.094	4/29/2019	longnose killifish	36	
+1002	G.F.MG.03.095	4/29/2019	longnose killifish	47	
+1003	G.F.MG.03.096	4/29/2019	longnose killifish	55	
+1004	G.F.MG.03.097	4/29/2019	longnose killifish	49	
+1005	G.F.MG.03.098	4/29/2019	longnose killifish	57	
+1006	G.F.MG.03.099	4/29/2019	longnose killifish	34	
+1007	G.F.MG.03.100	4/29/2019	longnose killifish	48	
+1008	G.F.MG.03.101	4/29/2019	longnose killifish	30	
+1009	G.F.MG.03.102	4/29/2019	longnose killifish	46	
+1010	G.F.MG.03.103	4/29/2019	longnose killifish	41	
+1011	G.F.MG.03.104	4/29/2019	longnose killifish	47	
+1012	G.F.MG.03.105	4/29/2019	longnose killifish	50	
+1013	G.F.MG.03.106	4/29/2019	longnose killifish	52	
+1014	G.F.MG.03.107	4/29/2019	longnose killifish	45	
+1015	G.F.MG.03.108	4/29/2019	longnose killifish	52	
+1016	G.F.MG.03.109	4/29/2019	longnose killifish	37	
+1017	G.F.MG.03.110	4/29/2019	longnose killifish	46	
+1018	G.F.MG.03.111	4/29/2019	longnose killifish	43	
+1019	G.F.MG.03.112	4/29/2019	longnose killifish	54	
+1020	G.F.MG.03.113	4/29/2019	longnose killifish	48	
+1021	G.F.MG.03.114	4/29/2019	diamond killifish	18	
+1022	G.F.MG.03.115	4/29/2019	diamond killifish	22	
+1023	G.F.MG.03.116	4/29/2019	diamond killifish	23	
+1024	G.F.MG.03.117		diamond killifish	24	
+1025	G.F.MG.03.118		diamond killifish	21	
+1026	G.F.MG.03.119		diamond killifish	19	
+1027	G.F.MG.03.120		diamond killifish	19	
+1028	G.F.MG.03.121		diamond killifish	20	
+1029	G.F.MG.03.122		diamond killifish	21	
+1030	G.F.MG.03.123		diamond killifish	22	
+1031	G.F.MG.03.124		diamond killifish	18	
+1032	G.F.MG.03.125		diamond killifish	19	
+1033	G.F.MG.03.126		diamond killifish	18	
+1034	G.F.MG.03.127		diamond killifish	17	
+1035	G.F.MG.03.128		diamond killifish	18	
+1036	G.F.MG.03.129		diamond killifish	18	
+1037	G.F.MG.03.130		diamond killifish	20	
+1038	G.F.MG.03.131		diamond killifish	20	
+1039	G.F.MG.03.132		diamond killifish	20	
+1040	G.F.MG.03.133		diamond killifish	22	
+1041	G.F.SA.02.028		gulf killifish	50	
+1042	G.F.SA.02.029		sheepshead minnow	26	
+1043	G.F.SA.02.030		gulf killifish	32	
+1044	G.F.SA.02.031		gulf killifish	36	
+1045	G.F.SA.02.032		gulf killifish	28	
+1046	G.F.SA.02.033		gulf killifish	33	
+1047	G.F.SA.02.034		gulf killifish	32	
+1048	G.F.SA.02.035		gulf killifish	36	
+1049	G.F.SA.02.036		sailfin molly	29	
+1050	G.F.SA.02.037		red drum	31	
+1051	G.F.SA.02.038		red drum	36	
+1052	G.F.SA.02.039		atlantic croaker	17	
+1053	G.F.SA.02.040		atlantic croaker	16	
+1054	G.F.SA.02.041		atlantic croaker	18	
+1055	G.F.SA.02.042		atlantic croaker	15	
+1056	G.F.SA.02.043		atlantic croaker	16	
+1057	G.F.SA.02.044		atlantic croaker	15	
+1058	G.F.SA.02.045		atlantic croaker	15	
+1059	G.F.SA.02.046		atlantic croaker	18	
+1060	G.F.SA.02.047		atlantic croaker	14	
+1061	G.F.SA.02.048		atlantic croaker	12	
+1062	G.F.SA.02.049		atlantic croaker	17	
+1063	G.F.SA.02.050		atlantic croaker	14	
+1064	G.F.SA.02.051		red drum	13	
+1065	G.F.SA.02.052		atlantic croaker	16	
+1066	G.F.SA.03.065		rainwater killifish	27	
+1067	G.F.SA.03.066		rainwater killifish	18	
+1068	G.F.SA.03.067		gulf killifish	49	
+1069	G.F.SA.03.068		gulf killifish	58	
+1070	G.F.SA.03.069		gulf killifish	49	
+1071	G.F.SA.03.070		gulf killifish	61	
+1072	G.F.SA.03.071		gulf killifish	47	
+1073	G.F.SA.03.072		gulf killifish	42	
+1074	G.F.SA.03.073		gulf killifish	42	
+1075	G.F.SA.03.074		gulf killifish	39	
+1076	G.F.SA.03.075		gulf killifish	39	
+1077	G.F.SA.03.076		gulf killifish	45	
+1078	G.F.SA.03.077		gulf killifish	56	
+1079	G.F.SA.03.078		gulf killifish	67	
+1080	G.F.SA.03.079		gulf killifish	41	
+1081	G.F.SA.03.080		gulf killifish	53	
+1082	G.F.SA.03.081		gulf killifish	53	
+1083	G.F.SA.03.082		gulf killifish	51	
+1084	G.F.SA.03.083		gulf killifish	48	
+1085	G.F.SA.03.084		gulf killifish	66	
+1086	G.F.SA.03.085		gulf killifish	44	
+1087	G.F.SA.03.086		gulf killifish	69	
+1088	G.F.SA.03.087		sheepshead minnow	28	
+1089	G.F.SA.03.088		sailfin molly	38	
+1090	G.F.SA.03.089		sailfin molly	43	
+1091	G.F.SA.03.090		sailfin molly	34	
+1092	G.F.AR.02.058		goby	18	
+1093	G.F.AR.02.059		goby	18	
+1094	G.F.AR.02.060		goby	17	
+1095	G.F.AR.02.061		goby	15	
+1096	G.F.AR.02.062		goby	19	
+1097	G.F.AR.02.063		goby	19	
+1098	G.F.AR.02.064		goby	25	"D V-11, A 11, no fused pelvic fin"
+1099	G.F.AR.02.065		code goby	28	"D VII-12, A 10, fused pelvic fins"
+1100	G.F.AR.02.066		spotted whiff	12	
+1101	G.F.MG.01.101		blackcheek tonguefish	22	
+1102	G.F.MG.01.102		goby	25	"D VI-12, A 10, no fused pelvic fin"
+1103	G.F.MG.01.103		goby	19	
+1104	G.F.MG.01.104		goby	12	
+1105	G.F.MG.01.105		goby	12	
+1106	G.F.MG.01.106		goby	16	
+1107	G.F.MG.01.107		atlantic croaker	17	
+1108	G.F.MG.01.108		atlantic croaker	18	
+1109	G.F.MG.01.109		goby	19	
+1110	G.F.MG.01.110		goby	18	
+1111	G.F.MG.01.111		goby	19	
+1112	G.F.MG.01.112		goby	19	
+1113	G.F.MG.01.113		code goby	21	"D6 D VI-11, A-10, fused pelvic fin"
+1114	G.F.MG.01.114		code goby	24	"D6 D VI-11, A-14, no fused pelvic fin"
+1115	G.F.MG.02.128		blackcheek tonguefish	25	
+1116	G.F.MG.02.129		blackcheek tonguefish	23	
+1117	G.F.MG.02.130		blackcheek tonguefish	17	
+1118	G.F.MG.02.131		goby	17	
+1119	G.F.MG.02.132		goby	15	
+1120	G.F.MG.02.133		goby	19	
+1121	G.F.MG.02.134		goby	22	
+1122	G.F.MG.02.135		goby	23	
+1123	G.F.MG.02.136		goby	24	
+1124	G.F.MG.02.137		goby	24	"D6 DCII-11, A-12, no fused pelvic"
+1125	G.F.MG.02.138		goby	24	"D6 DVII-11, A-"
+1126	G.F.SA.01.066		goby	17	
+1127	G.F.SA.02.054		pinfish	63	
+1128	G.F.SA.02.055		blackcheek tonguefish	24	
+1129	G.F.SA.02.056		blackcheek tonguefish	21	
+1130	G.F.SA.02.057		freckled blenny	23	"D XI D 17, A II A 19"
+1131	G.F.SA.02.058		freckled blenny	24	
+1132	G.F.SA.02.059		goby	14	
+1133	G.F.SA.02.060		goby	15	
+1134	G.F.SA.02.061		goby	15	
+1135	G.F.SA.02.062		goby	15	
+1136	G.F.SA.02.063		goby	15	
+1137	G.F.SA.02.064		goby	15	
+1138	G.F.SA.02.065		goby	18	
+1139	G.F.SA.02.066		goby	13	
+1140	G.F.SA.02.067		goby	19	
+1141	G.F.SA.02.068		goby	14	
+1142	G.F.SA.02.069		goby	17	
+1143	G.F.SA.02.070		goby	13	
+1144	G.F.SA.02.071		goby	17	
+1145	G.F.SA.02.072		goby	21	"D VIII + 12, A 10"
+1146	G.F.SA.02.073		goby	19	
+1147	G.F.SA.02.074		goby	15	
+1148	G.F.SA.02.075		code goby	20	"D VI-12, A 10, fused"
+1149	G.F.SA.02.076		goby	18	
+1150	G.F.SA.02.077		goby	19	
+1151	G.F.SA.02.078		goby	19	
+1152	G.F.SA.02.079		code goby	20	"D VI-11/12, A 10, fused"
+1153	G.F.SA.02.080		goby	15	
+1154	G.F.AR.01.054		code goby	29	"D VII-12, A 10 fused"
+1155	G.F.AR.01.055		goby	19	
+1156	G.F.AR.01.056		goby	18	
+1157	G.F.AR.01.057		goby	19	
+1158	G.F.AR.01.058		code goby	20	"D VI-11, A 10, fused"
+1159	G.F.AR.01.059		code goby	22	"D VI-11, A 10, fused"
+1160	G.F.AR.01.060		code goby	21	"D VII-11, A 10, fused"
+1161	G.F.AR.01.061		goby	23	"D VI-10, A 9, not fused"
+1162	G.F.AR.01.062		blackcheek tonguefish	31	
+1163	G.F.AR.01.063		sheepshead	70	
+1164	G.F.AR.01.064		bighead searobin	13	
+1165	G.F.BF.02.141		spotted seatrout	70	
+1166	G.F.BF.02.142		spotted seatrout	65	
+1167	G.F.BF.02.143		spotted seatrout	76	
+1168	G.F.BF.02.144		spotted seatrout	71	
+1169	G.F.BF.02.145		spotted seatrout	95	
+1170	G.F.AR.01.018		neon goby	18	
+1171	G.F.AR.01.019		neon goby	20	
+1172	G.F.AR.01.020		naked goby	24	
+1173	G.F.AR.01.021		frillfin goby	19	
+1174	G.F.AR.01.022		goby	18	
+1175	G.F.AR.01.023		goby	19	
+1176	G.F.AR.01.024		goby	17	
+1177	G.F.AR.01.025		goby	23	
+1178	G.F.AR.01.026		goby	17	
+1179	G.F.AR.01.027		goby	20	
+1180	G.F.AR.01.028		goby	25	
+1181	G.F.AR.01.029		goby	25	
+1182	G.W.AR.01.002		silverside	36	
+1183	G.W.AR.01.003		silverside	55	
+1184	G.W.AR.01.001		silverside	48	
+1185	G.W.AR.01.018		silverside	42	
+1186	G.W.AR.01.020		silverside	42	guts coming out
+1187	G.W.AR.01.021		silverside	37	
+1188	G.W.AR.01.007		silverside	57	
+1189	G.W.AR.01.004		silverside	45	
+1190	G.W.AR.01.005		silverside	31	guts coming out
+1191	G.W.AR.01.006		silverside	40	laid eggs
+1192	G.W.AR.01.008		silverside	42	
+1193	G.W.AR.01.013		silverside	50	
+1194	G.W.AR.01.009		silverside	53	
+1195	G.W.AR.01.011		silverside	31	
+1196	G.W.AR.01.010		silverside	47	
+1197	G.W.AR.01.019		silverside	49	
+1198	G.W.AR.01.012		silverside	44	guts coming out
+1199	G.W.AR.01.017		silverside	42	
+1200	G.W.AR.01.014		silverside	54	
+1201	G.W.AR.01.016		silverside	44	
+1202	G.W.AR.01.015		silverside	38	
+1203	G.W.AR.02.023		silverside	45	
+1204	G.W.AR.02.022		silverside	52	
+1205	G.W.AR.02.021		silverside	63	
+1206	G.W.AR.02.012		silverside	37	
+1207	G.W.AR.02.011		silverside	38	
+1208	G.W.AR.02.015		silverside	32	
+1209	G.W.AR.02.014		silverside	60	
+1210	G.W.AR.02.013		silverside	42	
+1211	G.W.AR.02.006		silverside	36	
+1212	G.W.AR.02.005		silverside	37	
+1213	G.W.AR.02.008		silverside	41	
+1214	G.W.AR.02.002		silverside	38	
+1215	G.W.AR.02.001		silverside	68	
+1216	G.W.AR.02.003		silverside	33	
+1217	G.W.AR.02.010		silverside	39	
+1218	G.W.AR.02.020		silverside	35	
+1219	G.W.AR.02.019		silverside	23	guts coming out
+1220	G.W.AR.02.018		silverside	38	
+1221	G.W.AR.02.004		silverside	28	
+1222	G.W.AR.02.016		silverside	40	
+1223	G.W.AR.02.017		silverside	68	
+1224	G.W.AR.02.009		silverside	38	
+1225	G.W.AR.02.007		silverside	42	
+1226	G.W.AR.03.001		silverside	45	
+1227	G.W.AR.03.002		silverside	37	
+1228	G.W.AR.03.003		silverside	56	
+1229	G.W.AR.03.004		silverside	43	
+1230	G.W.AR.03.005		silverside	39	
+1231	G.W.AR.03.006		silverside	39	
+1232	G.W.AR.03.007		silverside	42	
+1233	G.W.AR.03.008		silverside	40	
+1234	G.W.AR.03.009		silverside	25	
+1235	G.W.AR.03.010		silverside	41	
+1236	G.W.AR.03.011		silverside	41	
+1237	G.W.AR.03.012		silverside	50	
+1238	G.W.AR.03.013		silverside	40	
+1239	G.W.AR.03.014		silverside	47	
+1240	G.W.AR.03.015		silverside	46	
+1241	G.W.AR.03.016		silverside	51	
+1242	G.W.AR.03.017		silverside	41	
+1243	G.W.AR.03.018		silverside	52	
+1244	G.W.AR.03.019		silverside	37	
+1245	G.W.AR.03.020		silverside	45	
+1246	G.W.MG.01.001		silverside	50	
+1247	G.W.MG.01.002		silverside	48	
+1248	G.W.MG.01.003		silverside	76	
+1249	G.W.MG.01.004		silverside	68	
+1250	G.W.MG.01.005		silverside	65	
+1251	G.W.MG.01.006		silverside	60	
+1252	G.W.MG.01.007		silverside	50	
+1253	G.W.MG.01.008		silverside	77	
+1254	G.W.MG.01.009		silverside	63	
+1255	G.W.MG.01.010		silverside	60	
+1256	G.W.MG.01.011		silverside	65	
+1257	G.W.MG.01.012		silverside	67	
+1258	G.W.MG.01.013		silverside	47	
+1259	G.W.MG.01.014		silverside	62	
+1260	G.W.MG.01.015		silverside	62	
+1261	G.W.MG.01.016		silverside	48	
+1262	G.W.MG.01.017		silverside	66	
+1263	G.W.MG.01.018		silverside	65	
+1264	G.W.MG.01.019		silverside	61	
+1265	G.W.MG.01.020		silverside	65	
+1266	G.W.MG.02.001		silverside	51	
+1267	G.W.MG.02.002		silverside	55	
+1268	G.W.MG.02.003		silverside	50	
+1269	G.W.MG.02.004		silverside	54	
+1270	G.W.MG.02.005		silverside	62	
+1271	G.W.MG.02.006		silverside	59	
+1272	G.W.MG.02.007		silverside	55	
+1273	G.W.MG.02.008		silverside	54	
+1274	G.W.MG.02.009		silverside	57	
+1275	G.W.MG.02.010		silverside	60	
+1276	G.W.MG.02.011		silverside	58	
+1277	G.W.MG.02.012		silverside	54	
+1278	G.W.MG.02.013		silverside	58	
+1279	G.W.MG.02.014		silverside	58	
+1280	G.W.MG.02.015		silverside	55	
+1281	G.W.MG.02.016		silverside	58	
+1282	G.W.MG.02.017		silverside	55	
+1283	G.W.MG.02.018		silverside	52	
+1284	G.W.MG.02.019		silverside	60	looks damaged
+1285	G.W.MG.02.020		silverside	57	
+1286	G.W.MG.02.021		silverside	53	
+1287	G.W.MG.03.001		silverside	54	
+1288	G.W.MG.03.002		silverside	41	
+1289	G.W.MG.03.003		silverside	49	
+1290	G.W.MG.03.004		silverside	45	
+1291	G.W.MG.03.005		silverside	41	
+1292	G.W.MG.03.006		silverside	49	
+1293	G.W.MG.03.007		silverside	48	
+1294	G.W.MG.03.008		silverside	41	
+1295	G.W.MG.03.009		silverside	50	
+1296	G.W.MG.03.010		silverside	49	
+1297	G.W.MG.03.011		silverside	49	
+1298	G.W.MG.03.012		silverside	51	
+1299	G.W.MG.03.013		silverside	71	
+1300	G.W.MG.03.014		silverside	46	
+1301	G.W.MG.03.015		silverside	48	
+1302	G.W.SA.01.001		silverside	43	
+1303	G.W.SA.01.002		silverside	50	
+1304	G.W.SA.01.003		silverside	41	
+1305	G.W.SA.01.004		silverside	39	
+1306	G.W.SA.01.005		silverside	41	
+1307	G.W.SA.01.006		silverside	42	
+1308	G.W.SA.01.007		silverside	32	
+1309	G.W.SA.01.008		silverside	36	
+1310	G.W.SA.01.009		silverside	48	
+1311	G.W.SA.01.010		silverside	37	
+1312	G.W.SA.01.011		silverside	37	
+1313	G.W.SA.01.012		silverside	34	
+1314	G.W.SA.01.013		silverside	43	
+1315	G.W.SA.01.014		silverside	42	
+1316	G.W.SA.01.015		silverside	38	
+1317	G.W.SA.01.016		silverside	40	
+1318	G.W.SA.01.017		silverside	44	
+1319	G.W.SA.01.018		silverside	40	
+1320	G.W.SA.01.019		silverside	32	
+1321	G.W.SA.01.020		silverside	40	
+1322	G.W.SA.02.001		silverside	42	
+1323	G.W.SA.02.002		silverside	54	
+1324	G.W.SA.02.003		silverside	50	
+1325	G.W.SA.02.004		silverside	57	
+1326	G.W.SA.02.005		silverside	38	
+1327	G.W.SA.02.006		silverside	47	
+1328	G.W.SA.02.007		silverside	40	
+1329	G.W.SA.02.008		silverside	54	
+1330	G.W.SA.02.009		silverside	39	
+1331	G.W.SA.02.010		silverside	47	
+1332	G.W.SA.02.011		silverside	48	
+1333	G.W.SA.02.012		silverside	55	
+1334	G.W.SA.02.013		silverside	42	
+1335	G.W.SA.02.014		silverside	48	
+1336	G.W.SA.02.015		silverside	48	
+1337	G.W.SA.02.016		silverside	46	
+1338	G.W.SA.02.017		silverside	49	
+1339	G.W.SA.03.001		silverside	53	
+1340	G.W.SA.03.002		silverside	49	
+1341	G.W.SA.03.003		silverside	45	
+1342	G.W.SA.03.004		silverside		
+1343	G.W.SA.03.005		silverside		
+1344	G.W.SA.03.006		silverside		
+1345	G.W.SA.03.007		silverside		
+1346	G.W.SA.03.008		silverside	51	
+1347	G.W.SA.03.009		silverside	42	
+1348	G.W.SA.03.010		silverside	37	
+1349	G.W.SA.03.011		silverside	45	
+1350	G.W.SA.03.012		silverside	48	
+1351	G.W.SA.03.013		silverside	47	
+1352	G.W.SA.03.014		silverside	47	
+1353	G.W.SA.03.015		silverside	42	
+1354	G.W.SA.03.016		silverside	42	
+1355	G.W.SA.03.017		silverside	39	
+1356	G.W.SA.03.018		silverside	45	
+1357	G.W.SA.03.019		silverside	40	
+1358	G.W.SA.03.020		silverside	43	
+1359	G.W.BF.01.001		silverside	37	
+1360	G.W.BF.01.002		silverside	53	
+1361	G.W.BF.01.003		silverside	22	
+1362	G.W.BF.01.004		silverside	25	
+1363	G.W.BF.01.005		silverside	21	has a little guts coming out
+1364	G.W.BF.01.006		silverside	23	
+1365	G.W.BF.01.007		silverside	22	
+1366	G.W.BF.01.008		silverside	23	guts coming out
+1367	G.W.BF.01.009		silverside	22	
+1368	G.W.BF.01.010		silverside	22	
+1369	G.W.BF.01.011		silverside	25	
+1370	G.W.BF.01.012		silverside	23	
+1371	G.W.BF.01.013		silverside	20	
+1372	G.W.BF.01.014		silverside	22	
+1373	G.W.BF.01.015		silverside	28	
+1374	G.W.BF.01.016		silverside	21	
+1375	G.W.BF.01.017		silverside	24	
+1376	G.W.BF.01.018		silverside	20	guts coming out
+1377	G.W.BF.01.019		silverside	21	
+1378	G.W.BF.01.020		silverside	27	
+1379	G.W.BF.01.021		bay anchovy	53	
+1380	G.W.BF.01.022		bay anchovy	48	
+1381	G.W.BF.01.023		bay anchovy	46	
+1382	G.W.BF.01.024		bay anchovy	47	
+1383	G.W.BF.02.001		silverside	15	
+1384	G.W.BF.02.002		silverside	25	guts leaking
+1385	G.W.BF.02.003		silverside	40	
+1386	G.W.BF.02.004		silverside	44	eggs?
+1387	G.W.BF.02.005		silverside	26	
+1388	G.W.BF.02.006		silverside	51	
+1389	G.W.BF.02.007		silverside	38	
+1390	G.W.BF.02.008		silverside	22	
+1391	G.W.BF.02.009		silverside	43	guts
+1392	G.W.BF.02.010		silverside	23	
+1393	G.W.BF.02.011		silverside	24	guts
+1394	G.W.BF.02.012		silverside	49	maybe a little guts
+1395	G.W.BF.02.013		silverside	22	
+1396	G.W.BF.02.014		silverside	26	
+1397	G.W.BF.02.015		silverside	23	
+1398	G.W.BF.02.016		silverside	22	
+1399	G.W.BF.02.017		silverside	26	
+1400	G.W.BF.02.018		silverside	26	Dguts
+1401	G.W.BF.02.019		silverside	23	
+1402	G.W.BF.02.020		silverside	23	Dguts
+1403	G.W.BF.03.001		silverside	23	
+1404	G.W.BF.03.002		silverside	21	
+1405	G.W.BF.03.003		silverside	21	
+1406	G.W.BF.03.004		silverside	20	
+1407	G.W.BF.03.005		bay anchovy	27	
+1408	G.W.BF.03.006		bay anchovy	41	
+1409	G.W.BF.03.007		bay anchovy	47	
+1410	G.W.BF.03.008		bay anchovy	46	
+1411	G.W.BF.03.009		bay anchovy	50	
+1412	G.W.BF.03.010		bay anchovy	34	
+1413	G.W.BF.03.011		bay anchovy	49	
+1414	G.W.BF.03.012		bay anchovy	48	
+1415	G.W.BF.03.013		bay anchovy	33	
+1416	G.W.BF.03.014		bay anchovy	40	
+1417	G.W.BF.03.015		bay anchovy	44	
+1418	G.W.BF.03.016		bay anchovy	50	
+1419	G.W.BF.03.017		bay anchovy	55	
+1420	G.W.BF.03.018		bay anchovy	55	
+1421	G.W.BF.03.019		bay anchovy	45	
+1422	G.W.BF.03.020		bay anchovy	43	
+1423	G.W.BF.03.021		bay anchovy	40	
+1424	G.W.BF.03.022		bay anchovy	43	
+1425	G.W.BF.03.023			44	
+1426	G.W.BF.03.024		bay anchovy	49	
+1427	G.W.BF.01.025		rainwater killifish	23	
+1428	G.W.BF.01.026		lucania parva	31	
+1429	G.W.BF.01.027		lucania parva	36	
+1430	G.W.BF.01.028		lucania parva	24	
+1431	G.W.BF.01.029		lucania parva	27	
+1432	G.W.BF.01.030		lucania parva	33	
+1433	G.W.BF.01.031		lucania parva	37	
+1434	G.W.BF.01.032		lucania parva	25	
+1435	G.W.BF.01.033		lucania parva	36	
+1436	G.W.BF.01.034		lucania parva	47	
+1437	G.W.BF.01.035		lucania parva	32	
+1438	G.W.BF.01.036		lucania parva	35	
+1439	G.W.BF.01.037		lucania parva	33	
+1440	G.W.BF.01.038		lucania parva	33	
+1441	G.W.BF.01.039		lucania parva	24	
+1442	G.W.BF.01.040		lucania parva	28	
+1443	G.W.BF.01.041		lucania parva	31	
+1444	G.W.BF.01.042		lucania parva	20	
+1445	G.W.BF.01.043		lucania parva	37	
+1446	G.W.BF.01.044		lucania parva	33	
+1447	G.W.BF.01.045		lucania parva	23	
+1448	G.W.BF.01.046		gulf killifish	36	reID
+1449	G.W.BF.01.047		gulf killifish	32	reID
+1450	G.W.BF.01.048		gulf killifish	35	reID
+1451	G.W.BF.01.049		gulf killifish	23	reID
+1452	G.W.BF.01.050		gulf killifish	24	reID
+1453	G.W.BF.01.051		gulf killifish	33	reID
+1454	G.W.BF.01.052		sheepshead minnow	23	
+1455	G.W.BF.01.053		pinfish	39	
+1456	G.W.BF.01.054		pinfish	31	
+1457	G.W.BF.01.055		pinfish	38	
+1458	G.W.BF.01.056		pinfish	43	
+1459	G.W.BF.01.057		pinfish	38	
+1460	G.W.BF.01.058		pinfish	40	
+1461	G.W.BF.01.059		pinfish	43	
+1462	G.W.BF.01.060		pinfish	43	
+1463	G.W.BF.01.061		pinfish	30	
+1464	G.W.BF.01.062		pinfish	42	
+1465	G.W.BF.01.063		pinfish	40	tail is broken
+1466	G.W.BF.01.064		pinfish	40	
+1467	G.W.BF.01.065		pinfish	47	
+1468	G.W.BF.01.066		pinfish	33	
+1469	G.W.BF.01.067		pinfish	48	
+1470	G.W.BF.01.068		pinfish	41	
+1471	G.W.BF.01.069		pinfish	37	
+1472	G.W.BF.01.070		pinfish	45	
+1473	G.W.BF.01.071		pinfish	46	
+1474	G.W.BF.01.072		pinfish	40	
+1475	G.W.BF.02.035		sheepshead minnow	39	
+1476	G.W.BF.02.036		pinfish	35	
+1477	G.W.BF.02.037		pinfish	33	
+1478	G.W.BF.02.038		pinfish	42	
+1479	G.W.BF.02.039		pinfish	39	
+1480	G.W.BF.02.040		pinfish	34	
+1481	G.W.BF.02.041		pinfish	41	
+1482	G.W.BF.02.042		pinfish	45	
+1483	G.W.BF.02.043		pinfish	35	
+1484	G.W.BF.02.044		pinfish	34	
+1485	G.W.BF.02.045		pinfish	37	
+1486	G.W.BF.02.046		pinfish	35	
+1487	G.W.BF.02.047		pinfish	37	
+1488	G.W.BF.02.048		pinfish	38	
+1489	G.W.BF.02.049		pinfish	31	
+1490	G.W.BF.02.050		pinfish	36	
+1491	G.W.BF.02.051		pinfish	38	
+1492	G.W.BF.02.052		pinfish	33	
+1493	G.W.BF.02.053		pinfish	39	
+1494	G.W.AR.02.024		sheepshead minnow	29	
+1495	G.W.AR.01.022		pinfish	25	
+1496	G.W.AR.01.023		pinfish	26	
+1497	G.W.AR.01.024		pinfish	29	
+1498	G.W.AR.01.025		pinfish	16	
+1499	G.W.AR.01.026		pinfish	17	
+1500	G.W.AR.01.027		pinfish	26	
+1501	G.W.AR.01.028		pinfish	22	
+1502	G.W.AR.01.029		pinfish	25	
+1503	G.W.AR.01.030		pinfish	25	
+1504	G.W.AR.01.031		pinfish	23	
+1505	G.W.AR.01.032		pinfish	26	
+1506	G.W.AR.01.033		pinfish	24	
+1507	G.W.AR.01.034		pinfish	24	
+1508	G.W.AR.02.025		pinfish	26	
+1509	G.W.AR.02.026		pinfish	26	
+1510	G.W.AR.02.027		pinfish	34	
+1511	G.W.AR.02.028		pinfish	27	
+1512	G.W.AR.02.029		pinfish	27	
+1513	G.W.AR.02.030		pinfish	36	
+1514	G.W.AR.02.031		pinfish	37	
+1515	G.W.AR.02.032		pinfish	32	
+1516	G.W.AR.02.033		pinfish	32	
+1517	G.W.AR.02.034		pinfish	27	
+1518	G.W.AR.02.035		pinfish	29	
+1519	G.W.AR.02.036		pinfish	37	
+1520	G.W.AR.02.037		pinfish	25	
+1521	G.W.AR.02.038		pinfish	28	
+1522	G.W.AR.02.039		pinfish	22	
+1523	G.W.AR.02.040		pinfish	23	
+1524	G.W.AR.02.041		pinfish	26	
+1525	G.W.AR.02.042		pinfish	25	
+1526	G.W.AR.02.043		pinfish	26	
+1527	G.W.AR.02.044		pinfish	27	
+1528	G.W.AR.02.045		pinfish	29	
+1529	G.W.AR.02.046		pinfish	29	
+1530	G.W.AR.03.021		pinfish	25	
+1531	G.W.AR.03.022		pinfish	30	
+1532	G.W.AR.03.023		pinfish	26	
+1533	G.W.AR.03.024		pinfish	20	
+1534	G.W.AR.03.025		pinfish	31	
+1535	G.W.AR.03.026		pinfish	25	
+1536	G.W.AR.03.027		pinfish	25	
+1537	G.W.AR.03.028		pinfish	26	
+1538	G.W.AR.03.029		pinfish	26	
+1539	G.W.AR.03.030		pinfish	28	
+1540	G.W.AR.03.031		pinfish	28	
+1541	G.W.AR.03.032		pinfish	28	
+1542	G.W.AR.03.033		pinfish	32	
+1543	G.W.AR.03.034		pinfish	23	
+1544	G.W.AR.03.035		pinfish	25	
+1545	G.W.AR.03.036		pinfish	26	
+1546	G.W.MG.01.021		pinfish	19	
+1547	G.W.MG.01.022		pinfish	37	
+1548	G.W.MG.01.023		pinfish	48	
+1549	G.W.MG.01.024		pinfish	50	
+1550	G.W.MG.01.025		pinfish	39	
+1551	G.W.MG.01.026		pinfish	37	
+1552	G.W.MG.01.027		pinfish	37	
+1553	G.W.MG.01.028		pinfish	41	
+1554	G.W.MG.01.029		pinfish	37	
+1555	G.W.MG.01.030		pinfish	39	
+1556	G.W.MG.01.031		pinfish	35	
+1557	G.W.MG.01.032		pinfish	22	
+1558	G.W.MG.01.033		pinfish	22	
+1559	G.W.MG.01.034		pinfish	26	
+1560	G.W.MG.01.035		pinfish	34	
+1561	G.W.MG.01.036		pinfish	33	
+1562	G.W.MG.01.037		pinfish	34	
+1563	G.W.MG.01.038		pinfish	36	
+1564	G.W.MG.01.039		pinfish	37	
+1565	G.W.MG.01.040		pinfish	26	
+1566	G.W.MG.02.022		pinfish	39	
+1567	G.W.MG.02.023		pinfish	15	
+1568	G.W.MG.02.024		pinfish	26	
+1569	G.W.MG.02.025		pinfish	34	
+1570	G.W.MG.02.026		pinfish	34	
+1571	G.W.MG.02.027		pinfish	29	
+1572	G.W.MG.02.028		pinfish	26	
+1573	G.W.MG.02.029		pinfish	25	
+1574	G.W.MG.02.030		pinfish	25	
+1575	G.W.MG.02.031		pinfish	25	
+1576	G.W.MG.02.032		pinfish	36	
+1577	G.W.MG.02.033		pinfish	36	
+1578	G.W.MG.02.034		pinfish	38	
+1579	G.W.MG.02.035		pinfish	37	
+1580	G.W.MG.02.036		pinfish	39	
+1581	G.W.MG.02.037		pinfish	32	
+1582	G.W.MG.02.038		pinfish	25	
+1583	G.W.MG.02.039		pinfish	24	
+1584	G.W.MG.02.040		pinfish	32	
+1585	G.W.MG.02.041		pinfish	24	
+1586	G.W.MG.02.042		pinfish	30	
+1587	G.W.MG.02.043		pinfish	28	
+1588	G.W.MG.02.044		pinfish	34	
+1589	G.W.MG.02.045		pinfish	40	poop
+1590	G.W.MG.03.016		pinfish	36	
+1591	G.W.MG.03.017		pinfish	30	poop
+1592	G.W.MG.03.018		pinfish	27	
+1593	G.W.MG.03.019		pinfish	30	
+1594	G.W.MG.03.020		pinfish	32	
+1595	G.W.MG.03.021		pinfish	37	
+1596	G.W.SA.01.021		pinfish	32	
+1597	G.W.SA.01.022		pinfish	27	
+1598	G.W.SA.01.023		pinfish	32	
+1599	G.W.SA.01.024		pinfish	33	
+1600	G.W.SA.01.025		pinfish	33	
+1601	G.W.SA.01.026		pinfish	32	
+1602	G.W.SA.01.027		pinfish	36	
+1603	G.W.SA.01.028		pinfish	32	
+1604	G.W.SA.01.029		pinfish	33	
+1605	G.W.SA.01.030		pinfish	31	
+1606	G.W.SA.01.031		pinfish	40	
+1607	G.W.SA.01.032		pinfish	30	
+1608	G.W.SA.01.033		pinfish	27	
+1609	G.W.SA.01.034		pinfish	34	
+1610	G.W.SA.01.035		pinfish	33	
+1611	G.W.SA.01.036		pinfish	30	
+1612	G.W.SA.01.037		pinfish	33	
+1613	G.W.SA.01.038		pinfish	27	
+1614	G.W.SA.01.039		pinfish	31	
+1615	G.W.SA.01.040		pinfish	31	
+1616	G.W.SA.01.041		pinfish	31	
+1617	G.W.SA.02.018		pinfish	27	
+1618	G.W.SA.02.019		pinfish	15	
+1619	G.W.SA.02.020		pinfish	26	
+1620	G.W.SA.02.021		pinfish	33	
+1621	G.W.SA.02.022		pinfish	28	
+1622	G.W.SA.02.023		pinfish	21	
+1623	G.W.SA.02.024		pinfish	29	
+1624	G.W.SA.02.025		pinfish	23	
+1625	G.W.SA.02.026		pinfish	23	
+1626	G.W.SA.02.027		pinfish	27	
+1627	G.W.SA.02.028		pinfish	22	
+1628	G.W.SA.02.029		pinfish	30	
+1629	G.W.SA.02.030		pinfish	23	
+1630	G.W.SA.02.031		pinfish	15	
+1631	G.W.SA.02.032		pinfish	22	
+1632	G.W.SA.02.033		pinfish	20	
+1633	G.W.SA.02.034		pinfish	14	
+1634	G.W.SA.02.035		pinfish	24	
+1635	G.W.SA.02.036		pinfish	21	
+1636	G.W.SA.02.037		pinfish	21	
+1637	G.W.SA.02.038		pinfish	16	
+1638	G.W.SA.03.021		pinfish	40	
+1639	G.W.SA.03.022		pinfish	16	
+1640	G.W.SA.03.023		pinfish	29	
+1641	G.W.SA.03.024		pinfish	35	poopie
+1642	G.W.SA.03.025		bay anchovy	40	
+1643	G.W.SA.03.026		bay anchovy	39	
+1644	G.W.SA.03.027		bay anchovy	36	
+1645	G.W.SA.03.028		bay anchovy	34	
+1646	G.W.SA.03.029		bay anchovy	35	
+1647	G.W.SA.03.030		bay anchovy	42	
+1648	G.W.SA.03.031		bay anchovy	34	
+1649	G.W.SA.03.032		bay anchovy	37	
+1650	G.W.SA.03.033		bay anchovy	39	
+1651	G.W.SA.03.034		bay anchovy	35	
+1652	G.W.SA.03.035		bay anchovy	34	
+1653	G.W.SA.03.036		bay anchovy	35	
+1654	G.W.SA.03.037		bay anchovy	37	
+1655	G.W.SA.03.038		bay anchovy	32	
+1656	G.W.SA.03.039		bay anchovy	34	
+1657	G.W.SA.03.040		bay anchovy	35	
+1658	G.W.SA.03.041		bay anchovy	34	
+1659	G.W.SA.03.042		bay anchovy	34	eyes messed up
+1660	G.W.SA.03.043		bay anchovy	35	
+1661	G.W.SA.03.044		bay anchovy	40	
+1662	G.W.BF.03.025	6/5/2019	pinfish	28	
+1663	G.W.BF.03.026	6/5/2019	pinfish	38	
+1664	G.W.BF.03.027	6/5/2019	pinfish	32	
+1665	G.W.BF.03.028	6/5/2019	pinfish	35	
+1666	G.W.BF.03.029	6/5/2019	pinfish	35	
+1667	G.W.BF.03.030	6/5/2019	pinfish	31	
+1668	G.W.BF.03.031	6/5/2019	pinfish	36	
+1669	G.W.BF.03.032	6/5/2019	pinfish	32	
+1670	G.W.BF.03.033	6/5/2019	pinfish	34	
+1671	G.W.BF.03.034	6/5/2019	pinfish	34	
+1672	G.W.BF.03.035	6/5/2019	pinfish	27	
+1673	G.W.BF.03.036	6/5/2019	pinfish	30	
+1674	G.W.BF.03.037	6/5/2019	pinfish	31	
+1675	G.W.BF.03.038	6/5/2019	pinfish	33	
+1676	G.W.BF.03.039	6/5/2019	pinfish	36	
+1677	G.W.BF.03.040	6/5/2019	pinfish	26	
+1678	G.W.BF.03.041	6/5/2019	pinfish	25	
+1679	G.W.BF.03.042	6/5/2019	pinfish	32	
+1680	G.W.BF.03.043	6/5/2019	pinfish	31	
+1681	G.W.BF.03.044	6/5/2019	pinfish	36	poop
+1682	G.W.AR.01.035	6/6/2019	striped anchovy	21	
+1683	G.W.AR.01.036	6/6/2019	striped anchovy	20	
+1684	G.W.AR.01.037	6/6/2019	striped anchovy	21	
+1685	G.W.AR.01.038	6/6/2019	striped anchovy	21	
+1686	G.W.AR.01.039	6/6/2019	striped anchovy	21	
+1687	G.W.AR.01.040	6/6/2019	striped anchovy	23	
+1688	G.W.AR.01.041	6/6/2019	striped anchovy	20	damage to middle of body
+1689	G.W.AR.01.042	6/6/2019	striped anchovy	20	
+1690	G.W.AR.01.043	6/6/2019	striped anchovy	22	
+1691	G.W.AR.01.044	6/6/2019	striped anchovy	21	
+1692	G.W.AR.01.045	6/6/2019	striped anchovy	22	
+1693	G.W.AR.01.046	6/6/2019	striped anchovy	19	
+1694	G.W.AR.01.047	6/6/2019	bay anchovy	20	
+1695	G.W.AR.01.048	6/6/2019	striped anchovy	19	
+1696	G.W.AR.01.049	6/6/2019	striped anchovy	21	
+1697	G.W.AR.01.050	6/6/2019	bay anchovy	20	
+1698	G.W.AR.01.051	6/6/2019	striped anchovy	19	
+1699	G.W.AR.01.052	6/6/2019	striped anchovy	20	
+1700	G.W.MG.01.041	6/6/2019	bay anchovy	37	
+1701	G.W.MG.01.042	6/6/2019	bay anchovy	41	
+1702	G.W.MG.01.043	6/6/2019	bay anchovy	49	
+1703	G.W.MG.01.044	6/6/2019	bay anchovy	34	
+1704	G.W.MG.01.045	6/6/2019	bay anchovy	32	
+1705	G.W.MG.01.046	6/6/2019	bay anchovy	41	
+1706	G.W.MG.01.047	6/6/2019	bay anchovy	36	
+1707	G.W.MG.01.048	6/6/2019	bay anchovy	40	
+1708	G.W.MG.01.049	6/6/2019	bay anchovy	23	
+1709	G.W.MG.01.050	6/6/2019	bay anchovy	22	
+1710	G.W.MG.01.051	6/6/2019	bay anchovy	21	
+1711	G.W.MG.01.052	6/6/2019	bay anchovy	45	
+1712	G.W.MG.01.053	6/6/2019	bay anchovy	39	
+1713	G.W.MG.01.054	6/6/2019	bay anchovy	34	
+1714	G.W.MG.01.055	6/6/2019	bay anchovy	38	
+1715	G.W.MG.01.056	6/6/2019	bay anchovy	38	
+1716	G.W.MG.01.057	6/6/2019	bay anchovy	41	
+1717	G.W.MG.01.058	6/6/2019	bay anchovy	41	
+1718	G.W.MG.01.059	6/6/2019	bay anchovy	39	
+1719	G.W.MG.01.060	6/6/2019	bay anchovy	31	
+1720	G.W.MG.01.061	6/6/2019	bay anchovy	39	
+1721	G.W.MG.01.062	6/6/2019	bay anchovy	38	
+1722	G.W.MG.02.046	6/6/2019	bay anchovy	37	
+1723	G.W.MG.02.047	6/6/2019	bay anchovy	37	
+1724	G.W.MG.02.048	6/6/2019	bay anchovy	44	
+1725	G.W.MG.02.049	6/6/2019	bay anchovy	36	
+1726	G.W.MG.02.050	6/6/2019	bay anchovy	42	
+1727	G.W.MG.02.051	6/6/2019	bay anchovy	42	
+1728	G.W.AR.01.053	6/6/2019	mullet	38	
+1729	G.W.AR.01.054	6/6/2019	mullet	26	
+1730	G.W.AR.01.055	6/6/2019	mullet	25	
+1731	G.W.AR.01.056	6/6/2019	mullet	28	
+1732	G.W.AR.01.057	6/6/2019	mullet	27	
+1733	G.W.AR.01.058	6/6/2019	mullet	28	
+1734	G.W.AR.01.059	6/6/2019	mullet	19	
+1735	G.W.AR.01.060	6/6/2019	mullet	25	
+1736	G.W.AR.01.061	6/6/2019	mullet	24	
+1737	G.W.AR.01.062	6/6/2019	mullet	26	
+1738	G.W.AR.01.063	6/6/2019	mullet	24	
+1739	G.W.AR.01.064	6/6/2019	mullet	27	
+1740	G.W.AR.01.065	6/6/2019	mullet	23	
+1741	G.W.AR.01.066	6/6/2019	mullet	26	
+1742	G.W.AR.01.067	6/6/2019	mullet	21	
+1743	G.W.AR.01.068	6/6/2019	mullet	25	
+1744	G.W.AR.01.069	6/6/2019	mullet	26	
+1745	G.W.AR.01.070	6/6/2019	mullet	28	
+1746	G.W.AR.02.047	6/6/2019	mullet	20	
+1747	G.W.AR.02.048	6/6/2019	mullet	18	
+1748	G.W.AR.02.049	6/6/2019	mullet	21	
+1749	G.W.AR.02.050	6/6/2019	mullet	26	
+1750	G.W.AR.02.051	6/6/2019	mullet	20	
+1751	G.W.AR.02.052	6/6/2019	mullet	19	
+1752	G.W.AR.02.053	6/6/2019	mullet	20	
+1753	G.W.AR.02.054	6/6/2019	mullet	19	
+1754	G.W.AR.02.055	6/6/2019	mullet	21	
+1755	G.W.AR.02.056	6/6/2019	mullet	19	
+1756	G.W.AR.02.057	6/6/2019	mullet	23	
+1757	G.W.AR.02.058	6/6/2019	mullet	24	
+1758	G.W.AR.02.059	6/6/2019	mullet	18	
+1759	G.W.AR.02.060	6/6/2019	mullet	19	
+1760	G.W.AR.02.061	6/6/2019	mullet	19	
+1761	G.W.AR.02.062	6/6/2019	mullet	20	
+1762	G.W.AR.03.038	6/6/2019	mullet	25	
+1763	G.W.AR.03.039	6/6/2019	mullet	28	
+1764	G.W.AR.03.040	6/6/2019	mullet	26	
+1765	G.W.AR.03.041	6/6/2019	mullet	25	
+1766	G.W.AR.03.042	6/6/2019	mullet	25	
+1767	G.W.AR.03.043	6/6/2019	mullet	26	
+1768	G.W.AR.03.044	6/6/2019	mullet	20	
+1769	G.W.AR.03.045	6/6/2019	mullet	23	
+1770	G.W.AR.03.046	6/6/2019	mullet	22	
+1771	G.W.AR.03.047	6/6/2019	mullet	21	
+1772	G.W.AR.03.048	6/6/2019	mullet	24	
+1773	G.W.AR.03.049	6/6/2019	mullet	26	
+1774	G.W.AR.03.050	6/6/2019	mullet	25	
+1775	G.W.AR.03.051	6/6/2019	mullet	25	
+1776	G.W.AR.03.052	6/6/2019	mullet	25	
+1777	G.W.AR.03.053	6/6/2019	mullet	27	
+1778	G.W.AR.03.054	6/6/2019	mullet	28	
+1779	G.W.AR.03.055	6/6/2019	mullet	26	
+1780	G.W.AR.03.056	6/6/2019	mullet	26	
+1781	G.W.AR.03.057	6/6/2019	mullet	28	
+1782	G.W.AR.03.058	6/6/2019	mullet	28	
+1783	G.W.AR.03.059	6/6/2019	mullet	26	
+1784	G.W.AR.03.060	6/6/2019	mullet	23	
+1785	G.W.SA.03.045	6/6/2019	mullet	34	
+1786	G.W.SA.03.046	6/6/2019	mullet	35	
+1787	G.W.SA.03.047	6/6/2019	mullet	35	
+1788	G.W.SA.03.048	6/6/2019	mullet	34	
+1789	G.W.SA.03.049	6/6/2019	mullet	32	
+1790	G.W.SA.03.050	6/6/2019	mullet	35	
+1791	G.W.SA.03.051	6/6/2019	mullet	36	
+1792	G.W.SA.03.052	6/6/2019	mullet	31	
+1793	G.W.SA.03.053	6/6/2019	mullet	34	
+1794	G.W.SA.03.054	6/6/2019	mullet	32	
+1795	G.W.SA.03.055	6/6/2019	mullet	27	
+1796	G.W.SA.03.056	6/6/2019	mullet	35	
+1797	G.W.SA.03.057	6/6/2019	mullet	32	
+1798	G.W.SA.03.058	6/6/2019	mullet	37	
+1799	G.W.SA.03.059	6/6/2019	mullet	36	
+1800	G.W.SA.03.060	6/6/2019	mullet	36	
+1801	G.W.SA.03.061	6/6/2019	mullet	35	
+1802	G.W.SA.03.062	6/6/2019	mullet	33	
+1803	G.W.SA.03.063	6/6/2019	mullet	37	
+1804	G.W.SA.03.064	6/6/2019	mullet	30	
+1805	G.W.BF.02.054	6/6/2019	gulf killifish	55	
+1806	G.W.BF.02.055	6/6/2019	gulf killifish	68	
+1807	G.W.BF.02.056	6/6/2019	gulf killifish	91	
+1808	G.W.BF.02.057	6/6/2019	gulf killifish	76	
+1809	G.W.BF.02.058	6/6/2019	rainwater killifish	23	
+1810	G.W.BF.02.059	6/6/2019	rainwater killifish	24	
+1811	G.W.BF.02.060	6/6/2019	rainwater killifish	19	
+1812	G.W.BF.02.061	6/6/2019	rainwater killifish	26	
+1813	G.W.BF.02.062	6/6/2019	rainwater killifish	28	
+1814	G.W.BF.02.063	6/6/2019	rainwater killifish	19	
+1815	G.W.BF.02.064	6/6/2019	rainwater killifish	21	
+1816	G.W.BF.02.065	6/6/2019	rainwater killifish	20	
+1817	G.W.BF.02.066	6/6/2019	rainwater killifish	23	
+1818	G.W.BF.02.067	6/6/2019	rainwater killifish	23	
+1819	G.W.BF.02.068	6/6/2019	rainwater killifish	24	
+1820	G.W.BF.02.069	6/6/2019	rainwater killifish	23	
+1821	G.W.BF.02.070	6/6/2019	rainwater killifish	20	
+1822	G.W.BF.02.071	6/6/2019	rainwater killifish	30	
+1823	G.W.BF.02.072	6/6/2019	rainwater killifish	21	
+1824	G.W.BF.02.073	6/6/2019	rainwater killifish	19	
+1825	G.W.BF.02.074	6/6/2019	rainwater killifish	22	
+1826	G.W.BF.02.075	6/6/2019	rainwater killifish	22	
+1827	G.W.BF.02.076	6/6/2019	rainwater killifish	24	
+1828	G.W.AR.02.063	6/7/2019	longnose killifish	27	
+1829	G.W.AR.02.064	6/7/2019	longnose killifish	50	
+1830	G.W.AR.02.065	6/7/2019	longnose killifish	53	
+1831	G.W.AR.02.066	6/7/2019	longnose killifish	56	
+1832	G.W.BF.03.045	6/7/2019	rainwater killifish	25	
+1833	G.W.BF.03.046	6/7/2019	rainwater killifish	22	
+1834	G.W.SA.03.065	6/7/2019	gulf killifish	58	
+1835	G.W.SA.03.066	6/7/2019	gulf killifish	61	
+1836	G.W.SA.03.067	6/7/2019	rainwater killifish	54	
+1837	G.W.SA.03.068	6/7/2019	gulf killifish	52	
+1838	G.W.SA.03.069	6/7/2019	bayou killifish	47	
+1839	G.W.AR.01.071	6/10/2019	spot	47	
+1840	G.W.AR.01.072	6/10/2019	spot	37	
+1841	G.W.AR.01.073	6/10/2019	spot	34	
+1842	G.W.AR.01.074	6/10/2019	red drum	566	
+1843	G.W.AR.01.075	6/10/2019	red drum	55	
+1844	G.W.AR.01.076	6/10/2019	spot	34	
+1845	G.W.AR.01.077	6/10/2019	spot	33	
+1846	G.W.AR.01.078	6/10/2019	spot	39	
+1847	G.W.AR.01.079	6/10/2019	spot	27	
+1848	G.W.AR.01.080	6/10/2019	spot	30	
+1849	G.W.AR.01.081	6/10/2019	spot	41	
+1850	G.W.AR.01.082	6/10/2019	spot	31	poop
+1851	G.W.AR.01.083	6/10/2019	spot	29	
+1852	G.W.AR.01.084	6/10/2019	spot	31	
+1853	G.W.AR.01.085	6/10/2019	spot	34	
+1854	G.W.AR.01.086	6/10/2019	spot	25	poop
+1855	G.W.AR.01.087	6/10/2019	spot	29	
+1856	G.W.AR.01.088	6/10/2019	spot	28	
+1857	G.W.AR.01.089	6/10/2019	spot	39	
+1858	G.W.AR.01.090	6/10/2019	spot	35	
+1859	G.W.AR.01.091	6/10/2019	atlantic croaker	24	
+1860	G.W.AR.01.092	6/10/2019	spot	20	
+1861	G.W.AR.01.093	6/10/2019	atlantic croaker	25	
+1862	G.W.AR.01.094	6/10/2019	spot	25	poop
+1863	G.W.AR.01.095	6/10/2019	spot	21	poop
+1864	G.W.AR.01.096	6/10/2019	spot	25	poop
+1865	G.W.AR.01.097	6/10/2019	spot	17	poop
+1866	G.W.AR.01.098	6/10/2019	spot	27	
+1867	G.W.AR.01.099	6/10/2019	atlantic croaker	19	
+1868	G.W.AR.01.100	6/10/2019	spot	22	
+1869	G.W.AR.01.101	6/10/2019	spot	23	
+1870	G.W.AR.01.102	6/10/2019	spot	20	
+1871	G.W.AR.01.103	6/10/2019	spot	23	
+1872	G.W.AR.01.104	6/10/2019	atlantic croaker	32	
+1873	G.W.AR.01.105	6/10/2019	spot	23	
+1874	G.W.AR.01.106	6/10/2019	atlantic croaker	27	
+1875	G.W.AR.01.107	6/10/2019	spot	21	
+1876	G.W.AR.01.108	6/10/2019	spot	35	
+1877	G.W.AR.01.109	6/10/2019	spot	27	poop
+1878	G.W.AR.01.110	6/10/2019	spot	15	
+1879	G.W.AR.01.111	6/10/2019	menhaden	23	"poop, anal fin damaged"
+1880	G.W.AR.01.112	6/10/2019	menhaden	23	
+1881	G.W.AR.01.113	6/10/2019	menhaden	23	
+1882	G.W.AR.01.114	6/10/2019	menhaden	24	
+1883	G.W.AR.01.115	6/10/2019	menhaden	22	
+1884	G.W.AR.01.116	6/10/2019	menhaden	22	
+1885	G.W.AR.01.117			22	
+1886	G.W.AR.01.118			22	
+1887	G.W.AR.02.067		atlantic croaker	41	
+1888	G.W.AR.02.068			32	
+1889	G.W.AR.02.069			26	
+1890	G.W.AR.02.070		spot	29	
+1891	G.W.AR.02.071		spot	28	
+1892	G.W.AR.02.072		spot	29	
+1893	G.W.AR.02.073		spot	17	anal fin damaged
+1894	G.W.AR.02.074		atlantic croaker	29	
+1895	G.W.AR.02.075		seatrout	30	
+1896	G.W.AR.02.076		atlantic croaker	21	
+1897	G.W.AR.02.077		seatrout	29	
+1898	G.W.AR.02.078		atlantic croaker	26	
+1899	G.W.AR.02.079		spot	14	
+1900	G.W.AR.02.080		atlantic croaker	29	
+1901	G.W.AR.02.081		atlantic croaker	30	
+1902	G.W.AR.02.082		atlantic croaker	20	
+1903	G.W.AR.02.083		atlantic croaker	26	poop
+1904	G.W.AR.02.084		atlantic croaker	24	
+1905	G.W.AR.02.085		atlantic croaker	27	poop
+1906	G.W.AR.02.086		spot	16	
+1907	G.W.AR.02.087		spot	16	
+1908	G.W.AR.02.088		atlantic croaker	32	
+1909	G.W.AR.02.089		atlantic croaker	25	
+1910	G.W.AR.02.090		atlantic croaker	24	
+1911	G.W.AR.03.061		red drum	54	
+1912	G.W.AR.03.062		red drum	63	
+1913	G.W.AR.03.063		red drum	64	
+1914	G.W.AR.03.064		red drum	55	
+1915	G.W.AR.03.065		atlantic croaker	26	
+1916	G.W.AR.03.066		spot	24	
+1917	G.W.AR.03.067		spot	26	
+1918	G.W.AR.03.068		atlantic croaker	24	
+1919	G.W.AR.03.069		spot	19	
+1920	G.W.AR.03.070		spot	24	
+1921	G.W.AR.03.071		spot	27	poop
+1922	G.W.AR.03.072		spot	21	poop
+1923	G.W.AR.03.073		spot	30	
+1924	G.W.AR.03.074		spot	18	poop
+1925	G.W.AR.03.075		spot	24	poop
+1926	G.W.AR.03.076		atlantic croaker	26	
+1927	G.W.AR.03.077		spot	27	
+1928	G.W.AR.03.078		spot	22	poop
+1929	G.W.AR.03.079		spot	21	poop
+1930	G.W.AR.03.080		spot	15	poop
+1931	G.W.AR.03.081		spot	18	
+1932	G.W.AR.03.082		spot	18	anal fin damage
+1933	G.W.AR.03.083		spot	28	
+1934	G.W.AR.03.084		spot	35	
+1935	G.W.AR.03.085		spot	33	
+1936	G.W.AR.03.086		spot	32	poop
+1937	G.W.AR.03.087		spot	32	
+1938	G.W.AR.03.088		spot	35	
+1939	G.W.AR.03.089		spot	32	
+1940	G.W.AR.03.090		spot	33	
+1941	G.W.AR.03.091		spot	30	
+1942	G.W.AR.03.092		spot	31	poop
+1943	G.W.AR.03.093		spot	30	
+1944	G.W.AR.03.094		spot	31	
+1945	G.W.AR.03.095		spot	33	
+1946	G.W.AR.03.096		spot	32	poop
+1947	G.W.AR.03.097		spot	31	poop
+1948	G.W.AR.03.098		spot	29	
+1949	G.W.AR.03.099		spot	29	
+1950	G.W.AR.03.100		spot	31	"anal - 11, D - 30, blue book ret. spot fish"
+1951	G.W.AR.03.101		spot	31	
+1952	G.W.AR.03.102		spot	31	
+1953	G.W.AR.03.103		spot	30	
+1954	G.W.AR.03.104	6/11/2019	spot	33	
+1955	G.W.BF.03.047	6/11/2019	black drum	23	
+1956	G.W.BF.03.048	6/11/2019	black drum	25	
+1957	G.W.BF.03.049	6/11/2019	black drum	21	
+1958	G.W.BF.03.050	6/11/2019	black drum	20	
+1959	G.W.BF.01.073	6/11/2019	menhaden	29	
+1960	G.W.BF.01.074	6/11/2019	menhaden	30	
+1961	G.W.BF.01.075	6/11/2019	menhaden	34	
+1962	G.W.BF.01.076	6/11/2019	menhaden	29	
+1963	G.W.BF.01.077	6/11/2019	menhaden	29	
+1964	G.W.BF.01.078	6/11/2019	menhaden	29	
+1965	G.W.BF.01.079	6/11/2019	menhaden	21	
+1966	G.W.BF.01.080	6/11/2019	menhaden	29	
+1967	G.W.BF.01.081	6/11/2019	menhaden	28	
+1968	G.W.BF.01.082	6/11/2019	silverside	25	
+1969	G.W.BF.01.083	6/11/2019	menhaden	31	
+1970	G.W.BF.01.084	6/11/2019	menhaden	29	
+1971	G.W.BF.01.085	6/11/2019	menhaden	31	
+1972	G.W.BF.01.086	6/11/2019	menhaden	31	
+1973	G.W.BF.01.087	6/11/2019	menhaden	29	
+1974	G.W.BF.01.088	6/11/2019	menhaden	24	
+1975	G.W.BF.01.089	6/11/2019	menhaden	30	
+1976	G.W.BF.01.090	6/11/2019	menhaden	30	
+1977	G.W.BF.01.091	6/11/2019	menhaden	28	
+1978	G.W.BF.01.092	6/11/2019	menhaden	26	
+1979	G.W.SA.03.070	6/11/2019	menhaden	24	
+1980	G.W.SA.03.071	6/11/2019	menhaden	28	
+1981	G.W.SA.03.072	6/11/2019	menhaden	20	
+1982	G.W.SA.03.073	6/11/2019	menhaden	22	
+1983	G.W.SA.03.074	6/11/2019	menhaden	20	
+1984	G.W.SA.03.075	6/11/2019	menhaden	20	
+1985	G.W.SA.03.076	6/11/2019	menhaden	21	
+1986	G.W.MG.03.022	6/11/2019	menhaden	21	
+1987	G.W.MG.03.023	6/11/2019	menhaden	29	stomach torn
+1988	G.W.MG.03.024	6/11/2019	menhaden	21	
+1989	G.W.MG.03.025	6/11/2019	menhaden	20	
+1990	G.W.MG.03.026	6/11/2019	menhaden	24	
+1991	G.W.MG.03.027	6/11/2019	menhaden	21	
+1992	G.W.MG.03.028	6/11/2019	menhaden	21	
+1993	G.W.MG.03.029	6/11/2019	menhaden	18	stomach torn
+1994	G.W.MG.03.030	6/11/2019	menhaden	21	
+1995	G.W.MG.03.031	6/11/2019	menhaden	22	
+1996	G.W.MG.03.032	6/11/2019	menhaden	22	stomach torn
+1997	G.W.MG.03.033	6/11/2019	menhaden	23	
+1998	G.W.MG.03.034	6/11/2019	menhaden	21	
+1999	G.W.MG.03.035	6/11/2019	menhaden	20	
+2000	G.W.MG.03.036	6/11/2019	menhaden	23	
+2001	G.W.MG.03.037	6/11/2019	menhaden	21	
+2002	G.W.AR.03.105	6/11/2019	pinfish	20	
+2003	G.W.AR.03.106	6/11/2019	pinfish	18	
+2004	G.W.AR.03.107	6/11/2019	pinfish	18	
+2005	G.W.AR.03.108	6/11/2019	pinfish	16	
+2006	G.W.AR.03.109	6/11/2019	pinfish	17	
+2007	G.W.AR.03.110	6/11/2019	pinfish	23	
+2008	G.W.AR.03.111	6/11/2019	pinfish	18	
+2009	G.W.AR.03.112	6/11/2019	pinfish	23	
+2010	G.W.AR.03.113	6/11/2019	pinfish	16	
+2011	G.W.AR.03.114	6/11/2019	pinfish	22	
+2012	G.W.AR.03.115	6/11/2019	pinfish	18	
+2013	G.W.AR.03.116	6/11/2019	pinfish	22	
+2014	G.W.AR.03.117	6/11/2019	pinfish	17	
+2015	G.W.AR.03.118	6/11/2019	pinfish	18	
+2016	G.W.AR.03.119	6/11/2019	pinfish	18	
+2017	G.W.AR.03.120	6/11/2019	pinfish	16	
+2018	G.W.AR.03.121	6/11/2019	pinfish	17	
+2019	G.W.AR.03.122	6/11/2019	pinfish	26	
+2020	G.W.AR.03.123	6/11/2019	pinfish	15	
+2021	G.W.AR.03.124	6/11/2019	pinfish	15	
+2022	G.W.AR.02.091	6/11/2019	bay whiff	25	
+2023	G.W.MG.02.052	6/11/2019	blackcheek tonguefish	37	
+2024	G.W.MG.02.053	6/11/2019	blackcheek tonguefish	43	
+2025	G.W.MG.02.054	6/11/2019	blackcheek tonguefish	35	
+2026	G.W.MG.02.055	6/11/2019	blackcheek tonguefish	32	
+2027	G.W.MG.02.056	6/11/2019	gulf flounder	55	
+2028	G.W.MG.02.057	6/11/2019	bay whiff	45	
+2029	G.W.MG.02.058	6/11/2019	bay whiff	41	
+2030	G.W.MG.02.059	6/11/2019	bay whiff	37	
+2031	G.W.MG.02.060	6/11/2019	bay whiff	35	
+2032	G.W.MG.02.061	6/11/2019	bay whiff	14	
+2033	G.W.SA.03.077	6/11/2019	atlantic croaker	21	
+2034	G.W.SA.03.078	6/11/2019	atlantic croaker	25	
+2035	G.W.SA.03.079	6/11/2019	atlantic croaker	44	
+2036	G.W.SA.03.080	6/11/2019	atlantic croaker	38	
+2037	G.W.SA.03.081	6/11/2019	atlantic croaker	31	
+2038	G.W.SA.03.082	6/11/2019	atlantic croaker	50	
+2039	G.W.SA.03.083	6/11/2019	atlantic croaker	36	
+2040	G.W.SA.03.084	6/11/2019	atlantic croaker	40	
+2041	G.W.SA.03.085	6/11/2019	atlantic croaker	40	
+2042	G.W.MG.03.038	6/11/2019	inshore lizardfish	43	
+2043	G.W.MG.02.62	6/11/2019	inshore lizardfish	41	
+2044	G.W.AR.01.119	6/17/2019	goby	18	
+2045	G.W.AR.01.120	6/17/2019	darter goby	23	
+2046	G.W.AR.01.121	6/17/2019	goby	18	
+2047	G.W.AR.01.122	6/17/2019	darter goby	27	
+2048	G.W.AR.01.123	6/17/2019	darter goby	34	
+2049	G.W.AR.01.124	6/17/2019	darter goby	23	
+2050	G.W.AR.01.125	6/17/2019	darter goby	27	
+2051	G.W.AR.01.126	6/17/2019	darter goby	27	
+2052	G.W.AR.01.127	6/17/2019	darter goby	22	
+2053	G.W.AR.02.092	6/17/2019	code goby	24	
+2054	G.W.AR.02.093	6/17/2019	goby	18	
+2055	G.W.AR.02.094	6/17/2019	code goby	25	
+2056	G.W.AR.03.125	6/17/2019	goby	21	guts out
+2057	G.W.AR.03.126	6/17/2019	darter goby	23	
+2058	G.W.AR.03.127	6/17/2019	goby	19	
+2059	G.W.AR.03.128	6/17/2019	darter goby	20	
+2060	G.W.AR.03.129	6/17/2019	darter goby	23	
+2061	G.W.BF.01.093	6/17/2019	code goby	28	
+2062	G.W.BF.01.094	6/17/2019	naked goby	46	
+2063	G.W.BF.01.095	6/17/2019	code goby	24	
+2064	G.W.BF.01.096	6/17/2019	naked goby	29	
+2065	G.W.BF.01.097	6/17/2019	code goby	22	
+2066	G.W.BF.01.098	6/17/2019	naked goby	35	
+2067	G.W.BF.01.099	6/17/2019	naked goby	33	
+2068	G.W.BF.01.100	6/17/2019	code goby	29	
+2069	G.W.BF.01.101	6/17/2019	naked goby	33	
+2070	G.S.AR.01.001	6/17/2019	silverside	47	
+2071	G.S.AR.01.002	6/17/2019	silverside	44	
+2072	G.S.AR.01.003	6/17/2019	silverside	51	
+2073	G.S.AR.01.004	6/17/2019	silverside	48	
+2074	G.S.AR.01.005	6/17/2019	silverside	48	
+2075	G.S.AR.01.006	6/17/2019	silverside	51	
+2076	G.S.AR.01.007	6/17/2019	silverside	50	
+2077	G.S.AR.01.008	6/17/2019	silverside	47	
+2078	G.S.AR.01.009	6/17/2019	silverside	46	
+2079	G.S.AR.01.010	6/17/2019	silverside	47	
+2080	G.S.AR.01.011	6/17/2019	silverside	47	
+2081	G.S.AR.01.012	6/17/2019	silverside	44	
+2082	G.S.AR.01.013	6/17/2019	silverside	44	
+2083	G.S.AR.01.014	6/17/2019	silverside	44	
+2084	G.S.AR.01.015	6/17/2019	silverside	43	
+2085	G.S.AR.01.016	6/17/2019	silverside	45	
+2086	G.S.AR.01.017	6/17/2019	silverside	45	
+2087	G.S.AR.01.018	6/17/2019	silverside	45	
+2088	G.S.AR.01.019	6/17/2019	silverside	44	
+2089	G.S.AR.01.020	6/17/2019	silverside	50	
+2090	G.S.AR.02.001	6/17/2019	silverside	68	
+2091	G.S.AR.02.002	6/17/2019	silverside	54	
+2092	G.S.AR.02.003	6/17/2019	silverside	53	
+2093	G.S.AR.02.004	6/17/2019	silverside	54	
+2094	G.S.AR.02.005	6/17/2019	silverside	54	
+2095	G.S.AR.02.006	6/17/2019	silverside	52	
+2096	G.S.AR.02.007	6/17/2019	silverside	72	
+2097	G.S.AR.02.008	6/17/2019	silverside	54	
+2098	G.S.AR.02.009	6/17/2019	silverside	60	
+2099	G.S.AR.02.010	6/17/2019	silverside	53	
+2100	G.S.AR.02.011	6/17/2019	silverside	54	
+2101	G.S.AR.02.012	6/17/2019	silverside	55	
+2102	G.S.AR.02.013	6/17/2019	silverside	53	
+2103	G.S.AR.02.014	6/17/2019	silverside	52	
+2104	G.S.AR.02.015	6/17/2019	silverside	56	
+2105	G.S.AR.02.016	6/17/2019	silverside	51	
+2106	G.S.AR.02.017	6/17/2019	silverside	55	
+2107	G.S.AR.02.018	6/17/2019	silverside	61	
+2108	G.S.AR.02.019	6/17/2019	silverside	61	
+2109	G.S.AR.02.020	6/17/2019	silverside	64	
+2110	G.S.AR.03.001	6/17/2019	silverside	44	
+2111	G.S.AR.03.002	6/17/2019	silverside	43	
+2112	G.S.AR.03.003	6/17/2019	silverside	46	
+2113	G.S.AR.03.004	6/17/2019	silverside	48	
+2114	G.S.AR.03.005	6/17/2019	silverside	49	
+2115	G.S.AR.03.006	6/17/2019	silverside	48	
+2116	G.S.AR.03.007	6/17/2019	silverside	44	
+2117	G.S.AR.03.008	6/17/2019	silverside	40	
+2118	G.S.AR.03.009	6/17/2019	silverside	50	
+2119	G.S.AR.03.010	6/17/2019	silverside	45	
+2120	G.S.AR.03.011	6/17/2019	silverside	44	
+2121	G.S.AR.03.012	6/17/2019	silverside	52	
+2122	G.S.AR.03.013	6/17/2019	silverside	45	
+2123	G.S.AR.03.014	6/17/2019	silverside	48	
+2124	G.S.AR.03.015	6/17/2019	silverside	53	
+2125	G.S.AR.03.016	6/17/2019	silverside	41	
+2126	G.S.AR.03.017	6/17/2019	silverside	47	
+2127	G.S.AR.03.018	6/17/2019	silverside	43	
+2128	G.S.AR.03.019	6/17/2019	silverside	46	
+2129	G.S.AR.03.020	6/17/2019	silverside	49	poop
+2130	G.S.AR.03.021	6/17/2019	silverside	42	
+2131	G.S.BF.01.001	6/17/2019	silverside	27	
+2132	G.S.BF.01.002	6/17/2019	silverside	32	
+2133	G.S.BF.01.003	6/17/2019	silverside	38	
+2134	G.S.BF.01.004	6/17/2019	silverside	34	
+2135	G.S.BF.01.005	6/17/2019	silverside	34	
+2136	G.S.BF.01.006	6/17/2019	silverside	37	
+2137	G.S.BF.01.007	6/17/2019	silverside	36	
+2138	G.S.BF.01.008	6/17/2019	silverside	33	
+2139	G.S.BF.01.009	6/17/2019	silverside	38	
+2140	G.S.BF.01.010	6/17/2019	silverside	36	
+2141	G.S.BF.01.011	6/17/2019	silverside	35	
+2142	G.S.BF.01.012	6/17/2019	silverside	34	
+2143	G.S.BF.01.013	6/17/2019	silverside	36	
+2144	G.S.BF.01.014	6/17/2019	silverside	30	
+2145	G.S.BF.01.015	6/17/2019	silverside	55	
+2146	G.S.BF.01.016	6/17/2019	silverside	52	
+2147	G.S.BF.01.017	6/17/2019	silverside	58	
+2148	G.S.BF.01.018	6/17/2019	silverside	39	
+2149	G.S.BF.01.019	6/17/2019	silverside	32	
+2150	G.S.BF.01.020	6/17/2019	silverside	38	
+2151	G.S.BF.02.001	6/17/2019	silverside	27	
+2152	G.S.BF.02.002	6/17/2019	silverside	39	
+2153	G.S.BF.02.003	6/17/2019	silverside	38	
+2154	G.S.BF.02.004	6/17/2019	silverside	30	
+2155	G.S.BF.02.005	6/17/2019	silverside	33	
+2156	G.S.BF.02.006	6/17/2019	silverside	26	
+2157	G.S.BF.02.007	6/17/2019	silverside	37	
+2158	G.S.BF.02.008	6/17/2019	silverside	30	
+2159	G.S.BF.02.009	6/17/2019	silverside	27	
+2160	G.S.BF.02.010	6/17/2019	silverside	33	
+2161	G.S.BF.02.011	6/17/2019	silverside	39	
+2162	G.S.BF.02.012	6/17/2019	silverside	24	
+2163	G.S.BF.02.013	6/17/2019	silverside	25	
+2164	G.S.BF.02.014	6/17/2019	silverside	27	
+2165	G.S.BF.02.015	6/17/2019	silverside	32	
+2166	G.S.BF.02.016	6/17/2019	silverside	34	
+2167	G.S.BF.02.017	6/17/2019	silverside	32	
+2168	G.S.BF.02.018	6/17/2019	silverside	30	
+2169	G.S.BF.02.019	6/17/2019	silverside	30	
+2170	G.S.BF.02.020	6/17/2019	silverside	31	
+2171	G.S.BF.03.001	6/17/2019	silverside	32	
+2172	G.S.BF.03.002	6/17/2019	silverside	35	
+2173	G.S.BF.03.003	6/17/2019	silverside	29	
+2174	G.S.BF.03.004	6/17/2019	silverside	32	
+2175	G.S.BF.03.005	6/17/2019	silverside	29	
+2176	G.S.BF.03.006	6/17/2019	silverside	34	
+2177	G.S.BF.03.007	6/17/2019	silverside	30	
+2178	G.S.BF.03.008	6/17/2019	silverside	34	
+2179	G.S.BF.03.009	6/17/2019	silverside	24	
+2180	G.S.BF.03.010	6/17/2019	silverside	37	
+2181	G.S.BF.03.011	6/17/2019	silverside	37	
+2182	G.S.BF.03.012	6/17/2019	silverside	45	
+2183	G.S.BF.03.013	6/17/2019	silverside	45	
+2184	G.S.BF.03.014	6/17/2019	silverside	36	
+2185	G.S.BF.03.015	6/17/2019	silverside	28	
+2186	G.S.BF.03.016	6/17/2019	silverside	33	
+2187	G.S.BF.03.017	6/17/2019	silverside	29	
+2188	G.S.BF.03.018	6/17/2019	silverside	36	
+2189	G.S.BF.03.019	6/17/2019	silverside	29	
+2190	G.S.BF.03.020	6/17/2019	silverside	33	
+2191	G.S.SA.01.001	6/17/2019	silverside	53	
+2192	G.S.SA.01.002	6/17/2019	silverside	47	
+2193	G.S.SA.01.003	6/17/2019	silverside	34	
+2194	G.S.SA.01.004	6/17/2019	silverside	34	
+2195	G.S.SA.01.005	6/17/2019	silverside	40	
+2196	G.S.SA.01.006	6/17/2019	silverside	48	
+2197	G.S.SA.01.007	6/17/2019	silverside	37	
+2198	G.S.SA.01.008	6/17/2019	silverside	42	
+2199	G.S.SA.01.009	6/17/2019	silverside	25	guts coming out
+2200	G.S.SA.01.010	6/17/2019	silverside	40	
+2201	G.S.SA.01.011	6/17/2019	silverside	56	
+2202	G.S.SA.01.012	6/17/2019	silverside	36	
+2203	G.S.SA.01.013	6/17/2019	silverside	40	
+2204	G.S.SA.01.014	6/17/2019	silverside	53	
+2205	G.S.SA.01.015	6/17/2019	silverside	38	
+2206	G.S.SA.01.016		silverside	29	guts coming out
+2207	G.S.SA.01.017		silverside	36	
+2208	G.S.SA.01.018		silverside	50	
+2209	G.S.SA.01.019		silverside	32	guts coming out
+2210	G.S.SA.01.020		silverside	47	
+2211	G.W.BF.03.051	6/18/2019	code goby	25	
+2212	G.W.BF.03.052	6/18/2019	code goby	24	
+2213	G.W.BF.03.053	6/18/2019	code goby	30	
+2214	G.W.BF.03.054	6/18/2019	code goby	27	
+2215	G.W.BF.03.055	6/18/2019	code goby	26	
+2216	G.W.BF.03.056	6/18/2019	code goby	24	
+2217	G.W.BF.03.057	6/18/2019	code goby	25	
+2218	G.W.BF.03.058	6/18/2019	naked goby	27	
+2219	G.W.BF.03.059	6/18/2019	code goby	23	
+2220	G.W.BF.03.060	6/18/2019	code goby	23	
+2221	G.W.BF.03.061	6/18/2019	code goby	24	
+2222	G.W.BF.03.062	6/18/2019	code goby	23	
+2223	G.W.BF.03.063	6/18/2019	code goby	30	
+2224	G.W.BF.03.064	6/18/2019	code goby	25	
+2225	G.W.BF.03.065	6/18/2019	code goby	24	
+2226	G.W.BF.03.066	6/18/2019	code goby	22	
+2227	G.W.BF.03.067	6/18/2019	code goby	29	
+2228	G.W.BF.03.068	6/18/2019	code goby	24	
+2229	G.W.BF.03.069	6/18/2019	goby	20	
+2230	G.W.BF.03.070	6/18/2019	goby	20	
+2231	G.W.MG.01.063	6/18/2019	darter goby	22	
+2232	G.W.MG.01.064	6/18/2019	darter goby	29	
+2233	G.W.MG.01.065	6/18/2019	darter goby	24	
+2234	G.W.MG.01.066	6/18/2019	darter goby	31	
+2235	G.W.MG.01.067	6/18/2019	darter goby	24	
+2236	G.W.MG.01.068	6/18/2019	code goby	33	
+2237	G.W.MG.02.063	6/18/2019	darter goby	28	
+2238	G.W.MG.02.064	6/18/2019	darter goby	32	
+2239	G.W.MG.02.065	6/18/2019	darter goby	31	
+2240	G.W.MG.02.066	6/18/2019	darter goby	29	
+2241	G.W.MG.02.067	6/18/2019	darter goby	15	
+2242	G.W.MG.02.068	6/18/2019	darter goby	26	
+2243	G.W.MG.02.069	6/18/2019	darter goby	29	
+2244	G.W.MG.02.070	6/18/2019	darter goby	30	
+2245	G.W.MG.02.071	6/18/2019	darter goby	30	
+2246	G.W.MG.02.072	6/18/2019	darter goby	34	
+2247	G.W.MG.02.073	6/18/2019	darter goby	26	
+2248	G.W.MG.02.074	6/18/2019	goby	29	
+2249	G.W.MG.02.075	6/18/2019	darter goby	28	
+2250	G.W.MG.02.076	6/18/2019	darter goby	29	
+2251	G.W.MG.02.077	6/18/2019	darter goby	24	
+2252	G.W.MG.02.078	6/18/2019	darter goby	25	
+2253	G.W.MG.02.079	6/18/2019	darter goby	26	
+2254	G.W.MG.02.080	6/18/2019	darter goby	27	gut out
+2255	G.W.MG.02.081	6/18/2019	darter goby	27	
+2256	G.W.MG.02.082	6/18/2019	darter goby	31	
+2257	G.W.MG.02.083	6/18/2019	darter goby	31	
+2258	G.S.SA.02.001	6/19/2019	silverside	54	
+2259	G.S.SA.02.002	6/19/2019	silverside	39	
+2260	G.S.SA.02.003	6/19/2019	silverside	53	
+2261	G.S.SA.02.004	6/19/2019	silverside	44	
+2262	G.S.SA.02.005	6/19/2019	silverside	49	
+2263	G.S.SA.02.006	6/19/2019	silverside	54	
+2264	G.S.SA.02.007	6/19/2019	silverside	42	
+2265	G.S.SA.02.008	6/19/2019	silverside	45	
+2266	G.S.SA.02.009	6/19/2019	silverside	41	
+2267	G.S.SA.02.010	6/19/2019	silverside	52	
+2268	G.S.SA.02.011	6/19/2019	silverside	36	
+2269	G.S.SA.02.012	6/19/2019	silverside	43	
+2270	G.S.SA.02.013	6/19/2019	silverside	55	
+2271	G.S.SA.02.014	6/19/2019	silverside	37	
+2272	G.S.SA.02.015	6/19/2019	silverside	60	
+2273	G.S.SA.02.016	6/19/2019	silverside	29	
+2274	G.S.SA.02.017	6/19/2019	silverside	54	
+2275	G.S.SA.02.018	6/19/2019	silverside	52	
+2276	G.S.SA.02.019	6/19/2019	silverside	37	
+2277	G.S.SA.02.020	6/19/2019	silverside	70	
+2278	G.S.SA.03.001	6/19/2019	silverside	30	
+2279	G.S.SA.03.002	6/19/2019	silverside	31	
+2280	G.S.SA.03.003	6/19/2019	silverside	32	
+2281	G.S.SA.03.004	6/19/2019	silverside	28	
+2282	G.S.SA.03.005	6/19/2019	silverside	26	
+2283	G.S.SA.03.006	6/19/2019	silverside	28	
+2284	G.S.SA.03.007	6/19/2019	silverside	32	head flattened
+2285	G.S.SA.03.008	6/19/2019	silverside	31	
+2286	G.S.SA.03.009	6/19/2019	silverside	24	
+2287	G.S.SA.03.010	6/19/2019	silverside	59	
+2288	G.S.AR.02.021	6/19/2019	striped anchovy	22	
+2289	G.S.AR.02.022	6/19/2019	striped anchovy	32	
+2290	G.S.AR.02.023	6/19/2019	striped anchovy	31	
+2291	G.S.AR.02.024	6/19/2019	striped anchovy	29	
+2292	G.S.AR.02.025	6/19/2019	striped anchovy	30	
+2293	G.S.AR.02.026	6/19/2019	striped anchovy	32	
+2294	G.S.AR.02.027	6/19/2019	striped anchovy	30	
+2295	G.S.AR.02.028	6/19/2019	striped anchovy	34	
+2296	G.S.AR.02.029	6/19/2019	striped anchovy	30	
+2297	G.S.AR.02.030	6/19/2019	striped anchovy	32	
+2298	G.S.AR.02.031	6/19/2019	striped anchovy	32	
+2299	G.S.AR.02.032	6/19/2019	striped anchovy	31	
+2300	G.S.AR.02.033	6/19/2019	striped anchovy	29	
+2301	G.S.AR.02.034	6/19/2019	striped anchovy	34	
+2302	G.S.AR.02.035	6/19/2019	striped anchovy	30	
+2303	G.S.AR.02.036	6/19/2019	striped anchovy	30	guts spilling out
+2304	G.S.AR.02.037	6/19/2019	striped anchovy	30	
+2305	G.S.AR.02.038	6/19/2019	striped anchovy	30	
+2306	G.S.AR.02.039	6/19/2019	striped anchovy	30	
+2307	G.S.AR.02.040	6/19/2019	striped anchovy	28	
+2308	G.S.AR.02.041	6/19/2019	bay anchovy	57	
+2309	G.S.BF.01.021	6/19/2019	bay anchovy	25	
+2310	G.S.BF.01.022	6/19/2019	bay anchovy	26	
+2311	G.S.BF.01.023	6/19/2019	bay anchovy	29	
+2312	G.S.BF.01.024	6/19/2019	bay anchovy	31	
+2313	G.S.BF.01.025	6/19/2019	bay anchovy	32	
+2314	G.S.BF.01.026	6/19/2019	bay anchovy	28	
+2315	G.S.BF.01.027	6/19/2019	bay anchovy	27	
+2316	G.S.BF.01.028	6/19/2019	bay anchovy	28	
+2317	G.S.BF.01.029	6/19/2019	bay anchovy	28	
+2318	G.S.BF.01.030	6/19/2019	bay anchovy	26	
+2319	G.S.BF.01.031	6/19/2019	bay anchovy	30	
+2320	G.S.BF.01.032	6/19/2019	bay anchovy	36	
+2321	G.S.BF.01.033	6/19/2019	bay anchovy	22	
+2322	G.S.BF.01.034	6/19/2019	bay anchovy	25	
+2323	G.S.BF.01.035	6/19/2019	bay anchovy	24	
+2324	G.S.BF.01.036	6/19/2019	bay anchovy	28	
+2325	G.S.BF.01.037	6/19/2019	bay anchovy	35	
+2326	G.S.BF.01.038	6/19/2019	bay anchovy	28	
+2327	G.S.BF.01.039	6/19/2019	bay anchovy	33	
+2328	G.S.BF.01.040	6/19/2019	bay anchovy	23	
+2329	G.W.SA.02.039	6/20/2019	atlantic croaker	37	
+2330	G.W.SA.02.040	6/20/2019	atlantic croaker	30	
+2331	G.W.SA.02.041	6/20/2019	atlantic croaker	32	
+2332	G.W.SA.02.042	6/20/2019	naked goby	20	
+2333	G.W.SA.02.043	6/20/2019	code goby	25	
+2334	G.W.SA.02.044	6/20/2019	code goby	25	
+2335	G.W.SA.02.045	6/20/2019	code goby	23	
+2336	G.W.SA.02.046	6/20/2019	code goby	19	
+2337	G.W.SA.02.047	6/20/2019	naked goby	21	
+2338	G.W.SA.02.048	6/20/2019	goby	18	
+2339	G.W.SA.02.049	6/20/2019	goby	17	
+2340	G.W.SA.02.050	6/20/2019	goby	17	
+2341	G.W.SA.02.051	6/20/2019	goby	19	
+2342	G.W.SA.02.052	6/20/2019	goby	19	
+2343	G.W.MG.03.039	6/20/2019	atlantic croaker	43	
+2344	G.W.MG.03.040	6/20/2019	atlantic croaker	48	
+2345	G.W.MG.03.041	6/20/2019	atlantic croaker	30	
+2346	G.W.MG.03.042	6/20/2019	atlantic croaker	37	poop
+2347	G.W.MG.03.043	6/20/2019	seatrout	30	poop
+2348	G.W.MG.03.044	6/20/2019	atlantic croaker	36	
+2349	G.W.MG.03.045	6/20/2019	atlantic croaker	30	
+2350	G.W.MG.03.046	6/20/2019	atlantic croaker	28	
+2351	G.W.MG.03.047	6/20/2019	atlantic croaker	17	
+2352	G.W.MG.03.048	6/20/2019	atlantic croaker	30	
+2353	G.W.MG.03.049	6/20/2019	atlantic croaker	32	
+2354	G.W.MG.03.050	6/20/2019	spot	33	
+2355	G.W.SA.02.053	6/20/2019	menhaden	20	
+2356	G.W.SA.02.054	6/20/2019	menhaden	21	
+2357	G.W.SA.02.055	6/20/2019	menhaden	22	
+2358	G.W.SA.02.056	6/20/2019	menhaden	21	
+2359	G.W.SA.02.057	6/20/2019	menhaden	21	
+2360	G.W.SA.02.058	6/20/2019	menhaden	20	
+2361	G.W.SA.02.059	6/20/2019	menhaden	22	
+2362	G.W.SA.02.060	6/20/2019	menhaden	22	
+2363	G.W.SA.02.061	6/20/2019	menhaden	18	
+2364	G.W.SA.02.062	6/20/2019	menhaden	21	
+2365	G.W.SA.02.063	6/20/2019	menhaden	22	
+2366	G.W.SA.02.064	6/20/2019	menhaden	21	
+2367	G.W.SA.02.065	6/20/2019	menhaden	21	
+2368	G.W.SA.02.066	6/20/2019	menhaden	22	
+2369	G.W.SA.02.067	6/20/2019	menhaden	23	
+2370	G.W.SA.02.068	6/20/2019	menhaden	22	
+2371	G.W.SA.02.069	6/20/2019	menhaden	21	
+2372	G.W.SA.02.070	6/20/2019	menhaden	19	
+2373	G.W.SA.02.071	6/20/2019	menhaden	22	
+2374	G.W.SA.02.072	6/20/2019	menhaden	21	
+2375	G.S.BF.02.021	6/20/2019	bay anchovy	40	
+2376	G.S.BF.02.022	6/20/2019	bay anchovy	30	
+2377	G.S.BF.02.023	6/20/2019	bay anchovy	28	
+2378	G.S.BF.02.024	6/20/2019	bay anchovy	38	
+2379	G.S.BF.02.025	6/20/2019	bay anchovy	33	
+2380	G.S.BF.02.026	6/20/2019	bay anchovy	32	
+2381	G.S.BF.02.027	6/20/2019	bay anchovy	34	
+2382	G.S.BF.02.028	6/20/2019	bay anchovy	34	
+2383	G.S.BF.02.029	6/20/2019	bay anchovy	32	
+2384	G.S.BF.02.030	6/20/2019	bay anchovy	43	
+2385	G.S.BF.02.031	6/20/2019	bay anchovy	34	
+2386	G.S.BF.02.032	6/20/2019	bay anchovy	40	
+2387	G.S.BF.02.033	6/20/2019	bay anchovy	37	
+2388	G.S.BF.02.034	6/20/2019	bay anchovy	39	
+2389	G.S.BF.02.035	6/20/2019	bay anchovy	27	
+2390	G.S.BF.02.036	6/20/2019	bay anchovy	40	
+2391	G.S.BF.02.037	6/20/2019	bay anchovy	43	
+2392	G.S.BF.02.038	6/20/2019	bay anchovy	40	
+2393	G.S.BF.02.039	6/20/2019	bay anchovy	40	
+2394	G.S.BF.02.040	6/20/2019	bay anchovy	29	
+2395	G.S.BF.03.021	6/24/2019	bay anchovy	45	
+2396	G.S.BF.03.022	6/24/2019	bay anchovy	34	
+2397	G.S.BF.03.023	6/24/2019	bay anchovy	42	
+2398	G.S.BF.03.024	6/24/2019	bay anchovy	45	
+2399	G.S.BF.03.025	6/24/2019	bay anchovy	44	
+2400	G.S.BF.03.026	6/24/2019	bay anchovy	30	
+2401	G.S.BF.03.027	6/24/2019	bay anchovy	30	
+2402	G.S.BF.03.028	6/24/2019	bay anchovy	31	
+2403	G.S.BF.03.029	6/24/2019	bay anchovy	33	
+2404	G.S.BF.03.030	6/24/2019	bay anchovy	45	poop
+2405	G.S.BF.03.031	6/24/2019	bay anchovy	43	
+2406	G.S.BF.03.032	6/24/2019	bay anchovy	41	poop
+2407	G.S.BF.03.033	6/24/2019	bay anchovy	42	
+2408	G.S.BF.03.034	6/24/2019	bay anchovy	45	
+2409	G.S.BF.03.035	6/24/2019	bay anchovy	42	
+2410	G.S.BF.03.036	6/24/2019	bay anchovy	40	
+2411	G.S.BF.03.037	6/24/2019	bay anchovy	36	
+2412	G.S.BF.03.038	6/24/2019	bay anchovy	40	
+2413	G.S.BF.03.039	6/24/2019	bay anchovy	42	
+2414	G.S.BF.03.040	6/24/2019	bay anchovy	35	
+2415	G.S.SA.01.021	6/24/2019	bay anchovy	26	
+2416	G.S.SA.01.022	6/24/2019	bay anchovy	28	
+2417	G.S.SA.01.023	6/24/2019	bay anchovy	29	
+2418	G.S.SA.01.024	6/24/2019	bay anchovy	29	
+2419	G.S.SA.01.025	6/24/2019	bay anchovy	27	
+2420	G.S.SA.01.026	6/24/2019	bay anchovy	29	
+2421	G.S.SA.01.027	6/24/2019	bay anchovy	28	
+2422	G.S.SA.01.028	6/24/2019	bay anchovy	26	
+2423	G.S.SA.01.029	6/24/2019	bay anchovy	29	
+2424	G.S.SA.01.030	6/24/2019	bay anchovy	25	
+2425	G.S.SA.01.031	6/24/2019	bay anchovy	23	
+2426	G.S.SA.01.032	6/24/2019	bay anchovy	26	
+2427	G.S.SA.01.033	6/24/2019	striped anchovy	26	
+2428	G.S.SA.01.034	6/24/2019	bay anchovy	27	
+2429	G.S.SA.01.035	6/24/2019	bay anchovy	26	
+2430	G.S.SA.01.036	6/24/2019	bay anchovy	27	damage to gut area
+2431	G.S.SA.01.037	6/24/2019	bay anchovy	26	
+2432	G.S.SA.01.038	6/24/2019	bay anchovy	28	
+2433	G.S.SA.01.039	6/24/2019	bay anchovy	27	
+2434	G.S.SA.01.040	6/24/2019	bay anchovy	31	
+2435	G.S.SA.01.041	6/24/2019	bay anchovy	30	
+2436	G.S.SA.02.021	6/24/2019	striped anchovy	35	
+2437	G.S.SA.02.022	6/24/2019	bay anchovy	29	
+2438	G.S.SA.02.023	6/24/2019	striped anchovy	56	
+2439	G.S.SA.02.024	6/24/2019	striped anchovy	43	
+2440	G.S.SA.02.025	6/24/2019	bay anchovy	30	
+2441	G.S.SA.02.026	6/24/2019	striped anchovy	32	
+2442	G.S.SA.02.027	6/24/2019	striped anchovy	42	
+2443	G.S.SA.02.028	6/24/2019	striped anchovy	43	
+2444	G.S.SA.02.029	6/24/2019	striped anchovy	37	
+2445	G.S.SA.02.030	6/24/2019	bay anchovy	33	
+2446	G.S.SA.02.031	6/24/2019	striped anchovy	34	
+2447	G.S.SA.02.032	6/24/2019	striped anchovy	36	
+2448	G.S.SA.02.033	6/24/2019	striped anchovy	36	
+2449	G.S.SA.02.034	6/24/2019	striped anchovy	43	
+2450	G.S.SA.02.035	6/24/2019	bay anchovy	57	
+2451	G.S.SA.02.036	6/24/2019	bay anchovy	32	
+2452	G.S.SA.02.037	6/24/2019	striped anchovy	34	
+2453	G.S.SA.02.038	6/24/2019	bay anchovy	34	
+2454	G.S.SA.02.039	6/24/2019	bay anchovy	27	
+2455	G.S.SA.02.040	6/24/2019	bay anchovy	26	
+2456	G.S.SA.03.011	6/24/2019	bay anchovy	27	
+2457	G.S.SA.03.012	6/24/2019	bay anchovy	25	
+2458	G.S.SA.03.013	6/24/2019	bay anchovy	24	
+2459	G.S.SA.03.014	6/24/2019	bay anchovy	28	
+2460	G.S.SA.03.015	6/24/2019	bay anchovy	29	
+2461	G.S.SA.03.016	6/24/2019	bay anchovy	24	
+2462	G.S.SA.03.017	6/24/2019	bay anchovy	23	
+2463	G.S.SA.03.018	6/24/2019	bay anchovy	25	
+2464	G.S.SA.03.019	6/24/2019	bay anchovy	33	
+2465	G.S.SA.03.020	6/24/2019	bay anchovy	24	
+2466	G.S.SA.03.021	6/24/2019	bay anchovy	29	
+2467	G.S.SA.03.022	6/24/2019	bay anchovy	29	
+2468	G.S.SA.03.023	6/24/2019	bay anchovy	31	
+2469	G.S.SA.03.024	6/24/2019	bay anchovy	29	
+2470	G.S.SA.03.025	6/24/2019	bay anchovy	40	
+2471	G.S.SA.03.026	6/24/2019	bay anchovy	24	
+2472	G.S.SA.03.027	6/24/2019	bay anchovy	22	
+2473	G.S.SA.03.028	6/24/2019	bay anchovy	31	
+2474	G.S.SA.03.029	6/24/2019	bay anchovy	32	
+2475	G.S.MG.01.001	6/24/2019	bay anchovy	33	
+2476	G.S.MG.01.002	6/24/2019	bay anchovy	25	
+2477	G.S.MG.01.003	6/24/2019	bay anchovy	31	
+2478	G.S.MG.02.001	6/24/2019	bay anchovy	26	
+2479	G.S.MG.02.002	6/24/2019	bay anchovy	24	
+2480	G.S.MG.02.003	6/24/2019	bay anchovy	23	
+2481	G.S.MG.02.004	6/24/2019	bay anchovy	23	
+2482	G.S.MG.02.005	6/24/2019	bay anchovy	27	
+2483	G.S.MG.02.006	6/24/2019	bay anchovy	28	
+2484	G.S.MG.02.007	6/24/2019	bay anchovy	23	
+2485	G.S.MG.02.008	6/24/2019	bay anchovy	23	
+2486	G.S.MG.02.009	6/24/2019	bay anchovy	26	
+2487	G.S.MG.02.010	6/24/2019	bay anchovy	22	
+2488	G.S.MG.02.011	6/24/2019	bay anchovy	30	
+2489	G.S.MG.02.012	6/24/2019	bay anchovy	24	
+2490	G.S.MG.02.013	6/24/2019	bay anchovy	21	
+2491	G.S.MG.02.014	6/24/2019	bay anchovy	24	
+2492	G.S.MG.02.015	6/24/2019	bay anchovy	21	
+2493	G.S.MG.02.016	6/24/2019	bay anchovy	25	
+2494	G.S.MG.02.017	6/24/2019	bay anchovy	26	
+2495	G.W.AR.03.133	6/24/2019	menhaden	23	"A 20, D 20, possible ray loss from damage"
+2496	G.W.AR.03.134	6/24/2019	pinfish	18	
+2497	G.W.AR.03.135	6/24/2019	menhaden	23	
+2498	G.W.AR.03.136	6/24/2019	spot	26	
+2499	G.W.AR.03.137	6/24/2019	spot	20	
+2500	G.W.AR.03.138	6/24/2019	menhaden	22	
+2501	G.W.AR.03.139	6/24/2019	spot	25	poop
+2502	G.W.BF.01.123	6/24/2019	leptocephalus	33	
+2503	G.W.MG.03.051	6/24/2019	spot	40	"D X, I - 31, A II-12"
+2504	G.W.MG.03.052	6/24/2019	spot	38	
+2505	G.W.MG.03.053	6/24/2019	spot	30	
+2506	G.W.MG.03.054	6/24/2019	spot	28	
+2507	G.W.MG.03.055	6/24/2019	spot	27	
+2508	G.W.MG.03.056	6/24/2019	spot	27	
+2509	G.W.MG.03.057	6/24/2019	spot	28	
+2510	G.W.MG.03.058	6/24/2019	spot	26	
+2511	G.W.MG.03.059	6/24/2019	spot	26	
+2512	G.W.MG.03.060	6/24/2019	spot	28	
+2513	G.W.MG.03.061	6/24/2019	spot	30	
+2514	G.W.MG.03.062	6/24/2019	spot	28	
+2515	G.W.MG.03.063	6/24/2019	spot	26	
+2516	G.W.MG.03.064	6/24/2019	spot	27	
+2517	G.W.MG.03.065	6/24/2019	spot	27	
+2518	G.W.MG.03.066	6/24/2019	spot	30	
+2519	G.W.MG.03.067	6/24/2019	spot	30	
+2520	G.W.MG.03.068	6/24/2019	spot	27	
+2521	G.W.MG.03.069	6/24/2019	spot	25	guts spilling out
+2522	G.W.MG.03.070	6/24/2019	spot	30	
+2523	G.W.SA.03.086	6/24/2019	spot	46	"D X, I - 31, A II - 12"
+2524	G.W.SA.03.087	6/24/2019	spot	50	
+2525	G.W.SA.03.088	6/24/2019	spot	48	
+2526	G.W.SA.03.089	6/24/2019	spot	37	
+2527	G.W.SA.03.090	6/24/2019	spot	43	
+2528	G.W.SA.03.091	6/24/2019	spot	41	
+2529	G.W.SA.03.092	6/24/2019	spot	43	
+2530	G.W.SA.03.093	6/24/2019	spot	45	
+2531	G.W.SA.03.094	6/24/2019	spot	43	
+2532	G.W.SA.03.095	6/24/2019	spot	47	
+2533	G.W.SA.03.096	6/24/2019	spot	47	
+2534	G.W.SA.03.097	6/24/2019	spot	45	
+2535	G.W.SA.03.098	6/24/2019	spot	47	
+2536	G.W.SA.03.099	6/24/2019	spot	42	
+2537	G.W.SA.03.100	6/24/2019	spot	44	
+2538	G.W.SA.03.101	6/24/2019	spot	41	
+2539	G.W.SA.03.102	6/24/2019	spot	42	
+2540	G.W.SA.03.103	6/24/2019	spot	40	
+2541	G.W.SA.03.104	6/24/2019	spot	41	
+2542	G.W.SA.03.105	6/24/2019	spot	44	
+2543	G.W.BF.01.102	6/24/2019	spot	65	
+2544	G.W.BF.01.103	6/24/2019	spot	47	
+2545	G.W.BF.01.104	6/24/2019	spot	43	
+2546	G.W.BF.01.105	6/24/2019	spot	66	
+2547	G.W.BF.01.106	6/24/2019	spot	60	
+2548	G.W.BF.01.107	6/24/2019	spot	62	
+2549	G.W.BF.01.108	6/24/2019	spot	44	
+2550	G.W.BF.01.109	6/24/2019	spot	47	
+2551	G.W.BF.01.110	6/24/2019	spot	37	
+2552	G.W.BF.01.111	6/24/2019	spot	53	
+2553	G.W.BF.01.112	6/24/2019	spot	50	
+2554	G.W.BF.01.113	6/24/2019	spot	45	
+2555	G.W.BF.01.114	6/24/2019	spot	51	
+2556	G.W.BF.01.115	6/24/2019	spot	42	
+2557	G.W.BF.01.116	6/24/2019	spot	56	
+2558	G.W.BF.01.117	6/24/2019	spot	42	
+2559	G.W.BF.01.118	6/24/2019	spot	56	
+2560	G.W.BF.01.119	6/24/2019	spot	50	
+2561	G.W.BF.01.120	6/24/2019	spot	43	
+2562	G.W.BF.01.121	6/24/2019	spot	54	
+2563	G.W.BF.01.122	6/24/2019	spot	48	
+2564	G.W.BF.03.071	6/24/2019	spot	42	
+2565	G.W.BF.03.072	6/24/2019	spot	52	
+2566	G.W.BF.03.073	6/24/2019	spot	55	
+2567	G.W.BF.03.074	6/24/2019	spot	46	
+2568	G.W.BF.03.075	6/24/2019	spot	43	
+2569	G.W.BF.03.076	6/24/2019	spot	42	
+2570	G.W.BF.03.077	6/24/2019	spot	47	
+2571	G.W.BF.03.078	6/24/2019	spot	41	
+2572	G.W.BF.03.079	6/24/2019	spot	39	
+2573	G.W.BF.03.080	6/24/2019	spot	40	
+2574	G.W.BF.03.081	6/24/2019	spot	43	
+2575	G.W.BF.03.082	6/24/2019	spot	44	
+2576	G.W.BF.03.083	6/24/2019	spot	51	
+2577	G.W.BF.03.084	6/24/2019	spot	57	
+2578	G.W.BF.03.085	6/24/2019	spot	44	
+2579	G.W.BF.03.086	6/24/2019	spot	50	
+2580	G.W.BF.03.087	6/24/2019	spot	57	
+2581	G.W.BF.03.088	6/24/2019	spot	46	
+2582	G.W.BF.03.089	6/24/2019	spot	50	
+2583	G.W.BF.03.090	6/24/2019	spot	53	
+2584	G.W.BF.03.091	6/24/2019	spot	52	
+2585	G.W.SA.01.043	6/24/2019	atlantic croaker	21	
+2586	G.W.SA.01.044	6/24/2019	atlantic croaker	27	
+2587	G.W.SA.01.045	6/24/2019	atlantic croaker	27	
+2588	G.W.SA.01.046	6/24/2019	atlantic croaker	31	
+2589	G.W.SA.01.047	6/24/2019	atlantic croaker	22	
+2590	G.W.SA.01.048	6/24/2019	atlantic croaker	28	
+2591	G.W.SA.01.049	6/24/2019	atlantic croaker	27	
+2592	G.W.SA.01.050	6/24/2019	atlantic croaker	30	
+2593	G.W.SA.01.051	6/24/2019	atlantic croaker	21	
+2594	G.W.SA.01.052	6/24/2019	atlantic croaker	26	
+2595	G.W.SA.01.053	6/24/2019	atlantic croaker	20	
+2596	G.W.SA.01.054	6/24/2019	atlantic croaker	19	
+2597	G.W.SA.01.055	6/24/2019	atlantic croaker	27	
+2598	G.W.SA.01.056	6/24/2019	atlantic croaker	31	
+2599	G.W.SA.01.057	6/24/2019	atlantic croaker	30	
+2600	G.W.SA.01.058	6/24/2019	atlantic croaker	30	
+2601	G.W.SA.01.059	6/24/2019	atlantic croaker	24	
+2602	G.W.SA.01.060	6/24/2019	atlantic croaker	21	
+2603	G.W.SA.01.061	6/24/2019	atlantic croaker	24	
+2604	G.W.SA.01.062	6/24/2019	atlantic croaker	25	
+2605	G.S.AR.01.021	6/25/2019	pinfish	57	
+2606	G.S.AR.01.022	6/25/2019	pinfish	120	
+2607	G.S.AR.01.023	6/25/2019	pinfish	57	
+2608	G.S.AR.01.024	6/25/2019	pinfish	27	
+2609	G.S.AR.01.025	6/25/2019	pinfish	50	
+2610	G.S.AR.01.026	6/25/2019	pinfish	31	
+2611	G.S.AR.01.027	6/25/2019	pinfish	44	
+2612	G.S.AR.01.028	6/25/2019	pinfish	26	
+2613	G.S.AR.01.029	6/25/2019	pinfish	28	
+2614	G.S.AR.01.030	6/25/2019	pinfish	24	
+2615	G.S.AR.01.031	6/25/2019	pinfish	27	
+2616	G.S.AR.01.032	6/25/2019	pinfish	27	
+2617	G.S.AR.01.033	6/25/2019	pinfish	26	
+2618	G.S.AR.01.034	6/25/2019	pinfish	25	
+2619	G.S.AR.01.035	6/25/2019	pinfish	25	
+2620	G.S.AR.01.036	6/25/2019	pinfish	28	
+2621	G.S.AR.01.037	6/25/2019	pinfish	26	
+2622	G.S.AR.01.038	6/25/2019	pinfish	63	
+2623	G.S.AR.01.039	6/25/2019	pinfish	53	
+2624	G.S.AR.01.040	6/25/2019	pinfish	50	
+2625	G.S.AR.01.041	6/25/2019	pinfish	46	
+2626	G.S.AR.01.042	6/25/2019	pinfish	54	
+2627	G.S.AR.01.043	6/25/2019	pinfish	29	
+2628	G.S.AR.02.042	6/25/2019	pinfish	53	
+2629	G.S.AR.02.043	6/25/2019	pinfish	46	
+2630	G.S.AR.02.044	6/25/2019	pinfish	60	
+2631	G.S.AR.02.045	6/25/2019	pinfish	42	
+2632	G.S.AR.02.046	6/25/2019	pinfish	45	
+2633	G.S.AR.02.047	6/25/2019	pinfish	45	
+2634	G.S.AR.02.048	6/25/2019	pinfish	44	
+2635	G.S.AR.02.049	6/25/2019	pinfish	45	
+2636	G.S.AR.02.050	6/25/2019	pinfish	60	
+2637	G.S.AR.02.051	6/25/2019	pinfish	44	
+2638	G.S.AR.03.022	6/25/2019	pinfish	50	
+2639	G.S.AR.03.023	6/25/2019	pinfish	34	
+2640	G.S.AR.03.024	6/25/2019	pinfish	36	
+2641	G.S.AR.03.025	6/25/2019	pinfish	33	
+2642	G.S.AR.03.026	6/25/2019	pinfish	27	
+2643	G.S.AR.03.027	6/25/2019	pinfish	50	
+2644	G.S.AR.03.028	6/25/2019	pinfish	49	
+2645	G.S.AR.03.029	6/25/2019	pinfish	54	
+2646	G.S.AR.03.030	6/25/2019	pinfish	35	
+2647	G.S.AR.03.031	6/25/2019	pinfish	36	
+2648	G.S.AR.03.032	6/25/2019	pinfish	38	
+2649	G.S.AR.03.033	6/25/2019	pinfish	44	
+2650	G.S.AR.03.034	6/25/2019	pinfish	33	
+2651	G.S.AR.03.035	6/25/2019	pinfish	64	
+2652	G.S.AR.03.036	6/25/2019	pinfish	42	
+2653	G.S.AR.03.037	6/25/2019	pinfish	47	
+2654	G.S.AR.03.038	6/25/2019	pinfish	37	
+2655	G.S.AR.03.039	6/25/2019	pinfish	24	
+2656	G.S.AR.03.040	6/25/2019	pinfish	61	
+2657	G.S.AR.03.041	6/25/2019	pinfish	35	
+2658	G.S.SA.01.042	6/25/2019	pinfish	44	
+2659	G.S.SA.01.043	6/25/2019	pinfish	40	
+2660	G.S.SA.01.044	6/25/2019	pinfish	34	
+2661	G.S.SA.01.045	6/25/2019	pinfish	42	
+2662	G.S.SA.01.046	6/25/2019	pinfish	38	
+2663	G.S.SA.01.047	6/25/2019	pinfish	42	
+2664	G.S.SA.01.048	6/25/2019	pinfish	43	
+2665	G.S.SA.02.041	6/25/2019	pinfish	44	
+2666	G.S.SA.02.042	6/25/2019	pinfish	55	
+2667	G.S.SA.02.043	6/25/2019	pinfish	55	
+2668	G.S.SA.02.044	6/25/2019	pinfish	76	
+2669	G.S.SA.02.045	6/25/2019	pinfish	47	
+2670	G.S.SA.02.046	6/25/2019	pinfish	63	
+2671	G.S.SA.02.047	6/25/2019	pinfish	43	
+2672	G.S.SA.02.048	6/25/2019	pinfish	62	
+2673	G.S.SA.02.049	6/25/2019	pinfish	45	
+2674	G.S.SA.02.050	6/25/2019	pinfish	54	
+2675	G.S.SA.02.051	6/25/2019	pinfish	46	
+2676	G.S.SA.02.052	6/25/2019	pinfish	48	
+2677	G.S.SA.02.053	6/25/2019	pinfish	51	
+2678	G.S.SA.02.054	6/25/2019	pinfish	46	
+2679	G.S.SA.02.055	6/25/2019	pinfish	69	
+2680	G.S.SA.02.056	6/25/2019	pinfish	79	
+2681	G.S.SA.02.057	6/25/2019	pinfish	70	
+2682	G.S.SA.02.058	6/25/2019	pinfish	80	
+2683	G.S.SA.02.059	6/25/2019	pinfish	46	
+2684	G.S.SA.02.060	6/25/2019	pinfish	45	
+2685	G.S.SA.03.030	6/25/2019	pinfish	50	
+2686	G.S.SA.03.031	6/25/2019	pinfish	44	
+2687	G.S.MG.01.025	6/25/2019	pinfish	40	
+2688	G.S.MG.01.026	6/25/2019	pinfish	40	
+2689	G.S.MG.01.027	6/25/2019	pinfish	41	
+2690	G.S.MG.01.028	6/25/2019	pinfish	35	
+2691	G.S.MG.01.029	6/25/2019	pinfish	39	
+2692	G.S.MG.01.030	6/25/2019	pinfish	66	
+2693	G.S.MG.01.031	6/25/2019	pinfish	51	
+2694	G.S.MG.01.032	6/25/2019	pinfish	76	
+2695	G.S.MG.01.033	6/25/2019	pinfish	59	
+2696	G.S.MG.01.034	6/25/2019	pinfish	71	
+2697	G.S.MG.01.035	6/25/2019	pinfish	45	
+2698	G.S.MG.01.036	6/25/2019	pinfish	39	
+2699	G.S.MG.01.037	6/25/2019	pinfish	37	
+2700	G.S.MG.01.038	6/25/2019	pinfish	42	
+2701	G.S.MG.01.039	6/25/2019	pinfish	40	
+2702	G.S.MG.01.040	6/25/2019	pinfish	48	
+2703	G.S.MG.01.041	6/25/2019	pinfish	40	
+2704	G.S.MG.01.042	6/25/2019	pinfish	35	
+2705	G.S.MG.01.043	6/25/2019	pinfish	55	
+2706	G.S.MG.01.044	6/25/2019	pinfish	76	
+2707	G.S.MG.02.041	6/25/2019	pinfish	43	
+2708	G.S.MG.02.042	6/25/2019	pinfish	48	
+2709	G.S.MG.02.043	6/25/2019	pinfish	72	
+2710	G.S.MG.02.044	6/25/2019	pinfish	48	
+2711	G.S.MG.02.045	6/25/2019	pinfish	51	
+2712	G.S.MG.02.046	6/25/2019	pinfish	55	
+2713	G.S.MG.02.047	6/25/2019	pinfish	51	
+2714	G.S.MG.02.048	6/25/2019	pinfish	48	
+2715	G.S.MG.02.049	6/25/2019	pinfish	44	
+2716	G.S.MG.02.050	6/25/2019	pinfish	48	
+2717	G.S.MG.02.051	6/25/2019	pinfish	77	
+2718	G.S.MG.02.052	6/25/2019	pinfish	46	
+2719	G.S.MG.02.053	6/25/2019	pinfish	47	
+2720	G.S.MG.02.054	6/25/2019	pinfish	38	
+2721	G.S.MG.02.055	6/25/2019	pinfish	57	
+2722	G.S.MG.02.056	6/25/2019	pinfish	44	
+2723	G.S.MG.02.057	6/25/2019	pinfish	55	
+2724	G.S.MG.02.058	6/25/2019	pinfish	63	
+2725	G.S.MG.02.059	6/25/2019	pinfish	57	
+2726	G.S.MG.02.060	6/25/2019	pinfish	75	
+2727	G.S.BF.03.041	6/25/2019	bay anchovy	39	
+2728	G.S.BF.03.042	6/25/2019	bay anchovy	39	
+2729	G.S.BF.03.043	6/25/2019	bay anchovy	26	
+2730	G.S.BF.03.044	6/25/2019	bay anchovy	28	
+2731	G.S.BF.03.045	6/25/2019	bay anchovy	24	
+2732	G.S.BF.03.046	6/25/2019	bay anchovy	25	
+2733	G.S.BF.03.047	6/25/2019	bay anchovy	29	
+2734	G.S.BF.03.048	6/25/2019	bay anchovy	26	
+2735	G.S.BF.03.049	6/25/2019	bay anchovy	28	
+2736	G.S.BF.03.050	6/25/2019	bay anchovy	26	
+2737	G.S.BF.03.051	6/25/2019	bay anchovy	26	
+2738	G.S.BF.03.052	6/25/2019	bay anchovy	24	
+2739	G.S.BF.03.053	6/25/2019	bay anchovy	21	
+2740	G.S.BF.03.054	6/25/2019	bay anchovy	26	
+2741	G.S.BF.03.055	6/25/2019	bay anchovy	40	
+2742	G.S.BF.03.056	6/25/2019	bay anchovy	40	
+2743	G.S.BF.03.057	6/25/2019	bay anchovy	41	
+2744	G.S.BF.03.058	6/25/2019	bay anchovy	35	
+2745	G.S.BF.03.059	6/25/2019	bay anchovy	28	
+2746	G.S.BF.03.060	6/25/2019	bay anchovy	54	
+2747	G.S.AR.01.044	6/25/2019	sheepshead minnow	40	
+2748	G.S.AR.01.045	6/25/2019	sheepshead minnow	42	
+2749	G.S.SA.01.049	6/25/2019	blackcheek tonguefish	51	
+2750	G.S.SA.02.061	6/25/2019	bay whiff	69	
+2751	G.S.MG.01.004	6/25/2019	silverside	84	
+2752	G.S.MG.01.005	6/25/2019	silverside	32	
+2753	G.S.MG.01.006	6/25/2019	silverside	40	
+2754	G.S.MG.01.007	6/25/2019	silverside	28	
+2755	G.S.MG.01.008	6/25/2019	silverside	35	
+2756	G.S.MG.01.009	6/25/2019	silverside	33	
+2757	G.S.MG.01.010	6/25/2019	silverside	30	
+2758	G.S.MG.01.011	6/25/2019	silverside	23	
+2759	G.S.MG.01.012	6/25/2019	silverside	28	
+2760	G.S.MG.01.013	6/25/2019	silverside	39	
+2761	G.S.MG.01.014	6/25/2019	silverside	33	
+2762	G.S.MG.01.015	6/25/2019	silverside	30	
+2763	G.S.MG.01.016	6/25/2019	silverside	32	
+2764	G.S.MG.01.017	6/25/2019	silverside	35	
+2765	G.S.MG.01.018	6/25/2019	silverside	38	
+2766	G.S.MG.01.019	6/25/2019	silverside	39	
+2767	G.S.MG.01.020	6/25/2019	silverside	62	
+2768	G.S.MG.01.021	6/25/2019	silverside	40	
+2769	G.S.MG.01.022	6/25/2019	silverside	55	
+2770	G.S.MG.01.023	6/25/2019	silverside	35	
+2771	G.S.MG.01.024	6/25/2019	silverside	35	
+2772	G.S.MG.02.018	6/25/2019	silverside	66	
+2773	G.S.MG.02.019	6/25/2019	silverside	76	
+2774	G.S.MG.02.020	6/25/2019	silverside	45	
+2775	G.S.MG.02.021	6/25/2019	silverside	46	
+2776	G.S.MG.02.022	6/25/2019	silverside	47	
+2777	G.S.MG.02.023	6/25/2019	silverside	46	
+2778	G.S.MG.02.024	6/25/2019	silverside	37	
+2779	G.S.MG.02.025	6/25/2019	silverside	57	
+2780	G.S.MG.02.026	6/25/2019	silverside	34	
+2781	G.S.MG.02.027	6/25/2019	silverside	35	
+2782	G.S.MG.02.028	6/25/2019	silverside	32	
+2783	G.S.MG.02.029	6/25/2019	silverside	34	
+2784	G.S.MG.02.030	6/25/2019	silverside	36	
+2785	G.S.MG.02.031	6/25/2019	silverside	48	
+2786	G.S.MG.02.032	6/25/2019	silverside	58	
+2787	G.S.MG.02.033	6/25/2019	silverside	50	
+2788	G.S.MG.02.034	6/25/2019	silverside	52	
+2789	G.S.MG.02.035	6/25/2019	silverside	48	
+2790	G.S.MG.02.036	6/25/2019	silverside	40	
+2791	G.S.MG.02.037	6/25/2019	silverside	37	
+2792	G.S.MG.02.038	6/25/2019	silverside	48	
+2793	G.S.MG.02.039	6/25/2019	silverside	49	
+2794	G.S.MG.02.040	6/25/2019	silverside	48	
+2795	G.S.MG.03.001	6/25/2019	silverside	35	
+2796	G.S.MG.03.002		silverside	40	
+2797	G.S.MG.03.003		silverside	38	
+2798	G.S.MG.03.004		silverside	29	
+2799	G.S.MG.03.005		silverside	40	
+2800	G.S.MG.03.006		silverside	32	
+2801	G.S.MG.03.007		silverside	37	
+2802	G.S.MG.03.008		silverside	31	
+2803	G.S.MG.03.009		silverside	42	
+2804	G.S.MG.03.010		silverside	40	
+2805	G.S.MG.03.011		silverside	35	
+2806	G.S.MG.03.012		silverside	30	
+2807	G.S.MG.03.013		silverside	30	
+2808	G.S.MG.03.014		silverside	38	
+2809	G.S.MG.03.015		silverside	32	
+2810	G.S.MG.03.016		silverside	34	
+2811	G.S.MG.03.017		silverside	39	
+2812	G.S.MG.03.018		silverside	59	
+2813	G.S.MG.03.019		silverside	63	
+2814	G.S.MG.03.020		silverside	62	
+2815	G.S.LV.01.001	6/27/2019	pinfish	83	
+2816	G.S.LV.01.002	6/27/2019	pinfish	57	
+2817	G.W.SA.01.063	6/27/2019	pinfish	13	
+2818	G.W.SA.01.064	6/27/2019	pinfish	16	
+2819	G.W.SA.01.065	6/27/2019	pinfish	18	
+2820	G.W.SA.01.066	6/27/2019	pinfish	14	
+2821	G.W.SA.01.067	6/27/2019	pinfish	13	
+2822	G.W.SA.03.106	6/27/2019	leptocephalus	38	
+2823	G.W.SA.03.107	6/27/2019	leptocephalus	33	
+2824	G.W.SA.03.108	6/27/2019	leptocephalus	40	
+2825	G.S.BF.01.041	6/27/2019	menhaden	39	
+2826	G.S.BF.01.042	6/27/2019	menhaden	33	
+2827	G.S.BF.01.043	6/27/2019	menhaden	37	
+2828	G.S.BF.01.044	6/27/2019	menhaden	35	
+2829	G.S.BF.01.045	6/27/2019	menhaden	34	
+2830	G.S.BF.01.046	6/27/2019	menhaden	28	
+2831	G.S.BF.01.047	6/27/2019	menhaden	35	
+2832	G.S.BF.01.048	6/27/2019	menhaden	35	
+2833	G.S.BF.01.049	6/27/2019	menhaden	38	
+2834	G.S.BF.01.050	6/27/2019	menhaden	24	
+2835	G.S.BF.01.051	6/27/2019	menhaden	26	
+2836	G.S.BF.01.052	6/27/2019	menhaden	35	poop
+2837	G.S.BF.01.053	6/27/2019	menhaden	36	
+2838	G.S.BF.01.054	6/27/2019	menhaden	34	
+2839	G.S.BF.01.055	6/27/2019	menhaden	30	
+2840	G.S.BF.01.056	6/27/2019	menhaden	29	
+2841	G.S.BF.01.057	6/27/2019	menhaden	29	
+2842	G.S.BF.01.058	6/27/2019	menhaden	36	
+2843	G.S.BF.01.059	6/27/2019	menhaden	34	
+2844	G.S.BF.01.060	6/27/2019	menhaden	35	
+2845	G.S.BF.03.061	6/27/2019	menhaden	28	
+2846	G.S.BF.03.062	6/27/2019	menhaden	25	
+2847	G.S.BF.03.063	6/27/2019	menhaden	25	
+2848	G.S.BF.03.064	6/27/2019	menhaden	26	
+2849	G.S.BF.03.065	6/27/2019	menhaden	29	
+2850	G.S.BF.03.066	6/27/2019	menhaden	26	
+2851	G.S.BF.03.067	6/27/2019	menhaden	24	
+2852	G.S.BF.03.068	6/27/2019	menhaden	26	
+2853	G.S.BF.03.069	6/27/2019	menhaden	25	
+2854	G.S.BF.03.070	6/27/2019	menhaden	29	
+2855	G.S.BF.03.071	6/27/2019	menhaden	29	
+2856	G.S.BF.03.072	6/27/2019	menhaden	32	
+2857	G.S.BF.03.073	6/27/2019	menhaden	27	
+2858	G.S.BF.03.074	6/27/2019	menhaden	37	
+2859	G.S.BF.03.075	6/27/2019	menhaden	26	
+2860	G.S.BF.03.076	6/27/2019	menhaden	28	
+2861	G.S.BF.03.077	6/27/2019	menhaden	32	
+2862	G.S.BF.03.078	6/27/2019	menhaden	25	
+2863	G.S.BF.03.079	6/27/2019	menhaden	24	
+2864	G.S.BF.03.080	6/27/2019	menhaden	29	
+2865	G.S.BF.03.081	6/27/2019	menhaden	24	
+2866	G.S.LV.02.001	6/27/2019	menhaden	24	
+2867	G.S.LV.02.002	6/27/2019	menhaden	29	
+2868	G.S.LV.02.003	6/27/2019	menhaden	47	
+2869	G.S.LV.03.001	6/27/2019	menhaden	48	
+2870	G.S.LV.03.002	6/27/2019	menhaden	37	
+2871	G.S.LV.03.003	6/27/2019	menhaden	46	
+2872	G.S.LV.03.004	6/27/2019	menhaden	37	
+2873	G.S.LV.03.005	6/27/2019	menhaden	38	
+2874	G.S.LV.03.006	6/27/2019	menhaden	35	
+2875	G.S.LV.03.007	6/27/2019	menhaden	39	
+2876	G.S.LV.03.008	6/27/2019	menhaden	52	
+2877	G.S.MG.03.021	6/27/2019	menhaden	31	
+2878	G.S.MG.03.022	6/27/2019	menhaden	34	
+2879	G.S.MG.03.023	6/27/2019	menhaden	35	
+2880	G.S.MG.03.024	6/27/2019	menhaden	30	
+2881	G.S.MG.03.025	6/27/2019	menhaden	33	
+2882	G.S.MG.03.026	6/27/2019	menhaden	36	
+2883	G.S.MG.03.027	6/27/2019	menhaden	34	
+2884	G.S.MG.03.028	6/27/2019	menhaden	36	
+2885	G.S.MG.03.029	6/27/2019	menhaden	36	
+2886	G.S.SA.01.050	6/27/2019	menhaden	25	
+2887	G.S.SA.01.051	6/27/2019	menhaden	25	
+2888	G.S.SA.01.052	6/27/2019	menhaden	29	
+2889	G.S.SA.01.053	6/27/2019	menhaden	30	
+2890	G.S.SA.01.054	6/27/2019	menhaden	26	
+2891	G.S.SA.01.055	6/27/2019	menhaden	30	
+2892	G.S.SA.01.056	6/27/2019	menhaden	27	
+2893	G.S.SA.01.057	6/27/2019	menhaden	26	
+2894	G.S.SA.01.058	6/27/2019	menhaden	36	
+2895	G.S.SA.01.059	6/27/2019	menhaden	27	
+2896	G.S.SA.01.060	6/27/2019	menhaden	27	
+2897	G.S.SA.01.061	6/27/2019	menhaden	27	
+2898	G.S.SA.01.062	6/27/2019	menhaden	26	
+2899	G.S.SA.01.063	6/27/2019	menhaden	26	
+2900	G.S.SA.01.064	6/27/2019	menhaden	27	
+2901	G.S.SA.01.065	6/27/2019	menhaden	30	
+2902	G.S.SA.01.066	6/27/2019	menhaden	25	
+2903	G.S.SA.01.067	6/27/2019	menhaden	32	
+2904	G.S.SA.01.068	6/27/2019	menhaden	28	
+2905	G.S.SA.01.069	6/27/2019	menhaden	27	
+2906	G.S.SA.01.070	6/27/2019	menhaden	36	
+2907	G.S.SA.01.071	6/27/2019	menhaden	29	
+2908	G.S.SA.01.072	6/27/2019	menhaden	37	
+2909	G.S.SA.01.073	6/27/2019	menhaden	29	
+2910	G.S.SA.01.074	6/27/2019	menhaden	25	
+2911	G.S.SA.01.075	6/27/2019	menhaden	30	
+2912	G.S.SA.01.076	6/27/2019	menhaden	25	
+2913	G.S.SA.01.077	6/27/2019	menhaden	29	
+2914	G.S.SA.02.062	6/27/2019	menhaden	43	
+2915	G.S.SA.03.032	6/27/2019	menhaden	52	
+2916	G.S.SA.03.033	6/27/2019	menhaden	39	
+2917	G.S.SA.03.034	6/27/2019	menhaden	52	
+2918	G.S.SA.03.035	6/27/2019	menhaden	43	
+2919	G.S.SA.03.036	6/27/2019	menhaden	51	
+2920	G.S.SA.03.037	6/27/2019	menhaden	40	
+2921	G.S.SA.03.038	6/27/2019	menhaden	43	
+2922	G.S.SA.03.039	6/27/2019	menhaden	48	
+2923	G.S.SA.03.040	6/27/2019	menhaden	55	
+2924	G.S.SA.03.041	6/27/2019	menhaden	57	
+2925	G.S.SA.03.042	6/27/2019	menhaden	45	
+2926	G.S.SA.03.043	6/27/2019	menhaden	52	
+2927	G.S.SA.03.044	6/27/2019	menhaden	69	
+2928	G.S.SA.03.045	6/27/2019	menhaden	53	
+2929	G.S.SA.03.046	6/27/2019	menhaden	55	
+2930	G.S.SA.03.047	6/27/2019	menhaden	59	
+2931	G.S.LV.01.003	6/27/2019	silverside	24	
+2932	G.S.LV.01.004	6/27/2019	silverside	24	
+2933	G.S.LV.01.005	6/27/2019	silverside	29	
+2934	G.S.LV.01.006	6/27/2019	silverside	26	
+2935	G.S.LV.01.007	6/27/2019	silverside	26	
+2936	G.S.LV.01.008	6/27/2019	silverside	27	
+2937	G.S.LV.01.009	6/27/2019	silverside	28	
+2938	G.S.LV.01.010	6/27/2019	silverside	35	
+2939	G.S.LV.01.011	6/27/2019	silverside	24	
+2940	G.S.LV.01.012	6/27/2019	silverside	36	
+2941	G.S.LV.01.013	6/27/2019	silverside	30	
+2942	G.S.LV.01.014	6/27/2019	silverside	37	
+2943	G.S.LV.01.015	6/27/2019	silverside	25	
+2944	G.S.LV.01.016	6/27/2019	silverside	32	
+2945	G.S.LV.01.017	6/27/2019	silverside	34	
+2946	G.S.LV.01.018	6/27/2019	silverside	24	
+2947	G.S.LV.01.019	6/27/2019	silverside	23	
+2948	G.S.LV.01.020	6/27/2019	silverside	24	
+2949	G.S.LV.01.021	6/27/2019	silverside	31	
+2950	G.S.LV.01.022	6/27/2019	silverside	25	stomach out
+2951	G.S.LV.01.023	6/27/2019	silverside	41	
+2952	G.S.LV.02.004	6/27/2019	silverside	33	
+2953	G.S.LV.02.005	6/27/2019	silverside	37	
+2954	G.S.LV.02.006	6/27/2019	silverside	31	
+2955	G.S.LV.02.007	6/27/2019	silverside	40	
+2956	G.S.LV.02.008	6/27/2019	silverside	34	
+2957	G.S.LV.02.009	6/27/2019	silverside	36	
+2958	G.S.LV.02.010	6/27/2019	silverside	36	
+2959	G.S.LV.02.011	6/27/2019	silverside	37	
+2960	G.S.LV.02.012	6/27/2019	silverside	34	
+2961	G.S.LV.02.013	6/27/2019	silverside	34	
+2962	G.S.LV.02.014	6/27/2019	silverside	66	
+2963	G.S.LV.02.015	6/27/2019	silverside	57	
+2964	G.S.LV.02.016	6/27/2019	silverside	28	
+2965	G.S.LV.02.017	6/27/2019	silverside	31	
+2966	G.S.LV.02.018	6/27/2019	silverside	28	
+2967	G.S.LV.02.019	6/27/2019	silverside	36	
+2968	G.S.LV.02.020	6/27/2019	silverside	30	
+2969	G.S.LV.02.021	6/27/2019	silverside	32	
+2970	G.S.LV.02.022	6/27/2019	silverside	32	
+2971	G.S.LV.02.023	6/27/2019	silverside	32	
+2972	G.S.LV.03.009	6/28/2019	silverside	29	
+2973	G.S.LV.03.010	6/28/2019	silverside	32	
+2974	G.S.LV.03.011	6/28/2019	silverside	28	
+2975	G.S.LV.03.012	6/28/2019	silverside	31	
+2976	G.S.LV.03.013	6/28/2019	silverside	36	
+2977	G.S.LV.03.014	6/28/2019	silverside	38	
+2978	G.S.LV.03.015	6/28/2019	silverside	26	
+2979	G.S.LV.03.016	6/28/2019	silverside	30	
+2980	G.S.LV.03.017	6/28/2019	silverside	38	
+2981	G.S.LV.03.018	6/28/2019	silverside	28	
+2982	G.S.LV.03.019	6/28/2019	silverside	30	
+2983	G.S.LV.03.020	6/28/2019	silverside	28	poop
+2984	G.S.LV.03.021	6/28/2019	silverside	25	
+2985	G.S.LV.03.022	6/28/2019	silverside	35	poop
+2986	G.S.LV.03.023	6/28/2019	silverside	21	
+2987	G.S.LV.03.024	6/28/2019	silverside	30	
+2988	G.S.LV.03.025	6/28/2019	silverside	27	
+2989	G.S.LV.03.026	6/28/2019	silverside	34	
+2990	G.S.LV.03.027	6/28/2019	silverside	27	
+2991	G.S.LV.03.028	6/28/2019	striped anchovy	45	
+2992	G.S.LV.03.029	6/28/2019	striped anchovy	44	
+2993	G.S.LV.03.030	6/28/2019	striped anchovy	50	
+2994	G.S.LV.03.031	6/28/2019	bay anchovy	18	
+2995	G.S.LV.03.032	6/28/2019	bay anchovy	26	
+2996	G.S.LV.03.033	6/28/2019	bay anchovy	25	
+2997	G.S.LV.03.034	6/28/2019	bay anchovy	21	
+2998	G.S.LV.03.035	6/28/2019	bay anchovy	23	
+2999	G.S.LV.03.036	6/28/2019	striped anchovy	44	
+3000	G.S.LV.03.037	6/28/2019	striped anchovy	39	
+3001	G.S.LV.03.038	6/28/2019	striped anchovy	40	
+3002	G.S.LV.03.039	6/28/2019	striped anchovy	25	
+3003	G.S.LV.03.040	6/28/2019	bay anchovy	47	
+3004	G.S.LV.03.041	6/28/2019	bay anchovy	52	
+3005	G.S.LV.03.042	6/28/2019	striped anchovy	39	
+3006	G.S.LV.03.043	6/28/2019	bay anchovy	25	
+3007	G.S.LV.03.044	6/28/2019	striped anchovy	21	
+3008	G.S.LV.03.045	6/28/2019	striped anchovy	55	
+3009	G.S.LV.03.046	6/28/2019	striped anchovy	56	
+3010	G.S.LV.03.047	6/28/2019	bay anchovy	27	
+3011	G.S.LV.03.048	6/28/2019	striped anchovy	40	
+3012	G.S.LV.03.049	6/28/2019	bay anchovy	42	
+3013	G.S.LV.03.050	6/28/2019	bay anchovy	47	
+3014	G.S.LV.03.051	6/28/2019	striped anchovy	0	
+3015	G.S.LV.02.024	6/28/2019	bay anchovy	28	
+3016	G.S.LV.02.025	6/28/2019	bay anchovy	33	
+3017	G.S.LV.02.026	6/28/2019	bay anchovy	31	
+3018	G.S.LV.02.027	6/28/2019	bay anchovy	45	
+3019	G.S.LV.02.028	6/28/2019	bay anchovy	30	
+3020	G.S.LV.02.029	6/28/2019	bay anchovy	30	
+3021	G.S.LV.02.030	6/28/2019	bay anchovy	41	
+3022	G.S.LV.02.031	6/28/2019	bay anchovy	28	
+3023	G.S.LV.02.032	6/28/2019	bay anchovy	28	
+3024	G.S.LV.02.033	6/28/2019	bay anchovy	25	
+3025	G.S.LV.02.034	6/28/2019	bay anchovy	28	
+3026	G.S.LV.02.035	6/28/2019	bay anchovy	40	
+3027	G.S.LV.02.036	6/28/2019	bay anchovy	30	
+3028	G.S.LV.02.037	6/28/2019	bay anchovy	28	
+3029	G.S.LV.02.038	6/28/2019	bay anchovy	38	
+3030	G.S.LV.02.039	6/28/2019	bay anchovy	28	
+3031	G.S.LV.02.040	6/28/2019	striped anchovy	48	
+3032	G.S.LV.02.041	6/28/2019	bay anchovy	23	
+3033	G.S.LV.02.042	6/28/2019	bay anchovy	30	
+3034	G.S.LV.02.043	6/28/2019	bay anchovy	38	
+3035	G.S.LV.02.044	6/28/2019	bay anchovy	45	
+3036	G.S.LV.01.024	6/28/2019	bay anchovy	20	
+3037	G.S.LV.01.025	6/28/2019	bay anchovy	25	
+3038	G.S.LV.01.026	6/28/2019	bay anchovy	25	
+3039	G.S.LV.01.027	6/28/2019	bay anchovy	26	damaged (cut)
+3040	G.S.LV.01.028	6/28/2019	bay anchovy	25	
+3041	G.S.LV.01.029	6/28/2019	bay anchovy	20	
+3042	G.S.LV.01.030	6/28/2019	bay anchovy	22	stomach is cut
+3043	G.S.LV.01.031	6/28/2019	bay anchovy	24	
+3044	G.S.LV.01.032	6/28/2019	bay anchovy	27	
+3045	G.S.LV.01.033	6/28/2019	bay anchovy	22	
+3046	G.S.LV.01.034	6/28/2019	bay anchovy	22	
+3047	G.S.LV.01.035	6/28/2019	bay anchovy	31	
+3048	G.S.LV.01.036	6/28/2019	bay anchovy	20	
+3049	G.S.LV.01.037	6/28/2019	bay anchovy	29	
+3050	G.S.LV.01.038	6/28/2019	bay anchovy	25	
+3051	G.S.LV.01.039	6/28/2019	bay anchovy	28	
+3052	G.S.LV.01.040	6/28/2019	bay anchovy	23	
+3053	G.S.LV.01.041	6/28/2019	striped anchovy	56	
+3054	G.S.LV.01.042	6/28/2019	bay anchovy	23	
+3055	G.S.LV.01.043	6/28/2019	bay anchovy	21	
+3056	G.S.AR.01.075	6/28/2019	mullet	26	
+3057	G.S.AR.01.076	6/28/2019	mullet	24	
+3058	G.S.AR.01.077	6/28/2019	mullet	27	
+3059	G.S.BF.02.041	6/28/2019	mullet	31	
+3060	G.S.SA.02.063	6/28/2019	mullet	28	
+3061	G.S.SA.03.048	6/28/2019	mullet	31	
+3062	G.S.SA.03.049	6/28/2019	mullet	47	
+3063	G.S.SA.03.050	6/28/2019	mullet	36	
+3064	G.S.SA.03.051	6/28/2019	mullet	62	
+3065	G.S.SA.03.052	6/28/2019	mullet	29	
+3066	G.S.SA.03.053	6/28/2019	mullet	32	
+3067	G.S.LV.01.044	6/28/2019	mullet	25	
+3068	G.S.LV.01.045	6/28/2019	mullet	55	
+3069	G.S.LV.01.046	6/28/2019	mullet	27	
+3070	G.S.LV.01.047	6/28/2019	mullet	25	
+3071	G.S.LV.01.048	6/28/2019	mullet	24	
+3072	G.S.LV.01.049	6/28/2019	mullet	26	
+3073	G.S.LV.01.050	6/28/2019	mullet	23	
+3074	G.S.LV.01.051	6/28/2019	mullet	26	
+3075	G.S.LV.01.052	6/28/2019	mullet	23	
+3076	G.S.LV.01.053	6/28/2019	mullet	24	
+3077	G.S.LV.01.054	6/28/2019	mullet	25	
+3078	G.S.LV.01.055	6/28/2019	mullet	23	
+3079	G.S.LV.01.056	6/28/2019	mullet	24	
+3080	G.S.LV.01.057	6/28/2019	mullet	24	
+3081	G.S.LV.01.058	6/28/2019	mullet	22	
+3082	G.S.LV.01.059	6/28/2019	mullet	25	
+3083	G.S.LV.01.060	6/28/2019	mullet	25	
+3084	G.S.LV.01.061	6/28/2019	mullet	24	
+3085	G.S.LV.01.062	6/28/2019	mullet	22	
+3086	G.S.LV.02.045	6/28/2019	mullet	56	
+3087	G.S.MG.01.045	6/28/2019	mullet	24	
+3088	G.S.MG.01.046	6/28/2019	mullet	53	
+3089	G.S.MG.01.047	6/28/2019	mullet	68	
+3090	G.S.MG.01.048	6/28/2019	mullet	44	
+3091	G.S.MG.01.049	6/28/2019	mullet	43	
+3092	G.S.MG.01.050	6/28/2019	mullet	25	
+3093	G.S.MG.01.051	6/28/2019	mullet	45	
+3094	G.S.MG.01.052	6/28/2019	mullet	43	
+3095	G.S.MG.01.053	6/28/2019	mullet	51	
+3096	G.S.MG.01.054	6/28/2019	mullet	51	
+3097	G.S.MG.01.055	6/28/2019	mullet	52	
+3098	G.S.MG.01.056	6/28/2019	mullet	25	
+3099	G.S.MG.01.057	6/28/2019	mullet	56	
+3100	G.S.MG.01.058	6/28/2019	mullet	52	
+3101	G.S.MG.01.059	6/28/2019	mullet	55	
+3102					
+3103					
+3104					
+3105					
+3106					
+3107					
+3108					
+3109					
+3110					
+3111					
+3112					
+3113					
+3114					
+3115					
+3116					
+3117					
+3118					
+3119					
+3120					
+3121					
+3122					
+3123					
+3124					
+3125	G.S.MG.03.032	6/28/2019	mullet	58	
+3126	G.S.MG.03.033	6/28/2019	mullet	54	
+3127	G.S.MG.03.034	6/28/2019	mullet	54	
+3128	G.S.MG.03.035	6/28/2019	mullet	50	
+3129	G.S.MG.03.036	6/28/2019	mullet	47	
+3130	G.S.BF.02.042	7/3/2019	menhaden	26	
+3131	G.S.BF.02.043	7/3/2019	menhaden	19	
+3132	G.S.BF.02.044	7/3/2019	menhaden	22	
+3133	G.S.BF.02.045	7/3/2019	menhaden	27	
+3134	G.S.MG.02.076	7/3/2019	menhaden	24	
+3135	G.S.MG.02.077	7/3/2019	menhaden	26	
+3136	G.S.MG.02.078	7/3/2019	menhaden	24	
+3137	G.S.MG.02.079	7/3/2019	sheepshead minnow	28	
+3138	G.S.MG.02.080	7/3/2019	sheepshead minnow	43	
+3139	G.S.MG.02.081	7/3/2019	sheepshead minnow	41	
+3140	G.S.MG.02.082	7/3/2019	sheepshead minnow	42	
+3141	G.S.MG.02.083	7/3/2019	sheepshead minnow	34	
+3142	G.S.MG.02.084	7/3/2019	sheepshead minnow	55	
+3143	G.S.MG.02.085	7/3/2019	sheepshead minnow	28	
+3144	G.S.MG.02.086	7/3/2019	sheepshead minnow	43	
+3145	G.S.MG.02.087	7/3/2019	sheepshead minnow	46	
+3146	G.S.MG.02.088	7/3/2019	sheepshead minnow	44	
+3147	G.S.MG.02.089	7/3/2019	sheepshead minnow	44	
+3148	G.S.MG.02.090	7/3/2019	sheepshead minnow	41	
+3149	G.S.MG.02.091	7/3/2019	sheepshead minnow	45	
+3150	G.S.MG.02.092	7/3/2019	sheepshead minnow	46	
+3151	G.S.MG.02.093	7/3/2019	sheepshead minnow	39	
+3152	G.S.MG.02.094	7/3/2019	sheepshead minnow	50	
+3153	G.S.MG.02.095	7/3/2019	sheepshead minnow	36	
+3154	G.S.MG.02.096	7/3/2019	sheepshead minnow	41	
+3155	G.S.MG.02.097	7/3/2019	sheepshead minnow	36	
+3156	G.S.MG.02.098	7/3/2019	sheepshead minnow	50	
+3157	G.S.MG.02.099	7/8/2019	spotted seatrout	19	
+3158	G.S.MG.02.100	7/8/2019	spotted seatrout	19	
+3159	G.S.MG.02.101	7/8/2019	spotted seatrout	15	
+3160	G.S.MG.02.102	7/8/2019	spot	40	
+3161	G.S.MG.02.103	7/8/2019	spot	47	
+3162	G.S.MG.02.104	7/8/2019	silver perch	45	
+3163	G.S.MG.02.105	7/8/2019	silver perch	29	
+3164	G.S.MG.02.106	7/8/2019	silver perch	37	
+3165	G.S.MG.02.107	7/8/2019	silver perch	33	
+3166	G.S.MG.02.108	7/8/2019	silver perch	24	
+3167	G.S.MG.02.109	7/8/2019	silver perch	39	
+3168	G.S.MG.02.110	7/8/2019	silver perch	22	
+3169	G.S.MG.02.111	7/8/2019	silver perch	30	
+3170	G.S.MG.02.112	7/8/2019	silver perch	49	
+3171	G.S.MG.02.113	7/8/2019	silver perch	34	
+3172	G.S.MG.02.114	7/8/2019	silver perch	34	
+3173	G.S.MG.02.115	7/8/2019	silver perch	36	
+3174	G.S.MG.02.116	7/8/2019	silver perch	30	
+3175	G.S.MG.02.117	7/8/2019	silver perch	13	
+3176	G.S.MG.02.118	7/8/2019	silver perch	18	
+3177	G.S.MG.02.119	7/8/2019	silver perch	13	
+3178	G.S.MG.02.120	7/8/2019	silver perch	18	
+3179	G.S.MG.02.121	7/8/2019	silver perch	17	
+3180	G.S.MG.02.122		silver perch	15	
+3181	G.S.MG.02.123		silver perch	15	
+3182	G.S.MG.02.124		silver perch	14	
+3183	G.S.AR.01.049		spotted seatrout	16	
+3184	G.S.AR.01.050		silver perch	22	
+3185	G.S.AR.01.051		silver perch	24	
+3186	G.S.AR.01.052		silver perch	21	
+3187	G.S.AR.01.053		silver perch	22	
+3188	G.S.AR.01.054		silver perch	23	
+3189	G.S.AR.01.055		silver perch	24	
+3190	G.S.AR.01.056		silver perch	14	
+3191	G.S.AR.01.057		silver perch	20	
+3192	G.S.AR.01.058		silver perch	23	
+3193	G.S.AR.01.059		silver perch	21	
+3194	G.S.AR.01.060		silver perch	22	
+3195	G.S.AR.01.061		silver perch	21	
+3196	G.S.AR.01.062		silver perch	20	
+3197	G.S.AR.01.063		silver perch	22	
+3198	G.S.AR.01.064		silver perch	24	
+3199	G.S.AR.01.065		silver perch	21	
+3200	G.S.AR.01.066		silver perch	21	
+3201	G.S.AR.01.067		silver perch	18	
+3202	G.S.AR.01.068		silver perch	22	
+3203	G.S.AR.01.069		silver perch	24	
+3204	G.S.AR.01.070		silver perch	21	
+3205	G.S.AR.01.071		silver perch	23	
+3206	G.S.MG.01.086		crevalle jack	42	
+3207	G.S.MG.01.087		sheepshead	27	
+3208	G.S.MG.01.088		sheepshead	26	
+3209	G.S.MG.01.089		sheepshead	28	
+3210	G.S.LV.01.063		silver perch	31	
+3211	G.S.LV.02.046		bluntnose jack	25	
+3212	G.S.LV.02.047		bluntnose jack	23	
+3213	G.S.LV.02.048		least puffer	9	
+3214	G.S.SA.03.054		atlantic croaker	32	
+3215	G.S.SA.03.055		atlantic croaker	36	
+3216	G.S.SA.03.056		atlantic croaker	31	
+3217	G.S.SA.03.057		atlantic croaker	29	
+3218	G.S.SA.03.058		atlantic croaker	30	
+3219	G.S.SA.03.059		atlantic croaker	27	
+3220	G.S.BF.02.046		spotted seatrout	29	
+3221	G.S.BF.02.047		spotted seatrout	18	
+3222	G.S.AR.02.052		spot	52	
+3223	G.S.AR.02.053		spot	49	
+3224	G.S.MG.01.066		silver perch	43	
+3225	G.S.MG.01.067		silver perch	42	
+3226	G.S.MG.01.068		silver perch	54	
+3227	G.S.MG.01.069		silver perch	38	
+3228	G.S.MG.01.070		silver perch	46	
+3229	G.S.MG.01.071		silver perch	27	
+3230	G.S.MG.01.072		silver perch	31	
+3231	G.S.MG.01.073		silver perch	25	
+3232	G.S.MG.01.074		silver perch	26	
+3233	G.S.MG.01.075		silver perch	32	
+3234	G.S.MG.01.076		silver perch	31	
+3235	G.S.MG.01.077		silver perch	40	
+3236	G.S.MG.01.078		silver perch	38	
+3237	G.S.MG.01.079		silver perch	31	
+3238	G.S.MG.01.080		silver perch	34	
+3239	G.S.MG.01.081		silver perch	30	
+3240	G.S.MG.01.082		silver perch	29	
+3241	G.S.MG.01.083		silver perch	38	
+3242	G.S.MG.01.084		silver perch	23	
+3243	G.S.MG.01.085		silver perch	34	
+3244	G.S.SA.03.060		ladyfish	62	
+3245	G.S.SA.03.061		ladyfish	64	
+3246	G.S.MG.02.125		longnose killifish	38	
+3247	G.S.MG.02.126		longnose killifish	27	
+3248	G.S.MG.02.127		longnose killifish	50	
+3249	G.S.MG.02.128		longnose killifish	20	
+3250	G.S.MG.02.129		longnose killifish	36	
+3251	G.S.MG.02.130		longnose killifish	34	
+3252	G.S.MG.02.131		longnose killifish	72	
+3253	G.S.MG.02.132		longnose killifish	41	
+3254	G.S.MG.02.133		longnose killifish	68	
+3255	G.S.MG.02.134		longnose killifish	41	
+3256	G.S.MG.02.135		longnose killifish	75	
+3257	G.S.MG.02.136		longnose killifish	52	
+3258	G.S.MG.02.137		longnose killifish	50	
+3259	G.S.MG.02.138		longnose killifish	71	
+3260	G.S.MG.02.139		longnose killifish	41	
+3261	G.S.MG.02.140		longnose killifish	27	
+3262	G.S.MG.02.141		longnose killifish	54	
+3263	G.S.MG.02.142		longnose killifish	47	
+3264	G.S.MG.02.143		longnose killifish	47	
+3265	G.S.MG.02.144		longnose killifish	47	
+3266	G.S.MG.02.145		gulf killifish	37	
+3267	G.S.MG.02.146		gulf killifish	41	
+3268	G.S.MG.02.147		gulf killifish	44	
+3269	G.S.MG.02.148		gulf killifish	47	
+3270	G.S.AR.02.054			23	
+3271	G.S.AR.01.072			24	
+3272	G.S.AR.01.073			24	guts out
+3273	G.S.AR.01.074			21	
+3274	G.S.AR.01.075			23	
+3275	G.S.AR.01.076			26	
+3276	G.S.BF.01.061	8/15/2019	rainwater killifish	24	
+3277	G.S.BF.01.062	8/15/2019	rainwater killifish	20	
+3278	G.S.BF.01.063	8/15/2019	rainwater killifish	29	
+3279	G.S.BF.01.064	8/15/2019	rainwater killifish	25	
+3280	G.S.BF.01.065	8/15/2019	rainwater killifish	30	
+3281	G.S.BF.01.066	8/15/2019	rainwater killifish	22	
+3282	G.S.BF.01.067	8/15/2019	rainwater killifish	24	
+3283	G.S.BF.01.068	8/15/2019	rainwater killifish	20	
+3284	G.S.BF.01.069	8/15/2019	rainwater killifish	21	
+3285	G.S.BF.01.070	8/15/2019	rainwater killifish	19	
+3286	G.S.BF.01.071	8/15/2019	rainwater killifish	22	
+3287	G.S.BF.01.072	8/15/2019	rainwater killifish	20	
+3288	G.S.MG.01.090	8/15/2019	gulf killifish	55	
+3289	G.S.MG.01.091	8/15/2019	gulf killifish	55	
+3290	G.S.MG.01.092	8/15/2019	gulf killifish	54	
+3291	G.S.MG.01.093	8/15/2019	gulf killifish	34	
+3292	G.S.MG.03.037	8/15/2019	longnose killifish	30	
+3293	G.S.MG.03.038	8/15/2019	striped killifish	54	
+3294	G.S.MG.03.039	8/15/2019	longnose killifish	33	
+3295	G.S.MG.03.040	8/15/2019	bayou killifish	34	
+3296	G.S.MG.03.041	8/15/2019	bayou killifish	20	
+3297	G.S.MG.03.042	8/15/2019	longnose killifish	30	
+3298	G.S.MG.03.043	8/15/2019	gulf killifish	18	
+3299	G.S.MG.03.044	8/15/2019	rainwater killifish	34	
+3300	G.S.MG.03.045	8/15/2019	longnose killifish	64	
+3301	G.S.MG.03.046	8/15/2019	rainwater killifish	37	
+3302	G.S.MG.03.047	8/15/2019		18	
+3303	G.S.MG.03.048	8/15/2019	longnose killifish	33	
+3304	G.S.MG.03.049	8/15/2019	longnose killifish	24	
+3305	G.S.MG.03.050	8/15/2019	longnose killifish	32	
+3306	G.S.MG.03.051	8/15/2019	longnose killifish	30	
+3307	G.S.MG.03.052	8/15/2019	longnose killifish	39	
+3308	G.S.MG.03.053	8/15/2019	longnose killifish	70	
+3309	G.S.MG.03.054	8/15/2019	longnose killifish	34	
+3310	G.S.MG.03.055	8/15/2019	longnose killifish	70	
+3311	G.S.MG.03.056	8/15/2019	gulf killifish	50	
+3312	G.S.MG.03.057	8/15/2019	bayou killifish	31	
+3313	G.S.MG.03.058	8/15/2019	bayou killifish	41	
+3314	G.S.MG.03.059	8/15/2019	diamond killifish	25	"pointed noiso, A - 11"
+3315	G.S.MG.03.060	8/15/2019	rainwater killifish	36	
+3316	G.S.MG.03.061	8/15/2019	rainwater killifish	39	
+3317	G.S.MG.03.062	8/15/2019	rainwater killifish	43	
+3318	G.S.MG.03.063	8/15/2019	rainwater killifish	38	
+3319	G.S.MG.03.064	8/15/2019	rainwater killifish	35	
+3320	G.S.MG.03.065	8/15/2019	rainwater killifish	40	
+3321	G.S.MG.03.066	8/15/2019	rainwater killifish	43	
+3322	G.S.MG.03.067	8/16/2019	gulf killifish		
+3323	G.S.MG.03.068	8/16/2019	gulf killifish		external poop
+3324	G.S.MG.03.069	8/16/2019	gulf killifish		
+3325	G.S.MG.03.070	8/16/2019	gulf killifish		
+3326	G.S.MG.03.071	8/16/2019	gulf killifish		shrimp w/ fish - 20mm
+3327	G.S.MG.03.072	8/16/2019	gulf killifish		
+3328	G.S.MG.03.073	8/16/2019	gulf killifish		
+3329	G.S.MG.03.074	8/16/2019	gulf killifish		
+3330	G.S.MG.03.075	8/16/2019	gulf killifish		
+3331	G.S.BF.01.073	8/16/2019	ladyfish		elopidae
+3332	G.S.BF.03.082	8/16/2019	spot		
+3333	G.S.MG.03.076	8/16/2019	silver perch		bairdiella chryosura
+3334	G.S.MG.03.077	8/16/2019	atlantic croaker		
+3335	G.S.MG.03.078	8/16/2019	atlantic croaker		external poop
+3336	G.S.MG.03.079	8/16/2019	atlantic croaker		
+3337	G.S.MG.03.080	8/16/2019	atlantic croaker		
+3338	G.S.MG.03.081	8/16/2019	atlantic croaker		
+3339	G.S.MG.03.082	8/16/2019	atlantic croaker		
+3340	G.S.MG.03.083	8/16/2019	atlantic croaker		external poop
+3341	G.S.MG.03.084	8/16/2019	atlantic croaker		
+3342	G.S.MG.03.085	8/16/2019	atlantic croaker		
+3343	G.S.MG.03.086	8/16/2019	atlantic croaker		external poop

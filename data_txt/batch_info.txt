@@ -1,0 +1,80 @@
+batch	description	dis_date	dis_name	dis_pants	dis_shirt	dis_jacket	dis_notes	ful_date	ful_name	ful_pants	ful_shirt	ful_jacket	ful_notes	dig_date	dig_name	dig_pants	dig_shirt	dig_jacket	dig_notes	filt_date	filt_name	filt_pants	filt_shirt	filt_jacket	filt_notes
+7	fall silversides AR1	7/9/2019	"Gray, Rachel"	"black, blue, pink, white"	blue	N/A	N/A	7/9/2019	"Gray, Rachel, Michaela"	blue	red	N/A	N/A	8/28/2019	"Gray, Cindy"	black	"green, turquoise"	N/A	N/A	10/17/2019	"Gray, Kaylee"	"blue, khaki"	"blue, white"	N/A	N/A
+8	fall silversides AR2	7/9/2019	"Gray, Rachel"	"black, blue, pink, white"	blue	N/A	N/A	7/9/2019	Michaela	blue	red	N/A	N/A	10/14/2019	Gray	black	"green, turquoise"	N/A	N/A	10/17/2019	"Gray, Kaylee"	"blue, khaki"	"blue, white"	N/A	N/A
+9	fall silversides AR3	7/10/2019	Michaela	black	red	N/A	N/A	7/10/2019	Michaela	black	red	N/A	N/A	10/14/2019	Gray	black	"green, turquoise"	N/A	N/A	10/17/2019	"Gray, Kaylee"	"blue, khaki"	"blue, white"	N/A	N/A
+10	fall silversides BF1	7/11/2019	"Cindy, Michaela"	black	"blue, green"	N/A	N/A	7/11/2019	Michaela	black	"blue, green"	N/A	N/A	10/20/2019	Gray	black	blue	N/A	yellow blanket	10/25/2019	Gray	red	green	maroon	N/A
+11	fall silversides BF2	7/11/2019	Cindy	black	blue	N/A	N/A	7/11/2019	Michaela	black	"blue, green"	N/A	N/A	10/20/2019	Gray	black	blue	N/A	yellow blanket	10/25/2019	Gray	red	green	maroon	N/A
+12	fall silversides BF3	7/11/2019	Cindy	black	blue	N/A	N/A	7/11/2019	Michaela	black	"blue, green"	N/A	N/A	10/20/2019	Gray	black	blue	N/A	yellow blanket	10/25/2019	Gray	red	green	maroon	N/A
+13	fall silversides MG1	7/12/2019	Cindy	black	green	N/A	N/A	7/12/2019	Michaela	blue	gray	N/A	"Drew in room, pants: gray, shirt: gray, jacket: N/A"	10/27/2019	Gray	maroon	black	maroon	N/A	10/27/2019	Gray	tan	"blue, white"	maroon	white blanket
+14	fall silversides MG2	7/12/2019	Cindy	lack	green	N/A	N/A	7/12/2019	Michaela	blue	gray	N/A	N/A	10/27/2019	Gray	maroon	black	maroon	N/A	10/27/2019	Gray	tan	blue	`maroon	white blanket
+15	fall silversides MG3	7/12/2019	Cindy	black	green	N/A	N/A	7/12/2019	Michaela	blue	gray	N/A	N/A	10/27/2019	Gray	maroon	black	maroon	N/A	10/27/2019	Gray	tan	blue	maroon	white blanket
+16	fall silversides SA1	7/15/2019	Cindy	black	green	N/A	N/A	7/15/2019	Michaela	blue	black	N/A	"Drew in room for 5-8, shirt:blue, pants: tan, jacket: N/A"	10/27/2019	Gray	tan	blue	maroon	N/A	10/28/2019	Gray	turquoise	turquoise	maroon	N/A
+17	fall silversides SA2	7/15/2019	"Cindy, Michaela"	"black, blue"	"green, black"	N/A	N/A	7/15/2019	Michaela	blue	black	N/A	N/A	10/27/2019	Gray	tan	blue	maroon	N/A	10/28/2019	"Gray, Cindy"	"turquoise, black"	"turquoise, gray"	"maroon, white"	white blanket
+18	fall silversides SA3	7/15/2019	Cindy	black	green	N/A	N/A	7/15/2019	Michaela	N/A	N/A	N/A	N/A	10/27/2019	Gray	tan	blue	maroon	N/A	10/28/2019	"Gray, Cindy"	"turquoise, black"	"turquoise, gray"	"maroon, white"	white blanket
+19	winter silversides AR1	7/16/2019	Michaela	blue	black	N/A	N/A	7/16/2019	Michaela	blue	black	N/A	N/A	11/11/2019	"Gray, Kaylee"	"black, blue"	"green, blue"	gray	N/A	11/11/2019	"Kaylee, Michaela"	"black, blue"	"gray, blue"	"black, gray"	N/A
+20	winter silversides AR2	7/17/2019	"Michaela, Rachel"	black	blue	N/A	N/A	7/17/2019	Michaela	black	blue	N/A	N/A	11/11/2019	"Gray, Kaylee"	"black, blue"	"green, blue"	gray	N/A	11/18/2019	Kaylee	blue	gray	gray	N/A
+21	winter silversides AR3	7/17/2019	Rachel	black	blue	N/A	N/A	7/17/2019	Michaela. Rachel	black	black	N/A	N/A	11/11/2019	"Gray, Kaylee"	"black, blue"	"green, blue"	gray	N/A	11/18/2019	Kaylee	blue	gray	gray	N/A
+22	winter silversides BF1	7/23/2019	"Rachel, Michaela"	"blue, black"	"gray, turquoise"	N/A	N/A	7/23/2019	"Michaela, Kaylee"	"blue, black, gray"	"gray, blue"	N/A	N/A	11/18/2019	Kaylee	blue	gray	gray	left in three days	11/21/2019	"Kaylee, Michaela"	black	"red, yellow"	gray	N/A
+24	winter silversides BF3	7/23/2019	Rachel	black	turquoise	N/A	N/A	7/23/2019	Michaela	blue	gray	N/A	N/A	11/18/2019	Kaylee	blue	gray	gray	left in three days	11/21/2019	"Kaylee, Michaela"	black	"red, yellow"	gray	N/A
+23	winter silversides BF2	7/23/2019	"Michaela, Kaylee, Rachel"	"blue, black, gray"	"gray, green, blue"	N/A	N/A	7/23/2019	"Michaela, Kaylee"	"blue, black, gray"	"gray, blue"	N/A	N/A	11/18/2019	Kaylee	blue	gray	gray	left in three days	11/21/2019	"Kaylee, Michaela"	black	"red, yellow"	gray	N/A
+27	winter silversides MG3	7/24/2019	Rachel	blue	black	N/A	.015 stomach punctured and released content	7/24/2019	Michaela	blue	black	N/A	N/A	12/4/2019	Kaylee	blue	gray	N/A	N/A	12/11/2019	Kaylee	blue	gray	gray	N/A
+25	winter silversides MG1	7/24/2019	"Rachel, Michaela"	blue	black	N/A	N/A	7/24/2019	Michaela	blue	black	N/A	N/A	12/4/2019	Kaylee	blue	gray	gray	N/A	12/11/2019	Kaylee	blue	gray	gray	N/A
+26	winter silversides MG2	7/24/2019	Rachel	blue	black	N/A	N/A	7/24/2019	Michaela	blue	black	N/A	N/A	12/4/2019	Kaylee	blue	gray	gray	N/A	12/11/2019	Kaylee	blue	gray	gray	N/A
+28	winter silversides SA1	7/24/2019	Rachel	blue	black	N/A	N/A	7/24/2019	Michaela	blue	black	N/A	N/A												
+29	winter silversides SA2	7/25/2019	"Rachel, Michaela"	blue	"black, blue"	N/A	N/A	7/25/2019	Michaela	blue	black	N/A	N/A												
+30	winter silversides SA3	7/25/2019	"Rachel, Cindy"	"blue, black"	"blue, black"	N/A	N/A	7/25/2019	Michaela	blue	black	N/A	N/A												
+31	spring silversides AR1	7/25/2019	"Rachel, Cindy"	"blue, black"	"blue, black"	N/A	N/A	7/25/2019	"Michaela, Cindy"	"blue, black"	black	N/A	N/A												
+32	spring silversides AR2	7/25/2019	Rachel	blue	blue	N/A	N/A	7/25/2019	"Michaela, Cindy"	"blue, black"	black	N/A	N/A												
+33	spring silversides AR3	7/26/2019	Cindy	black	blue	N/A	N/A	7/26/2019	Michaela	blue	black	N/A	N/A												
+34	spring silversides BF1	7/26/2019	Rachel	blue	gray	N/A	N/A	7/26/2019	Michaela	blue	black	N/A	N/A												
+35	spring silversides BF2	7/26/2019	Rachel	blue	gray	N/A	N/A	7/26/2019	Michaela	blue	black	N/A	N/A												
+36	spring silversides BF3	7/26/2019	Rachel	blue	gray	N/A	N/A	7/26/2019	Michaela	blue	black	N/A	N/A												
+37	spring silversides MG1	7/26/2019	Rachel	blue	gray	N/A	N/A	7/26/2019	Michaela	blue	black	N/A	N/A												
+38	spring silversides MG2	7/30/2019	"Rachel, Michaela, Kaylee"	"black, blue"	"teal, red, gray"	N/A	N/A	7/30/2019	"Michaela, Kaylee"	"blue, black"	"red, gray"	N/A	N/A												
+39	spring silversides MG3	7/30/2019	Rachel	blue	teal	N/A	N/A	7/30/2019	"Kaylee, Michaela"	"blue, black"	"red, gray"	N/A	N/A												
+40	spring silversides SA1	7/30/2019	Rachel	blue	teal	N/A	N/A	7/30/2019	Michaela	blue	red	N/A	"mushy, falling apart, guts"												
+41	spring silversides SA2	7/30/2019	Rachel	blue	teal	N/A	N/A	7/30/2019	Michaela	blue	red	N/A	N/A												
+42	spring silversides SA3	8/5/2019	"Rachel, Michaela"	"black, blue"	"turquoise, white"	N/A	N/A	8/5/2019	Michaela	black	turquoise	N/A	N/A												
+53	fall red drum AR1	8/5/2019	Rachel	blue	white	N/A	N/A	8/5/2019	"Michaela, Kaylee"	black	"teal, gray"	N/A	N/A												
+54	"fall red drum AR2, atlantic croaker AR3"	8/5/2019	Rachel	blue	white	N/A	"croaker very small, unsure about gut extraction"	8/5/2019	Michaela	black	teal	N/A	Kaylee in room												
+55	fall red drum AR3	8/5/2019	Rachel	blue	white	N/A	N/A	8/5/2019	Michaela	black	teal	N/A	"Kaylee in room, Rachel in room"												
+56	"fall spot BF1, fall atlantic croaker MG1"	9/4/2019	Cindy	black	orange	N/A	dissection under microscope in microscope room	9/5/2019	Michaela	blue	black	N/A	N/A												
+57	fall spotted seatrout and spot BF2 	9/4/2019	"Kaylee, Cindy"	"black, blue"	"orange, gray"	N/A	"1-5 dissected under hood, 6-8 dissection in microscope room"	9/5/2019	Michaela	blue	black	N/A	N/A												
+58	fall spot BF3	9/4/2019	Cindy	black	orange	N/A	dissection conducted in microscope room	9/5/2019	Michaela	blue	black	N/A	N/A												
+59	fall red drum MG1	9/10/2019	"Gray, Angel"	"gray, black"	"black, white"	N/A	N/A	9/12/2019	"Michaela, Kaylee"	blue	"black, gray"	black	N/A												
+60	fall atlantic croaker MG2	9/11/2019	Cindy	blue	turquoise	N/A	N/A	9/12/2019	"Michaela, Kaylee"	blue	"black, gray"	black	N/A												
+61	fall seatrout and red drum MG2	9/11/2019	Cindy	blue	turquoise	N/A	N/A	9/12/2019	"Michaela, Kaylee"	blue	"black, gray"	black	N/A												
+62	fall atlantic croaker and red drum MG3	9/11/2019	Cindy	blue	turquoise	N/A	N/A	9/12/2019	Michaela	blue	black	N/A	N/A												
+63	fall atlantic croaker SA1	9/18/2019	Kaylee	blue	gray	N/A	"not under hood, used dissecting scope"	9/19/2019	Michaela	blue	gray	N/A	N/A												
+64	fall atlantic croaker and red drum SA2	9/18/2019	Kaylee	blue	gray	N/A	not under hood	9/19/2019	Michaela	blue	gray	N/A	very goopy/mushy												
+65	fall atlantic croaker and red drum SA3	9/19/2019	"Cindy, Michaela"	blue	"gray, blue"	N/A	N/A	9/26/2019	"Michaela, Kaylee"	black	"blue, gray"	black	N/A												
+66	winter spot AR1	9/19/2019	Cindy	blue	blue	N/A	N/A	10/3/2019	Michaela	blue	black	N/A	N/A												
+67	winter atlantic croaker and red drum AR1	9/19/2019	Cindy	blue	blue	N/A	N/A	10/3/2019	Michaela	blue	black	N/A	N/A												
+68	winter atlantic croaker AR2	9/24/2019	"Angel, Gray"	"black, blue"	"red, maroon"	N/A	"dissected at bench, not in hood"	10/3/2019	Michaela	blue	black	N/A	N/A												
+69	"winter seatrout/spot AR3, atlantic croaker/red drum AR3"	9/24/2019	"Angel, Gray"	"blue, black"	"red, maroon"	N/A	"dissected at bench, not in hood"	10/3/2019	Michaela	blue	black	N/A	N/A												
+70	winter spot AR3	10/16/2019	Cindy	blue	blue	N/A	N/A	10/24/2019	Michaela	blue	gray	N/A	N/A												
+71	winter spot BF1	10/16/2019	Cindy	blue	blue	N/A	N/A	10/24/2019	Michaela	blue	gray	N/A	N/A												
+72	winter spot and black drum BF3	10/24/2019	"Michaela, Cindy"	blue	"gray, blue"	N/A	N/A	10/24/2019	Michaela	blue	gray	N/A	N/A												
+73	winter atlantic croaker SA1	10/24/2019	Cindy	blue	blue	N/A	N/A	11/14/2019	"Michaela, Kaylee"	"blue, black"	"blue, gray"	"black, gray"	N/A												
+74	winter atlantic croaker SA2 and SA3	10/24/2019	Cindy	blue	blue	N/A	N/A	11/14/2019	Michaela	black	gray	N/A	N/A												
+75	winter spot SA3	12/4/2019	Kaylee	blue	gray	N/A	N/A	12/5/2019	Michaela	black	blue	N/A	N/A												
+76	winter seatrout MG2 and atlantic croaker MG3	12/5/2019	Cindy	black	blue	white	N/A	12/5/2019	Michaela	black	blue	N/A	N/A												
+77	winter spot MG3	12/4/2019	Cindy	black	blue	white	"1 -croaker, 2-8 - came out of silver percha labelled bag"	12/5/2019	Michaela	black	blue	N/A	N/A												
+78	spring sciaenids AR1 and AR2	12/4/2019	Cindy	black	blue	white	N/A	12/5/2019	Michaela	black	blue	N/A	N/A												
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									

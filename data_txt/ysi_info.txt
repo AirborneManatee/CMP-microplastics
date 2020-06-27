@@ -1,0 +1,59 @@
+bay	site	season	ysi_loc	wat_temp	pressure	DO_sat	DO_per	spc	conductivity	salinity	ph	depth	
+aransas	1	fall	nearshore surface	17.872	757.4	120.5	10.35	27053	23371	16.65	8.38	0.27	
+aransas	1	fall	offshore surface	18.26	756.7	129.2	11.04	26481	23075	16.27	8.3	0.331	
+aransas	1	fall	offshore bottom	17.83	756.7	132.6	11.41	26822	23166	16.5	8.38	1.06	
+aransas	2	fall	nearshore surface	21.306	755.4	156.8	12.57	26334	24470	16.18	8.27	0.403	
+aransas	2	fall	offshore surface	18.388	755.4	137.1	11.78	24328	21259	14.82	8.29	0.31	
+aransas	2	fall	offshore bottom	17.5	755.4	139.7	12.08	27429	23505	16.91	8.34	1.09	
+aransas	3	fall	nearshore surface	20.952	755.2	171.4	13.63	32322	29839	20.22	8.5	0.271	
+aransas	3	fall	offshore surface	18.889	755.2	121.3	9.95	33876	29908	21.29	8.22	0.283	
+aransas	3	fall	offshore bottom	18.729	755.2	124.8	10.11	36370	32200	23.22	8.26	1.098	
+baffin	1	fall	nearshore surface	13.438	767.7	88.3	7.84	40635	31658	25.98	7.83	0.3	
+baffin	1	fall	offshore surface	13.657	767.8	88.9	7.85	40563	31760	25.93	7.9	0.281	
+baffin	1	fall	offshore bottom	14.152	767.7	82.1	7.11	41843	33185	26.87	7.87	2.1	
+baffin	2	fall	nearshore surface	14.451	766.6	96.7	8.4	40742	32516	26.07	7.94	0.0276	
+baffin	2	fall	offshore surface	14.318	766.3	85.8	7.46	41179	32766	26.39	7.79	0.275	
+baffin	2	fall	offshore bottom	14.15	766.2	86.6	7.55	41286	32747	26.48	7.88	0.999	
+baffin	3	fall	nearshore surface	15.42	765.6	93.2	7.85	43799	35770	28.29	7.74	0.284	
+baffin	3	fall	offshore surface	14.799	765.6	97.8	8.33	43668	35153	28.18	7.91	0.276	
+baffin	3	fall	offshore bottom	14.089	765.5	84.3	7.23	43786	34656	28.24	7.98	1.438	
+lavaca	1	fall	nearshore surface	16.686	766.1	117.8	11.2	7834	6208	4.09	8.16	0.128	
+lavaca	1	fall	offshore surface	15.076	766	109.7	10.78	7330	5968	4.09	8.22	0.66	
+lavaca	1	fall	offshore bottom	14.28	765.9	66.1	6.08	23720	18766	4.5	7.73	1.658	
+matagorda	1	fall	nearshore surface	13.532	772.8	98.1	8.81	37500	29200	23.64	8.07	0.378	spc and conductivity approximated
+matagorda	1	fall	offshore surface	14	771.6	108.2	9.76	36000	29000	23.38	8.13	0.582	spc and conductivity approximated
+matagorda	1	fall	offshore bottom	14.447	779.6	104.9	9.22	37900	30250	24.15	8.22	2.387	spc and conductivity approximated
+matagorda	2	fall	nearshore surface	14.291	769.7	144.4	13.27	28420	22615	17.55	8.44	0.3	
+matagorda	2	fall	offshore surface	13.388	769.5	110.5	10.5	29760	23500	18.85	8.24	0.291	spc and conductivity approximated
+matagorda	2	fall	offshore bottom	13.7	769.5	97.9	8.85	35380	27566	22.22	8.24	2.49	
+matagorda	3	fall	nearshore surface	16.215	788.5	1.925	12.28	10105	8406	5.72	8.35	0.276	
+matagorda	3	fall	offshore surface	12.782	768.6	108.6	11.05	10750	8242	6.08	8.21	0.396	spc approximated
+matagorda	3	fall	offshore bottom	12.334	768.5	99.8	9.58	27838	21111	17.14	8.17	2.525	spc approximated
+san antonio	1	fall	nearshore surface	11.605	773	106.2	10.04	35104	26125	22.07	8.14	0.27	
+san antonio	1	fall	offshore surface	12.952	772.2	100.5	9.48	28951	22264	17.89	8.11	0.37	
+san antonio	1	fall	offshore bottom	11.381	772.2	110.3	10.51	34825	25719	21.88	8.28	1.74	
+san antonio	2	fall	nearshore surface	14.313	771.2	146.6	13.2	33435	26590	20.97	8.25	0.28	
+san antonio	2	fall	offshore surface	12.544	771.1	102.9	9.94	25478	19445	15.58	8.13	0.469	
+san antonio	2	fall	offshore bottom	12.554	771.2	109	10.28	30796	23577	19.2	8.25	1.6	salinity fluctuating quickly 18.9-19.2
+san antonio	3	fall	nearshore surface	17.15	766.8	85.1	8.06	3494	2967	1.84	7.93	0.577	
+san antonio	3	fall	offshort surface	15.378	766.5	79.6	7.88	2600	2120	1.35	7.88	0.53	
+san antonio	3	fall	offshore bottom	15.208	7.665	77.5	7.71	2630	2140	1.36	7.83	1.98	
+aransas	1	spring	nearshore surface	26.233	761.6	24.1	6.8	31910	32665	19.86	8.25	0.22	
+aransas	1	spring	offshore surface	26.067	761.6	96.7	7.02	31861	32470	19.82	8.2	0.363	
+aransas	1	spring	offshore bottom	25.747	761.5	90.3	6.58	31829	32282	19.81	8.24	2.073	
+aransas	2	spring	nearshore surface	26.605	761.5	125.2	9.04	30397	31329	18.82	8.28	0.372	
+aransas	2	spring	offshore surface	25.799	761.4	98.2	7.2	30373	30875	18.82	8.22	0.44	
+aransas	2	spring	offshore bottom	25.407	761.2	91.3	6.7	30787	39038	19.12	8.27	2.414	
+aransas	3	spring	nearshore surface	28.433	760.8	166	11.65	29845	31862	18.4	8.7	0.34	
+aransas	3	spring 	offshore surface	25.962	760.7	106.7	7.87	29655	30191	18.32	8.21	0.338	
+aransas	3	spring	offshore bottom	25.902	760.5	105.7	7.77	29656	30174	18.32	8.26	1.753	
+baffin	1	spring	nearshore surface	29.79	756.3	127.8	8.36	42080	45893	26.87	8.36	0.1	
+baffin	1	spring	offshore surface	28.91	756.7	107	6.97	46593	50078	30.15	7.88	0.31	
+baffin	1	spring	offshore bottom	28.895	756.7	106.6	6.93	46593	50053	30.15	7.91	1.458	
+baffin	2	spring	nearshore surface	28.497	757.4	112	7.29	48311	51530	31.41	7.89	0.315	
+baffin	2	spring	offshore surface	28.126	757.4	99.1	6.51	48126	50999	31.24	7.89	0.3	
+baffin	2	spring	offshore bottom	28.069	757.4	96.9	6.4	48126	50960	31.29	7.9	1.7	
+baffin	3	spring	nearshore surface	30.318	755.7	147	9.39	46480	51225	30.03	8.15	0.295	
+baffin	3	spring	offshore surface	29.01	756.8	118.4	7.72	46337	49890	29.96	8	0.37	
+baffin	3	spring	offshore bottom	28.99	756.8	117.5	7.66	46333	49868	29.96	8	1.838	
+lavaca	1												

@@ -1,0 +1,22 @@
+ctrl_batch	ctrl_id	ctrl_desc	ctrl_ notes	ctrl_shirt	ctrl_batch_desc	ctrl_batch_ notes
+1	G.CTRL.HD.1	"hood back left (halfway back in the hood, two inches from the left wall "	"rainbow pattern on shirt, white pattern on pants, purple rope bracelet and trans pride flag on wrist, purple nitrile gloves"	gray	"hood control; 1-6 left open under the hood with the hood open, 7 left closed under hood with hood open; left for one hour 1-2pm"	"rainbow pattern on shirt, white pattern on pants, purple rope bracelet and trans pride flag on wrist, purple nitrile gloves"
+1	G.CTRL.HD.2	"hood back center (halfway back in the hood, equidistant from each hood wall)"		gray	"hood control; 1-6 left open under the hood with the hood open, 7 left closed under hood with hood open; left for one hour 1-2pm"	"rainbow pattern on shirt, white pattern on pants, purple rope bracelet and trans pride flag on wrist, purple nitrile gloves"
+1	G.CTRL.HD.3	"hood back right (halfway back in the hood, two inches from the right wall)"		gray	"hood control; 1-6 left open under the hood with the hood open, 7 left closed under hood with hood open; left for one hour 1-2pm"	"rainbow pattern on shirt, white pattern on pants, purple rope bracelet and trans pride flag on wrist, purple nitrile gloves"
+1	G.CTRL.HD.4	"hood front left (just inside hood grate, two inches from left wall)"		gray	"hood control; 1-6 left open under the hood with the hood open, 7 left closed under hood with hood open; left for one hour 1-2pm"	"rainbow pattern on shirt, white pattern on pants, purple rope bracelet and trans pride flag on wrist, purple nitrile gloves"
+1	G.CTRL.HD.5	"hood front center (just inside hood grate, equidistant from each wall)"		gray	"hood control; 1-6 left open under the hood with the hood open, 7 left closed under hood with hood open; left for one hour 1-2pm"	"rainbow pattern on shirt, white pattern on pants, purple rope bracelet and trans pride flag on wrist, purple nitrile gloves"
+1	G.CTRL.HD.6	"hood front right (just inside hood grate, two inches from right wall)"		gray	"hood control; 1-6 left open under the hood with the hood open, 7 left closed under hood with hood open; left for one hour 1-2pm"	"rainbow pattern on shirt, white pattern on pants, purple rope bracelet and trans pride flag on wrist, purple nitrile gloves"
+1	G.CTRL.HD.7	hood center (equidistance between back center and front center)		gray	"hood control; 1-6 left open under the hood with the hood open, 7 left closed under hood with hood open; left for one hour 1-2pm"	"rainbow pattern on shirt, white pattern on pants, purple rope bracelet and trans pride flag on wrist, purple nitrile gloves"
+2	G.CTRL.LB.01	lab control			lab control	
+2	G.CTRL.LB.02	lab control			lab control	
+2	G.CTRL.LB.03	lab control			lab control	
+2	G.CTRL.LB.04	lab control			lab control	
+2	G.CTRL.LB.05	lab control			lab control	
+2	G.CTRL.LB.06	lab control			lab control	
+2	G.CTRL.LB.07	lab control			lab control	
+2	G.CTRL.LB.08	lab control			lab control	
+4	G.CTRL.HD.08	hood control			hood control	
+4	G.CTRL.HD.09	hood control			hood control	
+4	G.CTRL.HD.10	hood control			hood control	
+4	G.CTRL.HD.11	hood control			hood control	
+4	G.CTRL.HD.12	hood control			hood control	
+4	G.CTRL.HD.13	hood control			hood control	
